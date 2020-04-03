@@ -1,5 +1,5 @@
 
-# google-mobility-scrape-UK
+# google-covid-mobility-scrape
 
 <!-- badges: start -->
 <!-- badges: end -->
