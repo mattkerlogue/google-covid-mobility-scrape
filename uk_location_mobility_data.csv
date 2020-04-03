@@ -1,0 +1,901 @@
+﻿date,country,location,entity,value
+2020-03-29,GB,Aberdeen City,retail_recr,-0.86
+2020-03-29,GB,Aberdeen City,grocery_pharm,-0.41
+2020-03-29,GB,Aberdeen City,parks,-0.46
+2020-03-29,GB,Aberdeen City,transit,-0.73
+2020-03-29,GB,Aberdeen City,workplace,-0.58
+2020-03-29,GB,Aberdeen City,residential,0.3
+2020-03-29,GB,Aberdeenshire,retail_recr,-0.8
+2020-03-29,GB,Aberdeenshire,grocery_pharm,-0.46
+2020-03-29,GB,Aberdeenshire,parks,-0.45
+2020-03-29,GB,Aberdeenshire,transit,-0.58
+2020-03-29,GB,Aberdeenshire,workplace,-0.52
+2020-03-29,GB,Aberdeenshire,residential,0.27
+2020-03-29,GB,Angus council,retail_recr,-0.8
+2020-03-29,GB,Angus council,grocery_pharm,-0.44
+2020-03-29,GB,Angus council,parks,-0.28
+2020-03-29,GB,Angus council,transit,-0.51
+2020-03-29,GB,Angus council,workplace,-0.48
+2020-03-29,GB,Angus council,residential,0.2
+2020-03-29,GB,Antrim and Newtownabbey,retail_recr,-0.81
+2020-03-29,GB,Antrim and Newtownabbey,grocery_pharm,-0.46
+2020-03-29,GB,Antrim and Newtownabbey,parks,-0.61
+2020-03-29,GB,Antrim and Newtownabbey,transit,-0.89
+2020-03-29,GB,Antrim and Newtownabbey,workplace,-0.52
+2020-03-29,GB,Antrim and Newtownabbey,residential,0.29
+2020-03-29,GB,Ards and North Down,retail_recr,-0.78
+2020-03-29,GB,Ards and North Down,grocery_pharm,-0.39
+2020-03-29,GB,Ards and North Down,parks,-0.57
+2020-03-29,GB,Ards and North Down,transit,-0.57
+2020-03-29,GB,Ards and North Down,workplace,-0.56
+2020-03-29,GB,Ards and North Down,residential,0.28
+2020-03-29,GB,Argyll and Bute Council,retail_recr,-0.88
+2020-03-29,GB,Argyll and Bute Council,grocery_pharm,-0.45
+2020-03-29,GB,Argyll and Bute Council,parks,-0.34
+2020-03-29,GB,Argyll and Bute Council,transit,-0.57
+2020-03-29,GB,Argyll and Bute Council,workplace,-0.52
+2020-03-29,GB,Argyll and Bute Council,residential,0.08
+2020-03-29,GB,Armagh City and Banbridge and Craigavon,retail_recr,-0.82
+2020-03-29,GB,Armagh City and Banbridge and Craigavon,grocery_pharm,-0.45
+2020-03-29,GB,Armagh City and Banbridge and Craigavon,parks,-0.66
+2020-03-29,GB,Armagh City and Banbridge and Craigavon,transit,-0.65
+2020-03-29,GB,Armagh City and Banbridge and Craigavon,workplace,-0.47
+2020-03-29,GB,Armagh City and Banbridge and Craigavon,residential,0.27
+2020-03-29,GB,Bath and North East Somerset,retail_recr,-0.91
+2020-03-29,GB,Bath and North East Somerset,grocery_pharm,-0.48
+2020-03-29,GB,Bath and North East Somerset,parks,-0.54
+2020-03-29,GB,Bath and North East Somerset,transit,-0.75
+2020-03-29,GB,Bath and North East Somerset,workplace,-0.66
+2020-03-29,GB,Bath and North East Somerset,residential,0.3
+2020-03-29,GB,Bedford,retail_recr,-0.86
+2020-03-29,GB,Bedford,grocery_pharm,-0.47
+2020-03-29,GB,Bedford,parks,-0.51
+2020-03-29,GB,Bedford,transit,-0.72
+2020-03-29,GB,Bedford,workplace,-0.49
+2020-03-29,GB,Bedford,residential,0.28
+2020-03-29,GB,Belfast,retail_recr,-0.85
+2020-03-29,GB,Belfast,grocery_pharm,-0.42
+2020-03-29,GB,Belfast,parks,-0.47
+2020-03-29,GB,Belfast,transit,-0.76
+2020-03-29,GB,Belfast,workplace,-0.59
+2020-03-29,GB,Belfast,residential,0.17
+2020-03-29,GB,Blackburn with Darwen,retail_recr,-0.85
+2020-03-29,GB,Blackburn with Darwen,grocery_pharm,-0.42
+2020-03-29,GB,Blackburn with Darwen,parks,NA
+2020-03-29,GB,Blackburn with Darwen,transit,-0.71
+2020-03-29,GB,Blackburn with Darwen,workplace,-0.5
+2020-03-29,GB,Blackburn with Darwen,residential,0.25
+2020-03-29,GB,Blackpool,retail_recr,-0.88
+2020-03-29,GB,Blackpool,grocery_pharm,-0.43
+2020-03-29,GB,Blackpool,parks,-0.64
+2020-03-29,GB,Blackpool,transit,-0.65
+2020-03-29,GB,Blackpool,workplace,-0.54
+2020-03-29,GB,Blackpool,residential,0.22
+2020-03-29,GB,Blaenau Gwent,retail_recr,-0.75
+2020-03-29,GB,Blaenau Gwent,grocery_pharm,-0.46
+2020-03-29,GB,Blaenau Gwent,parks,NA
+2020-03-29,GB,Blaenau Gwent,transit,-0.57
+2020-03-29,GB,Blaenau Gwent,workplace,-0.46
+2020-03-29,GB,Blaenau Gwent,residential,0.12
+2020-03-29,GB,Borough of Halton,retail_recr,-0.78
+2020-03-29,GB,Borough of Halton,grocery_pharm,-0.43
+2020-03-29,GB,Borough of Halton,parks,-0.46
+2020-03-29,GB,Borough of Halton,transit,-0.6
+2020-03-29,GB,Borough of Halton,workplace,-0.48
+2020-03-29,GB,Borough of Halton,residential,0.25
+2020-03-29,GB,Bracknell Forest,retail_recr,-0.83
+2020-03-29,GB,Bracknell Forest,grocery_pharm,-0.41
+2020-03-29,GB,Bracknell Forest,parks,-0.56
+2020-03-29,GB,Bracknell Forest,transit,-0.69
+2020-03-29,GB,Bracknell Forest,workplace,-0.58
+2020-03-29,GB,Bracknell Forest,residential,0.31
+2020-03-29,GB,Bridgend County Borough,retail_recr,-0.85
+2020-03-29,GB,Bridgend County Borough,grocery_pharm,-0.43
+2020-03-29,GB,Bridgend County Borough,parks,-0.48
+2020-03-29,GB,Bridgend County Borough,transit,-0.59
+2020-03-29,GB,Bridgend County Borough,workplace,-0.5
+2020-03-29,GB,Bridgend County Borough,residential,0.25
+2020-03-29,GB,Brighton and Hove,retail_recr,-0.89
+2020-03-29,GB,Brighton and Hove,grocery_pharm,-0.48
+2020-03-29,GB,Brighton and Hove,parks,-0.59
+2020-03-29,GB,Brighton and Hove,transit,-0.77
+2020-03-29,GB,Brighton and Hove,workplace,-0.64
+2020-03-29,GB,Brighton and Hove,residential,0.3
+2020-03-29,GB,Buckinghamshire,retail_recr,-0.85
+2020-03-29,GB,Buckinghamshire,grocery_pharm,-0.45
+2020-03-29,GB,Buckinghamshire,parks,-0.43
+2020-03-29,GB,Buckinghamshire,transit,-0.74
+2020-03-29,GB,Buckinghamshire,workplace,-0.57
+2020-03-29,GB,Buckinghamshire,residential,0.16
+2020-03-29,GB,Caerphilly County Borough,retail_recr,-0.78
+2020-03-29,GB,Caerphilly County Borough,grocery_pharm,-0.41
+2020-03-29,GB,Caerphilly County Borough,parks,-0.52
+2020-03-29,GB,Caerphilly County Borough,transit,-0.54
+2020-03-29,GB,Caerphilly County Borough,workplace,-0.47
+2020-03-29,GB,Caerphilly County Borough,residential,0.25
+2020-03-29,GB,Cambridgeshire,retail_recr,-0.87
+2020-03-29,GB,Cambridgeshire,grocery_pharm,-0.48
+2020-03-29,GB,Cambridgeshire,parks,-0.51
+2020-03-29,GB,Cambridgeshire,transit,-0.79
+2020-03-29,GB,Cambridgeshire,workplace,-0.54
+2020-03-29,GB,Cambridgeshire,residential,0.16
+2020-03-29,GB,Cardiff,retail_recr,-0.86
+2020-03-29,GB,Cardiff,grocery_pharm,-0.45
+2020-03-29,GB,Cardiff,parks,-0.48
+2020-03-29,GB,Cardiff,transit,-0.79
+2020-03-29,GB,Cardiff,workplace,-0.59
+2020-03-29,GB,Cardiff,residential,0.17
+2020-03-29,GB,Carmarthenshire,retail_recr,-0.81
+2020-03-29,GB,Carmarthenshire,grocery_pharm,-0.46
+2020-03-29,GB,Carmarthenshire,parks,-0.57
+2020-03-29,GB,Carmarthenshire,transit,-0.6
+2020-03-29,GB,Carmarthenshire,workplace,-0.49
+2020-03-29,GB,Carmarthenshire,residential,0.24
+2020-03-29,GB,Causeway Coast and Glens,retail_recr,-0.87
+2020-03-29,GB,Causeway Coast and Glens,grocery_pharm,-0.41
+2020-03-29,GB,Causeway Coast and Glens,parks,-0.66
+2020-03-29,GB,Causeway Coast and Glens,transit,-0.64
+2020-03-29,GB,Causeway Coast and Glens,workplace,-0.55
+2020-03-29,GB,Causeway Coast and Glens,residential,0.26
+2020-03-29,GB,Central Bedfordshire,retail_recr,-0.82
+2020-03-29,GB,Central Bedfordshire,grocery_pharm,-0.45
+2020-03-29,GB,Central Bedfordshire,parks,-0.41
+2020-03-29,GB,Central Bedfordshire,transit,-0.74
+2020-03-29,GB,Central Bedfordshire,workplace,-0.54
+2020-03-29,GB,Central Bedfordshire,residential,0.2
+2020-03-29,GB,Ceredigion,retail_recr,-0.84
+2020-03-29,GB,Ceredigion,grocery_pharm,-0.54
+2020-03-29,GB,Ceredigion,parks,-0.6
+2020-03-29,GB,Ceredigion,transit,-0.69
+2020-03-29,GB,Ceredigion,workplace,-0.57
+2020-03-29,GB,Ceredigion,residential,0.06
+2020-03-29,GB,Cheshire East,retail_recr,-0.84
+2020-03-29,GB,Cheshire East,grocery_pharm,-0.47
+2020-03-29,GB,Cheshire East,parks,-0.63
+2020-03-29,GB,Cheshire East,transit,-0.75
+2020-03-29,GB,Cheshire East,workplace,-0.53
+2020-03-29,GB,Cheshire East,residential,0.15
+2020-03-29,GB,Cheshire West and Chester,retail_recr,-0.88
+2020-03-29,GB,Cheshire West and Chester,grocery_pharm,-0.47
+2020-03-29,GB,Cheshire West and Chester,parks,-0.58
+2020-03-29,GB,Cheshire West and Chester,transit,-0.77
+2020-03-29,GB,Cheshire West and Chester,workplace,-0.55
+2020-03-29,GB,Cheshire West and Chester,residential,0.15
+2020-03-29,GB,City of Bristol,retail_recr,-0.87
+2020-03-29,GB,City of Bristol,grocery_pharm,-0.47
+2020-03-29,GB,City of Bristol,parks,-0.25
+2020-03-29,GB,City of Bristol,transit,-0.81
+2020-03-29,GB,City of Bristol,workplace,-0.57
+2020-03-29,GB,City of Bristol,residential,0.18
+2020-03-29,GB,Clackmannanshire,retail_recr,-0.89
+2020-03-29,GB,Clackmannanshire,grocery_pharm,-0.39
+2020-03-29,GB,Clackmannanshire,parks,NA
+2020-03-29,GB,Clackmannanshire,transit,-0.53
+2020-03-29,GB,Clackmannanshire,workplace,-0.49
+2020-03-29,GB,Clackmannanshire,residential,0.06
+2020-03-29,GB,Conwy Principal Area,retail_recr,-0.86
+2020-03-29,GB,Conwy Principal Area,grocery_pharm,-0.48
+2020-03-29,GB,Conwy Principal Area,parks,-0.7
+2020-03-29,GB,Conwy Principal Area,transit,-0.63
+2020-03-29,GB,Conwy Principal Area,workplace,-0.58
+2020-03-29,GB,Conwy Principal Area,residential,0.22
+2020-03-29,GB,Cornwall,retail_recr,-0.85
+2020-03-29,GB,Cornwall,grocery_pharm,-0.53
+2020-03-29,GB,Cornwall,parks,-0.54
+2020-03-29,GB,Cornwall,transit,-0.66
+2020-03-29,GB,Cornwall,workplace,-0.56
+2020-03-29,GB,Cornwall,residential,0.14
+2020-03-29,GB,County Durham,retail_recr,-0.83
+2020-03-29,GB,County Durham,grocery_pharm,-0.42
+2020-03-29,GB,County Durham,parks,-0.56
+2020-03-29,GB,County Durham,transit,-0.68
+2020-03-29,GB,County Durham,workplace,-0.55
+2020-03-29,GB,County Durham,residential,0.14
+2020-03-29,GB,Cumbria,retail_recr,-0.84
+2020-03-29,GB,Cumbria,grocery_pharm,-0.5
+2020-03-29,GB,Cumbria,parks,-0.54
+2020-03-29,GB,Cumbria,transit,-0.73
+2020-03-29,GB,Cumbria,workplace,-0.58
+2020-03-29,GB,Cumbria,residential,0.15
+2020-03-29,GB,Darlington,retail_recr,-0.86
+2020-03-29,GB,Darlington,grocery_pharm,-0.47
+2020-03-29,GB,Darlington,parks,-0.57
+2020-03-29,GB,Darlington,transit,-0.75
+2020-03-29,GB,Darlington,workplace,-0.51
+2020-03-29,GB,Darlington,residential,0.26
+2020-03-29,GB,Denbighshire,retail_recr,-0.84
+2020-03-29,GB,Denbighshire,grocery_pharm,-0.43
+2020-03-29,GB,Denbighshire,parks,-0.59
+2020-03-29,GB,Denbighshire,transit,-0.7
+2020-03-29,GB,Denbighshire,workplace,-0.52
+2020-03-29,GB,Denbighshire,residential,0.14
+2020-03-29,GB,Derby,retail_recr,-0.85
+2020-03-29,GB,Derby,grocery_pharm,-0.46
+2020-03-29,GB,Derby,parks,-0.55
+2020-03-29,GB,Derby,transit,-0.81
+2020-03-29,GB,Derby,workplace,-0.55
+2020-03-29,GB,Derby,residential,0.19
+2020-03-29,GB,Derbyshire,retail_recr,-0.86
+2020-03-29,GB,Derbyshire,grocery_pharm,-0.43
+2020-03-29,GB,Derbyshire,parks,-0.55
+2020-03-29,GB,Derbyshire,transit,-0.66
+2020-03-29,GB,Derbyshire,workplace,-0.55
+2020-03-29,GB,Derbyshire,residential,0.15
+2020-03-29,GB,Derry and Strabane,retail_recr,-0.8
+2020-03-29,GB,Derry and Strabane,grocery_pharm,-0.39
+2020-03-29,GB,Derry and Strabane,parks,-0.63
+2020-03-29,GB,Derry and Strabane,transit,-0.6
+2020-03-29,GB,Derry and Strabane,workplace,-0.54
+2020-03-29,GB,Derry and Strabane,residential,0.25
+2020-03-29,GB,Devon,retail_recr,-0.87
+2020-03-29,GB,Devon,grocery_pharm,-0.51
+2020-03-29,GB,Devon,parks,-0.54
+2020-03-29,GB,Devon,transit,-0.73
+2020-03-29,GB,Devon,workplace,-0.54
+2020-03-29,GB,Devon,residential,0.15
+2020-03-29,GB,Dorset,retail_recr,-0.87
+2020-03-29,GB,Dorset,grocery_pharm,-0.47
+2020-03-29,GB,Dorset,parks,-0.57
+2020-03-29,GB,Dorset,transit,-0.7
+2020-03-29,GB,Dorset,workplace,-0.57
+2020-03-29,GB,Dorset,residential,0.15
+2020-03-29,GB,Dumfries and Galloway,retail_recr,-0.8
+2020-03-29,GB,Dumfries and Galloway,grocery_pharm,-0.42
+2020-03-29,GB,Dumfries and Galloway,parks,-0.48
+2020-03-29,GB,Dumfries and Galloway,transit,-0.75
+2020-03-29,GB,Dumfries and Galloway,workplace,-0.49
+2020-03-29,GB,Dumfries and Galloway,residential,0.22
+2020-03-29,GB,Dundee City Council,retail_recr,-0.83
+2020-03-29,GB,Dundee City Council,grocery_pharm,-0.52
+2020-03-29,GB,Dundee City Council,parks,-0.1
+2020-03-29,GB,Dundee City Council,transit,-0.71
+2020-03-29,GB,Dundee City Council,workplace,-0.56
+2020-03-29,GB,Dundee City Council,residential,0.26
+2020-03-29,GB,East Ayrshire Council,retail_recr,-0.83
+2020-03-29,GB,East Ayrshire Council,grocery_pharm,-0.39
+2020-03-29,GB,East Ayrshire Council,parks,NA
+2020-03-29,GB,East Ayrshire Council,transit,-0.55
+2020-03-29,GB,East Ayrshire Council,workplace,-0.51
+2020-03-29,GB,East Ayrshire Council,residential,0.26
+2020-03-29,GB,East Dunbartonshire Council,retail_recr,-0.75
+2020-03-29,GB,East Dunbartonshire Council,grocery_pharm,-0.35
+2020-03-29,GB,East Dunbartonshire Council,parks,NA
+2020-03-29,GB,East Dunbartonshire Council,transit,-0.54
+2020-03-29,GB,East Dunbartonshire Council,workplace,-0.56
+2020-03-29,GB,East Dunbartonshire Council,residential,0.19
+2020-03-29,GB,East Lothian Council,retail_recr,-0.81
+2020-03-29,GB,East Lothian Council,grocery_pharm,-0.37
+2020-03-29,GB,East Lothian Council,parks,-0.34
+2020-03-29,GB,East Lothian Council,transit,-0.57
+2020-03-29,GB,East Lothian Council,workplace,-0.56
+2020-03-29,GB,East Lothian Council,residential,0.17
+2020-03-29,GB,East Renfrewshire Council,retail_recr,-0.63
+2020-03-29,GB,East Renfrewshire Council,grocery_pharm,-0.29
+2020-03-29,GB,East Renfrewshire Council,parks,-0.54
+2020-03-29,GB,East Renfrewshire Council,transit,-0.51
+2020-03-29,GB,East Renfrewshire Council,workplace,-0.56
+2020-03-29,GB,East Renfrewshire Council,residential,0.19
+2020-03-29,GB,East Riding of Yorkshire,retail_recr,-0.85
+2020-03-29,GB,East Riding of Yorkshire,grocery_pharm,-0.45
+2020-03-29,GB,East Riding of Yorkshire,parks,-0.61
+2020-03-29,GB,East Riding of Yorkshire,transit,-0.51
+2020-03-29,GB,East Riding of Yorkshire,workplace,-0.52
+2020-03-29,GB,East Riding of Yorkshire,residential,0.14
+2020-03-29,GB,East Sussex,retail_recr,-0.87
+2020-03-29,GB,East Sussex,grocery_pharm,-0.46
+2020-03-29,GB,East Sussex,parks,-0.6
+2020-03-29,GB,East Sussex,transit,-0.68
+2020-03-29,GB,East Sussex,workplace,-0.57
+2020-03-29,GB,East Sussex,residential,0.14
+2020-03-29,GB,Edinburgh,retail_recr,-0.86
+2020-03-29,GB,Edinburgh,grocery_pharm,-0.44
+2020-03-29,GB,Edinburgh,parks,-0.42
+2020-03-29,GB,Edinburgh,transit,-0.83
+2020-03-29,GB,Edinburgh,workplace,-0.67
+2020-03-29,GB,Edinburgh,residential,0.18
+2020-03-29,GB,Essex,retail_recr,-0.84
+2020-03-29,GB,Essex,grocery_pharm,-0.49
+2020-03-29,GB,Essex,parks,-0.58
+2020-03-29,GB,Essex,transit,-0.85
+2020-03-29,GB,Essex,workplace,-0.56
+2020-03-29,GB,Essex,residential,0.16
+2020-03-29,GB,Falkirk,retail_recr,-0.78
+2020-03-29,GB,Falkirk,grocery_pharm,-0.38
+2020-03-29,GB,Falkirk,parks,-0.26
+2020-03-29,GB,Falkirk,transit,-0.56
+2020-03-29,GB,Falkirk,workplace,-0.47
+2020-03-29,GB,Falkirk,residential,0.27
+2020-03-29,GB,Fermanagh and Omagh,retail_recr,-0.86
+2020-03-29,GB,Fermanagh and Omagh,grocery_pharm,-0.47
+2020-03-29,GB,Fermanagh and Omagh,parks,-0.55
+2020-03-29,GB,Fermanagh and Omagh,transit,-0.54
+2020-03-29,GB,Fermanagh and Omagh,workplace,-0.52
+2020-03-29,GB,Fermanagh and Omagh,residential,0.27
+2020-03-29,GB,Fife,retail_recr,-0.79
+2020-03-29,GB,Fife,grocery_pharm,-0.38
+2020-03-29,GB,Fife,parks,-0.32
+2020-03-29,GB,Fife,transit,-0.56
+2020-03-29,GB,Fife,workplace,-0.51
+2020-03-29,GB,Fife,residential,0.14
+2020-03-29,GB,Flintshire,retail_recr,-0.8
+2020-03-29,GB,Flintshire,grocery_pharm,-0.44
+2020-03-29,GB,Flintshire,parks,-0.48
+2020-03-29,GB,Flintshire,transit,-0.6
+2020-03-29,GB,Flintshire,workplace,-0.54
+2020-03-29,GB,Flintshire,residential,0.26
+2020-03-29,GB,Glasgow City,retail_recr,-0.84
+2020-03-29,GB,Glasgow City,grocery_pharm,-0.44
+2020-03-29,GB,Glasgow City,parks,-0.37
+2020-03-29,GB,Glasgow City,transit,-0.81
+2020-03-29,GB,Glasgow City,workplace,-0.6
+2020-03-29,GB,Glasgow City,residential,0.16
+2020-03-29,GB,Gloucestershire,retail_recr,-0.86
+2020-03-29,GB,Gloucestershire,grocery_pharm,-0.48
+2020-03-29,GB,Gloucestershire,parks,-0.49
+2020-03-29,GB,Gloucestershire,transit,-0.73
+2020-03-29,GB,Gloucestershire,workplace,-0.55
+2020-03-29,GB,Gloucestershire,residential,0.15
+2020-03-29,GB,Greater London,retail_recr,-0.87
+2020-03-29,GB,Greater London,grocery_pharm,-0.48
+2020-03-29,GB,Greater London,parks,-0.59
+2020-03-29,GB,Greater London,transit,-0.8
+2020-03-29,GB,Greater London,workplace,-0.62
+2020-03-29,GB,Greater London,residential,0.19
+2020-03-29,GB,Greater Manchester,retail_recr,-0.84
+2020-03-29,GB,Greater Manchester,grocery_pharm,-0.46
+2020-03-29,GB,Greater Manchester,parks,-0.44
+2020-03-29,GB,Greater Manchester,transit,-0.8
+2020-03-29,GB,Greater Manchester,workplace,-0.54
+2020-03-29,GB,Greater Manchester,residential,0.16
+2020-03-29,GB,Gwynedd,retail_recr,-0.87
+2020-03-29,GB,Gwynedd,grocery_pharm,-0.55
+2020-03-29,GB,Gwynedd,parks,-0.62
+2020-03-29,GB,Gwynedd,transit,-0.65
+2020-03-29,GB,Gwynedd,workplace,-0.56
+2020-03-29,GB,Gwynedd,residential,0.18
+2020-03-29,GB,Hampshire,retail_recr,-0.85
+2020-03-29,GB,Hampshire,grocery_pharm,-0.45
+2020-03-29,GB,Hampshire,parks,-0.48
+2020-03-29,GB,Hampshire,transit,-0.74
+2020-03-29,GB,Hampshire,workplace,-0.54
+2020-03-29,GB,Hampshire,residential,0.15
+2020-03-29,GB,Hartlepool,retail_recr,-0.86
+2020-03-29,GB,Hartlepool,grocery_pharm,-0.44
+2020-03-29,GB,Hartlepool,parks,-0.64
+2020-03-29,GB,Hartlepool,transit,-0.7
+2020-03-29,GB,Hartlepool,workplace,-0.51
+2020-03-29,GB,Hartlepool,residential,0.19
+2020-03-29,GB,Herefordshire,retail_recr,-0.86
+2020-03-29,GB,Herefordshire,grocery_pharm,-0.5
+2020-03-29,GB,Herefordshire,parks,-0.42
+2020-03-29,GB,Herefordshire,transit,-0.64
+2020-03-29,GB,Herefordshire,workplace,-0.46
+2020-03-29,GB,Herefordshire,residential,0.24
+2020-03-29,GB,Hertfordshire,retail_recr,-0.85
+2020-03-29,GB,Hertfordshire,grocery_pharm,-0.47
+2020-03-29,GB,Hertfordshire,parks,-0.46
+2020-03-29,GB,Hertfordshire,transit,-0.73
+2020-03-29,GB,Hertfordshire,workplace,-0.56
+2020-03-29,GB,Hertfordshire,residential,0.16
+2020-03-29,GB,Highland Council,retail_recr,-0.83
+2020-03-29,GB,Highland Council,grocery_pharm,-0.47
+2020-03-29,GB,Highland Council,parks,-0.48
+2020-03-29,GB,Highland Council,transit,-0.7
+2020-03-29,GB,Highland Council,workplace,-0.53
+2020-03-29,GB,Highland Council,residential,0.24
+2020-03-29,GB,Inverclyde,retail_recr,-0.83
+2020-03-29,GB,Inverclyde,grocery_pharm,-0.37
+2020-03-29,GB,Inverclyde,parks,NA
+2020-03-29,GB,Inverclyde,transit,-0.58
+2020-03-29,GB,Inverclyde,workplace,-0.52
+2020-03-29,GB,Inverclyde,residential,0.15
+2020-03-29,GB,Isle of Anglesey,retail_recr,-0.84
+2020-03-29,GB,Isle of Anglesey,grocery_pharm,-0.48
+2020-03-29,GB,Isle of Anglesey,parks,-0.65
+2020-03-29,GB,Isle of Anglesey,transit,-0.63
+2020-03-29,GB,Isle of Anglesey,workplace,-0.46
+2020-03-29,GB,Isle of Anglesey,residential,0.07
+2020-03-29,GB,Isle of Wight,retail_recr,-0.88
+2020-03-29,GB,Isle of Wight,grocery_pharm,-0.47
+2020-03-29,GB,Isle of Wight,parks,-0.57
+2020-03-29,GB,Isle of Wight,transit,-0.76
+2020-03-29,GB,Isle of Wight,workplace,-0.54
+2020-03-29,GB,Isle of Wight,residential,0.22
+2020-03-29,GB,Kent,retail_recr,-0.86
+2020-03-29,GB,Kent,grocery_pharm,-0.49
+2020-03-29,GB,Kent,parks,-0.62
+2020-03-29,GB,Kent,transit,-0.68
+2020-03-29,GB,Kent,workplace,-0.53
+2020-03-29,GB,Kent,residential,0.15
+2020-03-29,GB,Kingston upon Hull,retail_recr,-0.82
+2020-03-29,GB,Kingston upon Hull,grocery_pharm,-0.45
+2020-03-29,GB,Kingston upon Hull,parks,-0.49
+2020-03-29,GB,Kingston upon Hull,transit,-0.71
+2020-03-29,GB,Kingston upon Hull,workplace,-0.51
+2020-03-29,GB,Kingston upon Hull,residential,0.14
+2020-03-29,GB,Lancashire,retail_recr,-0.84
+2020-03-29,GB,Lancashire,grocery_pharm,-0.44
+2020-03-29,GB,Lancashire,parks,-0.39
+2020-03-29,GB,Lancashire,transit,-0.71
+2020-03-29,GB,Lancashire,workplace,-0.52
+2020-03-29,GB,Lancashire,residential,0.14
+2020-03-29,GB,Leicester,retail_recr,-0.84
+2020-03-29,GB,Leicester,grocery_pharm,-0.47
+2020-03-29,GB,Leicester,parks,-0.45
+2020-03-29,GB,Leicester,transit,-0.8
+2020-03-29,GB,Leicester,workplace,-0.51
+2020-03-29,GB,Leicester,residential,0.15
+2020-03-29,GB,Leicestershire,retail_recr,-0.83
+2020-03-29,GB,Leicestershire,grocery_pharm,-0.45
+2020-03-29,GB,Leicestershire,parks,-0.54
+2020-03-29,GB,Leicestershire,transit,-0.72
+2020-03-29,GB,Leicestershire,workplace,-0.55
+2020-03-29,GB,Leicestershire,residential,0.15
+2020-03-29,GB,Lincolnshire,retail_recr,-0.84
+2020-03-29,GB,Lincolnshire,grocery_pharm,-0.45
+2020-03-29,GB,Lincolnshire,parks,-0.63
+2020-03-29,GB,Lincolnshire,transit,-0.67
+2020-03-29,GB,Lincolnshire,workplace,-0.47
+2020-03-29,GB,Lincolnshire,residential,0.13
+2020-03-29,GB,Lisburn and Castlereagh,retail_recr,-0.87
+2020-03-29,GB,Lisburn and Castlereagh,grocery_pharm,-0.45
+2020-03-29,GB,Lisburn and Castlereagh,parks,-0.79
+2020-03-29,GB,Lisburn and Castlereagh,transit,-0.61
+2020-03-29,GB,Lisburn and Castlereagh,workplace,-0.56
+2020-03-29,GB,Lisburn and Castlereagh,residential,0.3
+2020-03-29,GB,Luton,retail_recr,-0.79
+2020-03-29,GB,Luton,grocery_pharm,-0.39
+2020-03-29,GB,Luton,parks,-0.41
+2020-03-29,GB,Luton,transit,-0.9
+2020-03-29,GB,Luton,workplace,-0.49
+2020-03-29,GB,Luton,residential,0.19
+2020-03-29,GB,Medway,retail_recr,-0.85
+2020-03-29,GB,Medway,grocery_pharm,-0.4
+2020-03-29,GB,Medway,parks,-0.67
+2020-03-29,GB,Medway,transit,-0.71
+2020-03-29,GB,Medway,workplace,-0.51
+2020-03-29,GB,Medway,residential,0.15
+2020-03-29,GB,Merseyside,retail_recr,-0.83
+2020-03-29,GB,Merseyside,grocery_pharm,-0.42
+2020-03-29,GB,Merseyside,parks,-0.53
+2020-03-29,GB,Merseyside,transit,-0.74
+2020-03-29,GB,Merseyside,workplace,-0.54
+2020-03-29,GB,Merseyside,residential,0.15
+2020-03-29,GB,Merthyr Tydfil County Borough,retail_recr,-0.89
+2020-03-29,GB,Merthyr Tydfil County Borough,grocery_pharm,-0.5
+2020-03-29,GB,Merthyr Tydfil County Borough,parks,NA
+2020-03-29,GB,Merthyr Tydfil County Borough,transit,-0.54
+2020-03-29,GB,Merthyr Tydfil County Borough,workplace,-0.52
+2020-03-29,GB,Merthyr Tydfil County Borough,residential,0.08
+2020-03-29,GB,Mid and East Antrim,retail_recr,-0.81
+2020-03-29,GB,Mid and East Antrim,grocery_pharm,-0.37
+2020-03-29,GB,Mid and East Antrim,parks,-0.52
+2020-03-29,GB,Mid and East Antrim,transit,-0.56
+2020-03-29,GB,Mid and East Antrim,workplace,-0.56
+2020-03-29,GB,Mid and East Antrim,residential,0.27
+2020-03-29,GB,Mid Ulster,retail_recr,-0.81
+2020-03-29,GB,Mid Ulster,grocery_pharm,-0.43
+2020-03-29,GB,Mid Ulster,parks,NA
+2020-03-29,GB,Mid Ulster,transit,-0.51
+2020-03-29,GB,Mid Ulster,workplace,-0.42
+2020-03-29,GB,Mid Ulster,residential,0.28
+2020-03-29,GB,Middlesbrough,retail_recr,-0.84
+2020-03-29,GB,Middlesbrough,grocery_pharm,-0.43
+2020-03-29,GB,Middlesbrough,parks,-0.63
+2020-03-29,GB,Middlesbrough,transit,-0.73
+2020-03-29,GB,Middlesbrough,workplace,-0.51
+2020-03-29,GB,Middlesbrough,residential,0.24
+2020-03-29,GB,Midlothian,retail_recr,-0.9
+2020-03-29,GB,Midlothian,grocery_pharm,-0.43
+2020-03-29,GB,Midlothian,parks,-0.2
+2020-03-29,GB,Midlothian,transit,-0.5
+2020-03-29,GB,Midlothian,workplace,-0.53
+2020-03-29,GB,Midlothian,residential,0.25
+2020-03-29,GB,Milton Keynes,retail_recr,-0.85
+2020-03-29,GB,Milton Keynes,grocery_pharm,-0.49
+2020-03-29,GB,Milton Keynes,parks,-0.53
+2020-03-29,GB,Milton Keynes,transit,-0.79
+2020-03-29,GB,Milton Keynes,workplace,-0.55
+2020-03-29,GB,Milton Keynes,residential,0.19
+2020-03-29,GB,Monmouthshire,retail_recr,-0.85
+2020-03-29,GB,Monmouthshire,grocery_pharm,-0.56
+2020-03-29,GB,Monmouthshire,parks,-0.61
+2020-03-29,GB,Monmouthshire,transit,-0.58
+2020-03-29,GB,Monmouthshire,workplace,-0.47
+2020-03-29,GB,Monmouthshire,residential,0.16
+2020-03-29,GB,Moray,retail_recr,-0.88
+2020-03-29,GB,Moray,grocery_pharm,-0.45
+2020-03-29,GB,Moray,parks,-0.42
+2020-03-29,GB,Moray,transit,-0.63
+2020-03-29,GB,Moray,workplace,-0.54
+2020-03-29,GB,Moray,residential,0.12
+2020-03-29,GB,Na h-Eileanan an Iar,retail_recr,-0.77
+2020-03-29,GB,Na h-Eileanan an Iar,parks,NA
+2020-03-29,GB,Na h-Eileanan an Iar,grocery_pharm,-0.31
+2020-03-29,GB,Na h-Eileanan an Iar,transit,-0.54
+2020-03-29,GB,Na h-Eileanan an Iar,residential,NA
+2020-03-29,GB,Na h-Eileanan an Iar,workplace,-0.51
+2020-03-29,GB,Neath Port Talbot Principle Area,retail_recr,-0.74
+2020-03-29,GB,Neath Port Talbot Principle Area,grocery_pharm,-0.38
+2020-03-29,GB,Neath Port Talbot Principle Area,parks,-0.46
+2020-03-29,GB,Neath Port Talbot Principle Area,transit,-0.6
+2020-03-29,GB,Neath Port Talbot Principle Area,workplace,-0.46
+2020-03-29,GB,Neath Port Talbot Principle Area,residential,0.23
+2020-03-29,GB,Newport,retail_recr,-0.83
+2020-03-29,GB,Newport,grocery_pharm,-0.47
+2020-03-29,GB,Newport,parks,-0.49
+2020-03-29,GB,Newport,transit,-0.66
+2020-03-29,GB,Newport,workplace,-0.52
+2020-03-29,GB,Newport,residential,0.26
+2020-03-29,GB,Newry and Mourne and Down,retail_recr,-0.87
+2020-03-29,GB,Newry and Mourne and Down,grocery_pharm,-0.45
+2020-03-29,GB,Newry and Mourne and Down,parks,-0.65
+2020-03-29,GB,Newry and Mourne and Down,transit,-0.55
+2020-03-29,GB,Newry and Mourne and Down,workplace,-0.52
+2020-03-29,GB,Newry and Mourne and Down,residential,0.29
+2020-03-29,GB,Norfolk,retail_recr,-0.87
+2020-03-29,GB,Norfolk,grocery_pharm,-0.52
+2020-03-29,GB,Norfolk,parks,-0.69
+2020-03-29,GB,Norfolk,transit,-0.68
+2020-03-29,GB,Norfolk,workplace,-0.53
+2020-03-29,GB,Norfolk,residential,0.14
+2020-03-29,GB,North Ayrshire Council,retail_recr,-0.79
+2020-03-29,GB,North Ayrshire Council,grocery_pharm,-0.37
+2020-03-29,GB,North Ayrshire Council,parks,-0.12
+2020-03-29,GB,North Ayrshire Council,transit,-0.59
+2020-03-29,GB,North Ayrshire Council,workplace,-0.51
+2020-03-29,GB,North Ayrshire Council,residential,0.25
+2020-03-29,GB,North East Lincolnshire,retail_recr,-0.85
+2020-03-29,GB,North East Lincolnshire,grocery_pharm,-0.46
+2020-03-29,GB,North East Lincolnshire,parks,-0.72
+2020-03-29,GB,North East Lincolnshire,transit,-0.68
+2020-03-29,GB,North East Lincolnshire,workplace,-0.46
+2020-03-29,GB,North East Lincolnshire,residential,0.22
+2020-03-29,GB,North Lanarkshire,retail_recr,-0.78
+2020-03-29,GB,North Lanarkshire,grocery_pharm,-0.37
+2020-03-29,GB,North Lanarkshire,parks,NA
+2020-03-29,GB,North Lanarkshire,transit,-0.56
+2020-03-29,GB,North Lanarkshire,workplace,-0.5
+2020-03-29,GB,North Lanarkshire,residential,0.13
+2020-03-29,GB,North Lincolnshire,retail_recr,-0.79
+2020-03-29,GB,North Lincolnshire,grocery_pharm,-0.41
+2020-03-29,GB,North Lincolnshire,parks,-0.56
+2020-03-29,GB,North Lincolnshire,transit,-0.58
+2020-03-29,GB,North Lincolnshire,workplace,-0.46
+2020-03-29,GB,North Lincolnshire,residential,0.23
+2020-03-29,GB,North Somerset,retail_recr,-0.84
+2020-03-29,GB,North Somerset,grocery_pharm,-0.5
+2020-03-29,GB,North Somerset,parks,-0.52
+2020-03-29,GB,North Somerset,transit,-0.88
+2020-03-29,GB,North Somerset,workplace,-0.54
+2020-03-29,GB,North Somerset,residential,0.27
+2020-03-29,GB,North Yorkshire,retail_recr,-0.88
+2020-03-29,GB,North Yorkshire,grocery_pharm,-0.48
+2020-03-29,GB,North Yorkshire,parks,-0.65
+2020-03-29,GB,North Yorkshire,transit,-0.74
+2020-03-29,GB,North Yorkshire,workplace,-0.55
+2020-03-29,GB,North Yorkshire,residential,0.15
+2020-03-29,GB,Northamptonshire,retail_recr,-0.84
+2020-03-29,GB,Northamptonshire,grocery_pharm,-0.42
+2020-03-29,GB,Northamptonshire,parks,-0.59
+2020-03-29,GB,Northamptonshire,transit,-0.71
+2020-03-29,GB,Northamptonshire,workplace,-0.47
+2020-03-29,GB,Northamptonshire,residential,0.14
+2020-03-29,GB,Northumberland,retail_recr,-0.84
+2020-03-29,GB,Northumberland,grocery_pharm,-0.42
+2020-03-29,GB,Northumberland,parks,-0.66
+2020-03-29,GB,Northumberland,transit,-0.61
+2020-03-29,GB,Northumberland,workplace,-0.54
+2020-03-29,GB,Northumberland,residential,0.14
+2020-03-29,GB,Nottinghamshire,retail_recr,-0.9
+2020-03-29,GB,Nottinghamshire,grocery_pharm,-0.45
+2020-03-29,GB,Nottinghamshire,parks,-0.58
+2020-03-29,GB,Nottinghamshire,transit,-0.8
+2020-03-29,GB,Nottinghamshire,workplace,-0.56
+2020-03-29,GB,Nottinghamshire,residential,0.15
+2020-03-29,GB,Orkney,retail_recr,-0.85
+2020-03-29,GB,Orkney,parks,NA
+2020-03-29,GB,Orkney,grocery_pharm,-0.4
+2020-03-29,GB,Orkney,transit,NA
+2020-03-29,GB,Orkney,residential,NA
+2020-03-29,GB,Orkney,workplace,-0.61
+2020-03-29,GB,Oxfordshire,retail_recr,-0.87
+2020-03-29,GB,Oxfordshire,grocery_pharm,-0.45
+2020-03-29,GB,Oxfordshire,parks,-0.48
+2020-03-29,GB,Oxfordshire,transit,-0.79
+2020-03-29,GB,Oxfordshire,workplace,-0.58
+2020-03-29,GB,Oxfordshire,residential,0.17
+2020-03-29,GB,Pembrokeshire,retail_recr,-0.87
+2020-03-29,GB,Pembrokeshire,grocery_pharm,-0.49
+2020-03-29,GB,Pembrokeshire,parks,-0.62
+2020-03-29,GB,Pembrokeshire,transit,-0.61
+2020-03-29,GB,Pembrokeshire,workplace,-0.47
+2020-03-29,GB,Pembrokeshire,residential,0.18
+2020-03-29,GB,Perth and Kinross,retail_recr,-0.86
+2020-03-29,GB,Perth and Kinross,grocery_pharm,-0.46
+2020-03-29,GB,Perth and Kinross,parks,-0.39
+2020-03-29,GB,Perth and Kinross,transit,-0.65
+2020-03-29,GB,Perth and Kinross,workplace,-0.54
+2020-03-29,GB,Perth and Kinross,residential,0.27
+2020-03-29,GB,Peterborough,retail_recr,-0.8
+2020-03-29,GB,Peterborough,grocery_pharm,-0.45
+2020-03-29,GB,Peterborough,parks,-0.36
+2020-03-29,GB,Peterborough,transit,-0.77
+2020-03-29,GB,Peterborough,workplace,-0.43
+2020-03-29,GB,Peterborough,residential,0.17
+2020-03-29,GB,Plymouth,retail_recr,-0.87
+2020-03-29,GB,Plymouth,grocery_pharm,-0.5
+2020-03-29,GB,Plymouth,parks,-0.43
+2020-03-29,GB,Plymouth,transit,-0.7
+2020-03-29,GB,Plymouth,workplace,-0.54
+2020-03-29,GB,Plymouth,residential,0.18
+2020-03-29,GB,Portsmouth,retail_recr,-0.88
+2020-03-29,GB,Portsmouth,grocery_pharm,-0.43
+2020-03-29,GB,Portsmouth,parks,-0.46
+2020-03-29,GB,Portsmouth,transit,-0.71
+2020-03-29,GB,Portsmouth,workplace,-0.54
+2020-03-29,GB,Portsmouth,residential,0.19
+2020-03-29,GB,Powys,retail_recr,-0.88
+2020-03-29,GB,Powys,grocery_pharm,-0.5
+2020-03-29,GB,Powys,parks,-0.56
+2020-03-29,GB,Powys,transit,-0.63
+2020-03-29,GB,Powys,workplace,-0.51
+2020-03-29,GB,Powys,residential,0.23
+2020-03-29,GB,Reading,retail_recr,-0.89
+2020-03-29,GB,Reading,grocery_pharm,-0.5
+2020-03-29,GB,Reading,parks,-0.41
+2020-03-29,GB,Reading,transit,-0.84
+2020-03-29,GB,Reading,workplace,-0.55
+2020-03-29,GB,Reading,residential,0.32
+2020-03-29,GB,Redcar and Cleveland,retail_recr,-0.88
+2020-03-29,GB,Redcar and Cleveland,grocery_pharm,-0.44
+2020-03-29,GB,Redcar and Cleveland,parks,-0.63
+2020-03-29,GB,Redcar and Cleveland,transit,-0.62
+2020-03-29,GB,Redcar and Cleveland,workplace,-0.5
+2020-03-29,GB,Redcar and Cleveland,residential,0.23
+2020-03-29,GB,Renfrewshire,retail_recr,-0.86
+2020-03-29,GB,Renfrewshire,grocery_pharm,-0.39
+2020-03-29,GB,Renfrewshire,parks,0.14
+2020-03-29,GB,Renfrewshire,transit,-0.84
+2020-03-29,GB,Renfrewshire,workplace,-0.58
+2020-03-29,GB,Renfrewshire,residential,0.29
+2020-03-29,GB,Rhondda Cynon Taff,retail_recr,-0.8
+2020-03-29,GB,Rhondda Cynon Taff,grocery_pharm,-0.41
+2020-03-29,GB,Rhondda Cynon Taff,parks,-0.47
+2020-03-29,GB,Rhondda Cynon Taff,transit,-0.52
+2020-03-29,GB,Rhondda Cynon Taff,workplace,-0.5
+2020-03-29,GB,Rhondda Cynon Taff,residential,0.19
+2020-03-29,GB,Rutland,retail_recr,-1
+2020-03-29,GB,Rutland,grocery_pharm,-0.37
+2020-03-29,GB,Rutland,parks,-0.7
+2020-03-29,GB,Rutland,transit,NA
+2020-03-29,GB,Rutland,residential,NA
+2020-03-29,GB,Rutland,workplace,-0.57
+2020-03-29,GB,Scottish Borders,retail_recr,-0.88
+2020-03-29,GB,Scottish Borders,grocery_pharm,-0.46
+2020-03-29,GB,Scottish Borders,parks,-0.39
+2020-03-29,GB,Scottish Borders,transit,-0.44
+2020-03-29,GB,Scottish Borders,workplace,-0.51
+2020-03-29,GB,Scottish Borders,residential,0.2
+2020-03-29,GB,Shetland Islands,retail_recr,-0.85
+2020-03-29,GB,Shetland Islands,parks,NA
+2020-03-29,GB,Shetland Islands,grocery_pharm,-0.49
+2020-03-29,GB,Shetland Islands,transit,-0.54
+2020-03-29,GB,Shetland Islands,residential,NA
+2020-03-29,GB,Shetland Islands,workplace,-0.6
+2020-03-29,GB,Shropshire,retail_recr,-0.85
+2020-03-29,GB,Shropshire,grocery_pharm,-0.49
+2020-03-29,GB,Shropshire,parks,-0.56
+2020-03-29,GB,Shropshire,transit,-0.7
+2020-03-29,GB,Shropshire,workplace,-0.5
+2020-03-29,GB,Shropshire,residential,0.14
+2020-03-29,GB,Slough,retail_recr,-0.8
+2020-03-29,GB,Slough,grocery_pharm,-0.45
+2020-03-29,GB,Slough,parks,-0.45
+2020-03-29,GB,Slough,transit,-0.78
+2020-03-29,GB,Slough,workplace,-0.54
+2020-03-29,GB,Slough,residential,0.29
+2020-03-29,GB,Somerset,retail_recr,-0.86
+2020-03-29,GB,Somerset,grocery_pharm,-0.48
+2020-03-29,GB,Somerset,parks,-0.56
+2020-03-29,GB,Somerset,transit,-0.73
+2020-03-29,GB,Somerset,workplace,-0.49
+2020-03-29,GB,Somerset,residential,0.14
+2020-03-29,GB,South Ayrshire Council,retail_recr,-0.88
+2020-03-29,GB,South Ayrshire Council,grocery_pharm,-0.42
+2020-03-29,GB,South Ayrshire Council,parks,-0.35
+2020-03-29,GB,South Ayrshire Council,transit,-0.62
+2020-03-29,GB,South Ayrshire Council,workplace,-0.56
+2020-03-29,GB,South Ayrshire Council,residential,0.2
+2020-03-29,GB,South Gloucestershire,retail_recr,-0.81
+2020-03-29,GB,South Gloucestershire,grocery_pharm,-0.45
+2020-03-29,GB,South Gloucestershire,parks,-0.3
+2020-03-29,GB,South Gloucestershire,transit,-0.64
+2020-03-29,GB,South Gloucestershire,workplace,-0.52
+2020-03-29,GB,South Gloucestershire,residential,0.2
+2020-03-29,GB,South Lanarkshire,retail_recr,-0.78
+2020-03-29,GB,South Lanarkshire,grocery_pharm,-0.38
+2020-03-29,GB,South Lanarkshire,parks,-0.06
+2020-03-29,GB,South Lanarkshire,transit,-0.57
+2020-03-29,GB,South Lanarkshire,workplace,-0.54
+2020-03-29,GB,South Lanarkshire,residential,0.14
+2020-03-29,GB,South Yorkshire,retail_recr,-0.86
+2020-03-29,GB,South Yorkshire,grocery_pharm,-0.43
+2020-03-29,GB,South Yorkshire,parks,-0.47
+2020-03-29,GB,South Yorkshire,transit,-0.71
+2020-03-29,GB,South Yorkshire,workplace,-0.53
+2020-03-29,GB,South Yorkshire,residential,0.15
+2020-03-29,GB,Southampton,retail_recr,-0.87
+2020-03-29,GB,Southampton,grocery_pharm,-0.41
+2020-03-29,GB,Southampton,parks,-0.57
+2020-03-29,GB,Southampton,transit,-0.71
+2020-03-29,GB,Southampton,workplace,-0.54
+2020-03-29,GB,Southampton,residential,0.19
+2020-03-29,GB,Southend-on-Sea,retail_recr,-0.89
+2020-03-29,GB,Southend-on-Sea,grocery_pharm,-0.39
+2020-03-29,GB,Southend-on-Sea,parks,-0.63
+2020-03-29,GB,Southend-on-Sea,transit,-0.79
+2020-03-29,GB,Southend-on-Sea,workplace,-0.57
+2020-03-29,GB,Southend-on-Sea,residential,0.28
+2020-03-29,GB,Staffordshire,retail_recr,-0.85
+2020-03-29,GB,Staffordshire,grocery_pharm,-0.44
+2020-03-29,GB,Staffordshire,parks,-0.54
+2020-03-29,GB,Staffordshire,transit,-0.73
+2020-03-29,GB,Staffordshire,workplace,-0.54
+2020-03-29,GB,Staffordshire,residential,0.14
+2020-03-29,GB,Stirling,retail_recr,-0.85
+2020-03-29,GB,Stirling,grocery_pharm,-0.49
+2020-03-29,GB,Stirling,parks,-0.49
+2020-03-29,GB,Stirling,transit,-0.76
+2020-03-29,GB,Stirling,workplace,-0.62
+2020-03-29,GB,Stirling,residential,0.11
+2020-03-29,GB,Stockton-on-Tees,retail_recr,-0.84
+2020-03-29,GB,Stockton-on-Tees,grocery_pharm,-0.47
+2020-03-29,GB,Stockton-on-Tees,parks,-0.6
+2020-03-29,GB,Stockton-on-Tees,transit,-0.69
+2020-03-29,GB,Stockton-on-Tees,workplace,-0.52
+2020-03-29,GB,Stockton-on-Tees,residential,0.25
+2020-03-29,GB,Stoke-on-Trent,retail_recr,-0.84
+2020-03-29,GB,Stoke-on-Trent,grocery_pharm,-0.44
+2020-03-29,GB,Stoke-on-Trent,parks,-0.41
+2020-03-29,GB,Stoke-on-Trent,transit,-0.7
+2020-03-29,GB,Stoke-on-Trent,workplace,-0.49
+2020-03-29,GB,Stoke-on-Trent,residential,0.14
+2020-03-29,GB,Suffolk,retail_recr,-0.87
+2020-03-29,GB,Suffolk,grocery_pharm,-0.51
+2020-03-29,GB,Suffolk,parks,-0.67
+2020-03-29,GB,Suffolk,transit,-0.69
+2020-03-29,GB,Suffolk,workplace,-0.54
+2020-03-29,GB,Suffolk,residential,0.15
+2020-03-29,GB,Surrey,retail_recr,-0.85
+2020-03-29,GB,Surrey,grocery_pharm,-0.44
+2020-03-29,GB,Surrey,parks,-0.57
+2020-03-29,GB,Surrey,transit,-0.74
+2020-03-29,GB,Surrey,workplace,-0.59
+2020-03-29,GB,Surrey,residential,0.17
+2020-03-29,GB,Swansea,retail_recr,-0.84
+2020-03-29,GB,Swansea,grocery_pharm,-0.5
+2020-03-29,GB,Swansea,parks,-0.51
+2020-03-29,GB,Swansea,transit,-0.67
+2020-03-29,GB,Swansea,workplace,-0.54
+2020-03-29,GB,Swansea,residential,0.19
+2020-03-29,GB,Swindon,retail_recr,-0.83
+2020-03-29,GB,Swindon,grocery_pharm,-0.44
+2020-03-29,GB,Swindon,parks,-0.3
+2020-03-29,GB,Swindon,transit,-0.69
+2020-03-29,GB,Swindon,workplace,-0.52
+2020-03-29,GB,Swindon,residential,0.28
+2020-03-29,GB,Thurrock,retail_recr,-0.88
+2020-03-29,GB,Thurrock,grocery_pharm,-0.53
+2020-03-29,GB,Thurrock,parks,-0.51
+2020-03-29,GB,Thurrock,transit,-0.59
+2020-03-29,GB,Thurrock,workplace,-0.5
+2020-03-29,GB,Thurrock,residential,0.29
+2020-03-29,GB,Torbay,retail_recr,-0.86
+2020-03-29,GB,Torbay,grocery_pharm,-0.44
+2020-03-29,GB,Torbay,parks,-0.58
+2020-03-29,GB,Torbay,transit,-0.68
+2020-03-29,GB,Torbay,workplace,-0.55
+2020-03-29,GB,Torbay,residential,0.24
+2020-03-29,GB,Torfaen Principal Area,retail_recr,-0.82
+2020-03-29,GB,Torfaen Principal Area,grocery_pharm,-0.37
+2020-03-29,GB,Torfaen Principal Area,parks,NA
+2020-03-29,GB,Torfaen Principal Area,transit,-0.54
+2020-03-29,GB,Torfaen Principal Area,workplace,-0.53
+2020-03-29,GB,Torfaen Principal Area,residential,0.24
+2020-03-29,GB,Tyne and Wear,retail_recr,-0.85
+2020-03-29,GB,Tyne and Wear,grocery_pharm,-0.47
+2020-03-29,GB,Tyne and Wear,parks,-0.58
+2020-03-29,GB,Tyne and Wear,transit,-0.74
+2020-03-29,GB,Tyne and Wear,workplace,-0.57
+2020-03-29,GB,Tyne and Wear,residential,0.15
+2020-03-29,GB,Vale of Glamorgan,retail_recr,-0.84
+2020-03-29,GB,Vale of Glamorgan,grocery_pharm,-0.49
+2020-03-29,GB,Vale of Glamorgan,parks,-0.59
+2020-03-29,GB,Vale of Glamorgan,transit,-0.7
+2020-03-29,GB,Vale of Glamorgan,workplace,-0.54
+2020-03-29,GB,Vale of Glamorgan,residential,0.27
+2020-03-29,GB,Warrington,retail_recr,-0.86
+2020-03-29,GB,Warrington,grocery_pharm,-0.42
+2020-03-29,GB,Warrington,parks,-0.29
+2020-03-29,GB,Warrington,transit,-0.68
+2020-03-29,GB,Warrington,workplace,-0.52
+2020-03-29,GB,Warrington,residential,0.27
+2020-03-29,GB,Warwickshire,retail_recr,-0.86
+2020-03-29,GB,Warwickshire,grocery_pharm,-0.44
+2020-03-29,GB,Warwickshire,parks,-0.56
+2020-03-29,GB,Warwickshire,transit,-0.72
+2020-03-29,GB,Warwickshire,workplace,-0.54
+2020-03-29,GB,Warwickshire,residential,0.15
+2020-03-29,GB,West Berkshire,retail_recr,-0.88
+2020-03-29,GB,West Berkshire,grocery_pharm,-0.49
+2020-03-29,GB,West Berkshire,parks,-0.41
+2020-03-29,GB,West Berkshire,transit,-0.82
+2020-03-29,GB,West Berkshire,workplace,-0.58
+2020-03-29,GB,West Berkshire,residential,0.29
+2020-03-29,GB,West Dunbartonshire Council,retail_recr,-0.75
+2020-03-29,GB,West Dunbartonshire Council,grocery_pharm,-0.43
+2020-03-29,GB,West Dunbartonshire Council,parks,NA
+2020-03-29,GB,West Dunbartonshire Council,transit,-0.54
+2020-03-29,GB,West Dunbartonshire Council,workplace,-0.51
+2020-03-29,GB,West Dunbartonshire Council,residential,0.23
+2020-03-29,GB,West Lothian,retail_recr,-0.74
+2020-03-29,GB,West Lothian,grocery_pharm,-0.29
+2020-03-29,GB,West Lothian,parks,-0.29
+2020-03-29,GB,West Lothian,transit,-0.52
+2020-03-29,GB,West Lothian,workplace,-0.5
+2020-03-29,GB,West Lothian,residential,0.27
+2020-03-29,GB,West Midlands,retail_recr,-0.84
+2020-03-29,GB,West Midlands,grocery_pharm,-0.45
+2020-03-29,GB,West Midlands,parks,-0.45
+2020-03-29,GB,West Midlands,transit,-0.78
+2020-03-29,GB,West Midlands,workplace,-0.57
+2020-03-29,GB,West Midlands,residential,0.15
+2020-03-29,GB,West Sussex,retail_recr,-0.85
+2020-03-29,GB,West Sussex,grocery_pharm,-0.46
+2020-03-29,GB,West Sussex,parks,-0.53
+2020-03-29,GB,West Sussex,transit,-0.85
+2020-03-29,GB,West Sussex,workplace,-0.56
+2020-03-29,GB,West Sussex,residential,0.15
+2020-03-29,GB,West Yorkshire,retail_recr,-0.84
+2020-03-29,GB,West Yorkshire,grocery_pharm,-0.44
+2020-03-29,GB,West Yorkshire,parks,-0.49
+2020-03-29,GB,West Yorkshire,transit,-0.74
+2020-03-29,GB,West Yorkshire,workplace,-0.55
+2020-03-29,GB,West Yorkshire,residential,0.15
+2020-03-29,GB,Wiltshire,retail_recr,-0.84
+2020-03-29,GB,Wiltshire,grocery_pharm,-0.45
+2020-03-29,GB,Wiltshire,parks,-0.56
+2020-03-29,GB,Wiltshire,transit,-0.7
+2020-03-29,GB,Wiltshire,workplace,-0.54
+2020-03-29,GB,Wiltshire,residential,0.15
+2020-03-29,GB,Windsor and Maidenhead,retail_recr,-0.88
+2020-03-29,GB,Windsor and Maidenhead,grocery_pharm,-0.42
+2020-03-29,GB,Windsor and Maidenhead,parks,-0.74
+2020-03-29,GB,Windsor and Maidenhead,transit,-0.79
+2020-03-29,GB,Windsor and Maidenhead,workplace,-0.63
+2020-03-29,GB,Windsor and Maidenhead,residential,0.31
+2020-03-29,GB,Wokingham,retail_recr,-0.81
+2020-03-29,GB,Wokingham,grocery_pharm,-0.52
+2020-03-29,GB,Wokingham,parks,-0.26
+2020-03-29,GB,Wokingham,transit,-0.66
+2020-03-29,GB,Wokingham,workplace,-0.61
+2020-03-29,GB,Wokingham,residential,0.32
+2020-03-29,GB,Worcestershire,retail_recr,-0.86
+2020-03-29,GB,Worcestershire,grocery_pharm,-0.47
+2020-03-29,GB,Worcestershire,parks,-0.44
+2020-03-29,GB,Worcestershire,transit,-0.71
+2020-03-29,GB,Worcestershire,workplace,-0.55
+2020-03-29,GB,Worcestershire,residential,0.14
+2020-03-29,GB,Wrexham Principal Area,retail_recr,-0.83
+2020-03-29,GB,Wrexham Principal Area,grocery_pharm,-0.43
+2020-03-29,GB,Wrexham Principal Area,parks,-0.45
+2020-03-29,GB,Wrexham Principal Area,transit,-0.64
+2020-03-29,GB,Wrexham Principal Area,workplace,-0.48
+2020-03-29,GB,Wrexham Principal Area,residential,0.24
+2020-03-29,GB,York,retail_recr,-0.9
+2020-03-29,GB,York,grocery_pharm,-0.5
+2020-03-29,GB,York,parks,-0.64
+2020-03-29,GB,York,transit,-0.84
+2020-03-29,GB,York,workplace,-0.65
+2020-03-29,GB,York,residential,0.29
