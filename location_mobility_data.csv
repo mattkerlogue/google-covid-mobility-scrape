@@ -1,0 +1,901 @@
+﻿location,entity,text,value
+Aberdeen City,retail_recr,-86%,-0.86
+Aberdeen City,grocery_pharm,-41%,-0.41
+Aberdeen City,parks,-46%,-0.46
+Aberdeen City,transit,-73%,-0.73
+Aberdeen City,workplace,-58%,-0.58
+Aberdeen City,residential,+30%,0.3
+Aberdeenshire,retail_recr,-80%,-0.8
+Aberdeenshire,grocery_pharm,-46%,-0.46
+Aberdeenshire,parks,-45%,-0.45
+Aberdeenshire,transit,-58%,-0.58
+Aberdeenshire,workplace,-52%,-0.52
+Aberdeenshire,residential,+27%,0.27
+Angus council,retail_recr,-80%,-0.8
+Angus council,grocery_pharm,-44%,-0.44
+Angus council,parks,-28%,-0.28
+Angus council,transit,-51%,-0.51
+Angus council,workplace,-48%,-0.48
+Angus council,residential,+20%,0.2
+Antrim and Newtownabbey,retail_recr,-81%,-0.81
+Antrim and Newtownabbey,grocery_pharm,-46%,-0.46
+Antrim and Newtownabbey,parks,-61%,-0.61
+Antrim and Newtownabbey,transit,-89%,-0.89
+Antrim and Newtownabbey,workplace,-52%,-0.52
+Antrim and Newtownabbey,residential,+29%,0.29
+Ards and North Down,retail_recr,-78%,-0.78
+Ards and North Down,grocery_pharm,-39%,-0.39
+Ards and North Down,parks,-57%,-0.57
+Ards and North Down,transit,-57%,-0.57
+Ards and North Down,workplace,-56%,-0.56
+Ards and North Down,residential,+28%,0.28
+Argyll and Bute Council,retail_recr,-88%,-0.88
+Argyll and Bute Council,grocery_pharm,-45%,-0.45
+Argyll and Bute Council,parks,-34%,-0.34
+Argyll and Bute Council,transit,-57%,-0.57
+Argyll and Bute Council,workplace,-52%,-0.52
+Argyll and Bute Council,residential,+8%,0.08
+Armagh City and Banbridge and Craigavon,retail_recr,-82%,-0.82
+Armagh City and Banbridge and Craigavon,grocery_pharm,-45%,-0.45
+Armagh City and Banbridge and Craigavon,parks,-66%,-0.66
+Armagh City and Banbridge and Craigavon,transit,-65%,-0.65
+Armagh City and Banbridge and Craigavon,workplace,-47%,-0.47
+Armagh City and Banbridge and Craigavon,residential,+27%,0.27
+Bath and North East Somerset,retail_recr,-91%,-0.91
+Bath and North East Somerset,grocery_pharm,-48%,-0.48
+Bath and North East Somerset,parks,-54%,-0.54
+Bath and North East Somerset,transit,-75%,-0.75
+Bath and North East Somerset,workplace,-66%,-0.66
+Bath and North East Somerset,residential,+30%,0.3
+Bedford,retail_recr,-86%,-0.86
+Bedford,grocery_pharm,-47%,-0.47
+Bedford,parks,-51%,-0.51
+Bedford,transit,-72%,-0.72
+Bedford,workplace,-49%,-0.49
+Bedford,residential,+28%,0.28
+Belfast,retail_recr,-85%,-0.85
+Belfast,grocery_pharm,-42%,-0.42
+Belfast,parks,-47%,-0.47
+Belfast,transit,-76%,-0.76
+Belfast,workplace,-59%,-0.59
+Belfast,residential,+17%,0.17
+Blackburn with Darwen,retail_recr,-85%,-0.85
+Blackburn with Darwen,grocery_pharm,-42%,-0.42
+Blackburn with Darwen,parks,Not,NA
+Blackburn with Darwen,transit,-71%,-0.71
+Blackburn with Darwen,workplace,-50%,-0.5
+Blackburn with Darwen,residential,+25%,0.25
+Blackpool,retail_recr,-88%,-0.88
+Blackpool,grocery_pharm,-43%,-0.43
+Blackpool,parks,-64%,-0.64
+Blackpool,transit,-65%,-0.65
+Blackpool,workplace,-54%,-0.54
+Blackpool,residential,+22%,0.22
+Blaenau Gwent,retail_recr,-75%,-0.75
+Blaenau Gwent,grocery_pharm,-46%,-0.46
+Blaenau Gwent,parks,Not,NA
+Blaenau Gwent,transit,-57%,-0.57
+Blaenau Gwent,workplace,-46%,-0.46
+Blaenau Gwent,residential,+12%,0.12
+Borough of Halton,retail_recr,-78%,-0.78
+Borough of Halton,grocery_pharm,-43%,-0.43
+Borough of Halton,parks,-46%,-0.46
+Borough of Halton,transit,-60%,-0.6
+Borough of Halton,workplace,-48%,-0.48
+Borough of Halton,residential,+25%,0.25
+Bracknell Forest,retail_recr,-83%,-0.83
+Bracknell Forest,grocery_pharm,-41%,-0.41
+Bracknell Forest,parks,-56%,-0.56
+Bracknell Forest,transit,-69%,-0.69
+Bracknell Forest,workplace,-58%,-0.58
+Bracknell Forest,residential,+31%,0.31
+Bridgend County Borough,retail_recr,-85%,-0.85
+Bridgend County Borough,grocery_pharm,-43%,-0.43
+Bridgend County Borough,parks,-48%,-0.48
+Bridgend County Borough,transit,-59%,-0.59
+Bridgend County Borough,workplace,-50%,-0.5
+Bridgend County Borough,residential,+25%,0.25
+Brighton and Hove,retail_recr,-89%,-0.89
+Brighton and Hove,grocery_pharm,-48%,-0.48
+Brighton and Hove,parks,-59%,-0.59
+Brighton and Hove,transit,-77%,-0.77
+Brighton and Hove,workplace,-64%,-0.64
+Brighton and Hove,residential,+30%,0.3
+Buckinghamshire,retail_recr,-85%,-0.85
+Buckinghamshire,grocery_pharm,-45%,-0.45
+Buckinghamshire,parks,-43%,-0.43
+Buckinghamshire,transit,-74%,-0.74
+Buckinghamshire,workplace,-57%,-0.57
+Buckinghamshire,residential,+16%,0.16
+Caerphilly County Borough,retail_recr,-78%,-0.78
+Caerphilly County Borough,grocery_pharm,-41%,-0.41
+Caerphilly County Borough,parks,-52%,-0.52
+Caerphilly County Borough,transit,-54%,-0.54
+Caerphilly County Borough,workplace,-47%,-0.47
+Caerphilly County Borough,residential,+25%,0.25
+Cambridgeshire,retail_recr,-87%,-0.87
+Cambridgeshire,grocery_pharm,-48%,-0.48
+Cambridgeshire,parks,-51%,-0.51
+Cambridgeshire,transit,-79%,-0.79
+Cambridgeshire,workplace,-54%,-0.54
+Cambridgeshire,residential,+16%,0.16
+Cardiff,retail_recr,-86%,-0.86
+Cardiff,grocery_pharm,-45%,-0.45
+Cardiff,parks,-48%,-0.48
+Cardiff,transit,-79%,-0.79
+Cardiff,workplace,-59%,-0.59
+Cardiff,residential,+17%,0.17
+Carmarthenshire,retail_recr,-81%,-0.81
+Carmarthenshire,grocery_pharm,-46%,-0.46
+Carmarthenshire,parks,-57%,-0.57
+Carmarthenshire,transit,-60%,-0.6
+Carmarthenshire,workplace,-49%,-0.49
+Carmarthenshire,residential,+24%,0.24
+Causeway Coast and Glens,retail_recr,-87%,-0.87
+Causeway Coast and Glens,grocery_pharm,-41%,-0.41
+Causeway Coast and Glens,parks,-66%,-0.66
+Causeway Coast and Glens,transit,-64%,-0.64
+Causeway Coast and Glens,workplace,-55%,-0.55
+Causeway Coast and Glens,residential,+26%,0.26
+Central Bedfordshire,retail_recr,-82%,-0.82
+Central Bedfordshire,grocery_pharm,-45%,-0.45
+Central Bedfordshire,parks,-41%,-0.41
+Central Bedfordshire,transit,-74%,-0.74
+Central Bedfordshire,workplace,-54%,-0.54
+Central Bedfordshire,residential,+20%,0.2
+Ceredigion,retail_recr,-84%,-0.84
+Ceredigion,grocery_pharm,-54%,-0.54
+Ceredigion,parks,-60%,-0.6
+Ceredigion,transit,-69%,-0.69
+Ceredigion,workplace,-57%,-0.57
+Ceredigion,residential,+6%,0.06
+Cheshire East,retail_recr,-84%,-0.84
+Cheshire East,grocery_pharm,-47%,-0.47
+Cheshire East,parks,-63%,-0.63
+Cheshire East,transit,-75%,-0.75
+Cheshire East,workplace,-53%,-0.53
+Cheshire East,residential,+15%,0.15
+Cheshire West and Chester,retail_recr,-88%,-0.88
+Cheshire West and Chester,grocery_pharm,-47%,-0.47
+Cheshire West and Chester,parks,-58%,-0.58
+Cheshire West and Chester,transit,-77%,-0.77
+Cheshire West and Chester,workplace,-55%,-0.55
+Cheshire West and Chester,residential,+15%,0.15
+City of Bristol,retail_recr,-87%,-0.87
+City of Bristol,grocery_pharm,-47%,-0.47
+City of Bristol,parks,-25%,-0.25
+City of Bristol,transit,-81%,-0.81
+City of Bristol,workplace,-57%,-0.57
+City of Bristol,residential,+18%,0.18
+Clackmannanshire,retail_recr,-89%,-0.89
+Clackmannanshire,grocery_pharm,-39%,-0.39
+Clackmannanshire,parks,Not,NA
+Clackmannanshire,transit,-53%,-0.53
+Clackmannanshire,workplace,-49%,-0.49
+Clackmannanshire,residential,+6%,0.06
+Conwy Principal Area,retail_recr,-86%,-0.86
+Conwy Principal Area,grocery_pharm,-48%,-0.48
+Conwy Principal Area,parks,-70%,-0.7
+Conwy Principal Area,transit,-63%,-0.63
+Conwy Principal Area,workplace,-58%,-0.58
+Conwy Principal Area,residential,+22%,0.22
+Cornwall,retail_recr,-85%,-0.85
+Cornwall,grocery_pharm,-53%,-0.53
+Cornwall,parks,-54%,-0.54
+Cornwall,transit,-66%,-0.66
+Cornwall,workplace,-56%,-0.56
+Cornwall,residential,+14%,0.14
+County Durham,retail_recr,-83%,-0.83
+County Durham,grocery_pharm,-42%,-0.42
+County Durham,parks,-56%,-0.56
+County Durham,transit,-68%,-0.68
+County Durham,workplace,-55%,-0.55
+County Durham,residential,+14%,0.14
+Cumbria,retail_recr,-84%,-0.84
+Cumbria,grocery_pharm,-50%,-0.5
+Cumbria,parks,-54%,-0.54
+Cumbria,transit,-73%,-0.73
+Cumbria,workplace,-58%,-0.58
+Cumbria,residential,+15%,0.15
+Darlington,retail_recr,-86%,-0.86
+Darlington,grocery_pharm,-47%,-0.47
+Darlington,parks,-57%,-0.57
+Darlington,transit,-75%,-0.75
+Darlington,workplace,-51%,-0.51
+Darlington,residential,+26%,0.26
+Denbighshire,retail_recr,-84%,-0.84
+Denbighshire,grocery_pharm,-43%,-0.43
+Denbighshire,parks,-59%,-0.59
+Denbighshire,transit,-70%,-0.7
+Denbighshire,workplace,-52%,-0.52
+Denbighshire,residential,+14%,0.14
+Derby,retail_recr,-85%,-0.85
+Derby,grocery_pharm,-46%,-0.46
+Derby,parks,-55%,-0.55
+Derby,transit,-81%,-0.81
+Derby,workplace,-55%,-0.55
+Derby,residential,+19%,0.19
+Derbyshire,retail_recr,-86%,-0.86
+Derbyshire,grocery_pharm,-43%,-0.43
+Derbyshire,parks,-55%,-0.55
+Derbyshire,transit,-66%,-0.66
+Derbyshire,workplace,-55%,-0.55
+Derbyshire,residential,+15%,0.15
+Derry and Strabane,retail_recr,-80%,-0.8
+Derry and Strabane,grocery_pharm,-39%,-0.39
+Derry and Strabane,parks,-63%,-0.63
+Derry and Strabane,transit,-60%,-0.6
+Derry and Strabane,workplace,-54%,-0.54
+Derry and Strabane,residential,+25%,0.25
+Devon,retail_recr,-87%,-0.87
+Devon,grocery_pharm,-51%,-0.51
+Devon,parks,-54%,-0.54
+Devon,transit,-73%,-0.73
+Devon,workplace,-54%,-0.54
+Devon,residential,+15%,0.15
+Dorset,retail_recr,-87%,-0.87
+Dorset,grocery_pharm,-47%,-0.47
+Dorset,parks,-57%,-0.57
+Dorset,transit,-70%,-0.7
+Dorset,workplace,-57%,-0.57
+Dorset,residential,+15%,0.15
+Dumfries and Galloway,retail_recr,-80%,-0.8
+Dumfries and Galloway,grocery_pharm,-42%,-0.42
+Dumfries and Galloway,parks,-48%,-0.48
+Dumfries and Galloway,transit,-75%,-0.75
+Dumfries and Galloway,workplace,-49%,-0.49
+Dumfries and Galloway,residential,+22%,0.22
+Dundee City Council,retail_recr,-83%,-0.83
+Dundee City Council,grocery_pharm,-52%,-0.52
+Dundee City Council,parks,-10%,-0.1
+Dundee City Council,transit,-71%,-0.71
+Dundee City Council,workplace,-56%,-0.56
+Dundee City Council,residential,+26%,0.26
+East Ayrshire Council,retail_recr,-83%,-0.83
+East Ayrshire Council,grocery_pharm,-39%,-0.39
+East Ayrshire Council,parks,Not,NA
+East Ayrshire Council,transit,-55%,-0.55
+East Ayrshire Council,workplace,-51%,-0.51
+East Ayrshire Council,residential,+26%,0.26
+East Dunbartonshire Council,retail_recr,-75%,-0.75
+East Dunbartonshire Council,grocery_pharm,-35%,-0.35
+East Dunbartonshire Council,parks,Not,NA
+East Dunbartonshire Council,transit,-54%,-0.54
+East Dunbartonshire Council,workplace,-56%,-0.56
+East Dunbartonshire Council,residential,+19%,0.19
+East Lothian Council,retail_recr,-81%,-0.81
+East Lothian Council,grocery_pharm,-37%,-0.37
+East Lothian Council,parks,-34%,-0.34
+East Lothian Council,transit,-57%,-0.57
+East Lothian Council,workplace,-56%,-0.56
+East Lothian Council,residential,+17%,0.17
+East Renfrewshire Council,retail_recr,-63%,-0.63
+East Renfrewshire Council,grocery_pharm,-29%,-0.29
+East Renfrewshire Council,parks,-54%,-0.54
+East Renfrewshire Council,transit,-51%,-0.51
+East Renfrewshire Council,workplace,-56%,-0.56
+East Renfrewshire Council,residential,+19%,0.19
+East Riding of Yorkshire,retail_recr,-85%,-0.85
+East Riding of Yorkshire,grocery_pharm,-45%,-0.45
+East Riding of Yorkshire,parks,-61%,-0.61
+East Riding of Yorkshire,transit,-51%,-0.51
+East Riding of Yorkshire,workplace,-52%,-0.52
+East Riding of Yorkshire,residential,+14%,0.14
+East Sussex,retail_recr,-87%,-0.87
+East Sussex,grocery_pharm,-46%,-0.46
+East Sussex,parks,-60%,-0.6
+East Sussex,transit,-68%,-0.68
+East Sussex,workplace,-57%,-0.57
+East Sussex,residential,+14%,0.14
+Edinburgh,retail_recr,-86%,-0.86
+Edinburgh,grocery_pharm,-44%,-0.44
+Edinburgh,parks,-42%,-0.42
+Edinburgh,transit,-83%,-0.83
+Edinburgh,workplace,-67%,-0.67
+Edinburgh,residential,+18%,0.18
+Essex,retail_recr,-84%,-0.84
+Essex,grocery_pharm,-49%,-0.49
+Essex,parks,-58%,-0.58
+Essex,transit,-85%,-0.85
+Essex,workplace,-56%,-0.56
+Essex,residential,+16%,0.16
+Falkirk,retail_recr,-78%,-0.78
+Falkirk,grocery_pharm,-38%,-0.38
+Falkirk,parks,-26%,-0.26
+Falkirk,transit,-56%,-0.56
+Falkirk,workplace,-47%,-0.47
+Falkirk,residential,+27%,0.27
+Fermanagh and Omagh,retail_recr,-86%,-0.86
+Fermanagh and Omagh,grocery_pharm,-47%,-0.47
+Fermanagh and Omagh,parks,-55%,-0.55
+Fermanagh and Omagh,transit,-54%,-0.54
+Fermanagh and Omagh,workplace,-52%,-0.52
+Fermanagh and Omagh,residential,+27%,0.27
+Fife,retail_recr,-79%,-0.79
+Fife,grocery_pharm,-38%,-0.38
+Fife,parks,-32%,-0.32
+Fife,transit,-56%,-0.56
+Fife,workplace,-51%,-0.51
+Fife,residential,+14%,0.14
+Flintshire,retail_recr,-80%,-0.8
+Flintshire,grocery_pharm,-44%,-0.44
+Flintshire,parks,-48%,-0.48
+Flintshire,transit,-60%,-0.6
+Flintshire,workplace,-54%,-0.54
+Flintshire,residential,+26%,0.26
+Glasgow City,retail_recr,-84%,-0.84
+Glasgow City,grocery_pharm,-44%,-0.44
+Glasgow City,parks,-37%,-0.37
+Glasgow City,transit,-81%,-0.81
+Glasgow City,workplace,-60%,-0.6
+Glasgow City,residential,+16%,0.16
+Gloucestershire,retail_recr,-86%,-0.86
+Gloucestershire,grocery_pharm,-48%,-0.48
+Gloucestershire,parks,-49%,-0.49
+Gloucestershire,transit,-73%,-0.73
+Gloucestershire,workplace,-55%,-0.55
+Gloucestershire,residential,+15%,0.15
+Greater London,retail_recr,-87%,-0.87
+Greater London,grocery_pharm,-48%,-0.48
+Greater London,parks,-59%,-0.59
+Greater London,transit,-80%,-0.8
+Greater London,workplace,-62%,-0.62
+Greater London,residential,+19%,0.19
+Greater Manchester,retail_recr,-84%,-0.84
+Greater Manchester,grocery_pharm,-46%,-0.46
+Greater Manchester,parks,-44%,-0.44
+Greater Manchester,transit,-80%,-0.8
+Greater Manchester,workplace,-54%,-0.54
+Greater Manchester,residential,+16%,0.16
+Gwynedd,retail_recr,-87%,-0.87
+Gwynedd,grocery_pharm,-55%,-0.55
+Gwynedd,parks,-62%,-0.62
+Gwynedd,transit,-65%,-0.65
+Gwynedd,workplace,-56%,-0.56
+Gwynedd,residential,+18%,0.18
+Hampshire,retail_recr,-85%,-0.85
+Hampshire,grocery_pharm,-45%,-0.45
+Hampshire,parks,-48%,-0.48
+Hampshire,transit,-74%,-0.74
+Hampshire,workplace,-54%,-0.54
+Hampshire,residential,+15%,0.15
+Hartlepool,retail_recr,-86%,-0.86
+Hartlepool,grocery_pharm,-44%,-0.44
+Hartlepool,parks,-64%,-0.64
+Hartlepool,transit,-70%,-0.7
+Hartlepool,workplace,-51%,-0.51
+Hartlepool,residential,+19%,0.19
+Herefordshire,retail_recr,-86%,-0.86
+Herefordshire,grocery_pharm,-50%,-0.5
+Herefordshire,parks,-42%,-0.42
+Herefordshire,transit,-64%,-0.64
+Herefordshire,workplace,-46%,-0.46
+Herefordshire,residential,+24%,0.24
+Hertfordshire,retail_recr,-85%,-0.85
+Hertfordshire,grocery_pharm,-47%,-0.47
+Hertfordshire,parks,-46%,-0.46
+Hertfordshire,transit,-73%,-0.73
+Hertfordshire,workplace,-56%,-0.56
+Hertfordshire,residential,+16%,0.16
+Highland Council,retail_recr,-83%,-0.83
+Highland Council,grocery_pharm,-47%,-0.47
+Highland Council,parks,-48%,-0.48
+Highland Council,transit,-70%,-0.7
+Highland Council,workplace,-53%,-0.53
+Highland Council,residential,+24%,0.24
+Inverclyde,retail_recr,-83%,-0.83
+Inverclyde,grocery_pharm,-37%,-0.37
+Inverclyde,parks,Not,NA
+Inverclyde,transit,-58%,-0.58
+Inverclyde,workplace,-52%,-0.52
+Inverclyde,residential,+15%,0.15
+Isle of Anglesey,retail_recr,-84%,-0.84
+Isle of Anglesey,grocery_pharm,-48%,-0.48
+Isle of Anglesey,parks,-65%,-0.65
+Isle of Anglesey,transit,-63%,-0.63
+Isle of Anglesey,workplace,-46%,-0.46
+Isle of Anglesey,residential,+7%,0.07
+Isle of Wight,retail_recr,-88%,-0.88
+Isle of Wight,grocery_pharm,-47%,-0.47
+Isle of Wight,parks,-57%,-0.57
+Isle of Wight,transit,-76%,-0.76
+Isle of Wight,workplace,-54%,-0.54
+Isle of Wight,residential,+22%,0.22
+Kent,retail_recr,-86%,-0.86
+Kent,grocery_pharm,-49%,-0.49
+Kent,parks,-62%,-0.62
+Kent,transit,-68%,-0.68
+Kent,workplace,-53%,-0.53
+Kent,residential,+15%,0.15
+Kingston upon Hull,retail_recr,-82%,-0.82
+Kingston upon Hull,grocery_pharm,-45%,-0.45
+Kingston upon Hull,parks,-49%,-0.49
+Kingston upon Hull,transit,-71%,-0.71
+Kingston upon Hull,workplace,-51%,-0.51
+Kingston upon Hull,residential,+14%,0.14
+Lancashire,retail_recr,-84%,-0.84
+Lancashire,grocery_pharm,-44%,-0.44
+Lancashire,parks,-39%,-0.39
+Lancashire,transit,-71%,-0.71
+Lancashire,workplace,-52%,-0.52
+Lancashire,residential,+14%,0.14
+Leicester,retail_recr,-84%,-0.84
+Leicester,grocery_pharm,-47%,-0.47
+Leicester,parks,-45%,-0.45
+Leicester,transit,-80%,-0.8
+Leicester,workplace,-51%,-0.51
+Leicester,residential,+15%,0.15
+Leicestershire,retail_recr,-83%,-0.83
+Leicestershire,grocery_pharm,-45%,-0.45
+Leicestershire,parks,-54%,-0.54
+Leicestershire,transit,-72%,-0.72
+Leicestershire,workplace,-55%,-0.55
+Leicestershire,residential,+15%,0.15
+Lincolnshire,retail_recr,-84%,-0.84
+Lincolnshire,grocery_pharm,-45%,-0.45
+Lincolnshire,parks,-63%,-0.63
+Lincolnshire,transit,-67%,-0.67
+Lincolnshire,workplace,-47%,-0.47
+Lincolnshire,residential,+13%,0.13
+Lisburn and Castlereagh,retail_recr,-87%,-0.87
+Lisburn and Castlereagh,grocery_pharm,-45%,-0.45
+Lisburn and Castlereagh,parks,-79%,-0.79
+Lisburn and Castlereagh,transit,-61%,-0.61
+Lisburn and Castlereagh,workplace,-56%,-0.56
+Lisburn and Castlereagh,residential,+30%,0.3
+Luton,retail_recr,-79%,-0.79
+Luton,grocery_pharm,-39%,-0.39
+Luton,parks,-41%,-0.41
+Luton,transit,-90%,-0.9
+Luton,workplace,-49%,-0.49
+Luton,residential,+19%,0.19
+Medway,retail_recr,-85%,-0.85
+Medway,grocery_pharm,-40%,-0.4
+Medway,parks,-67%,-0.67
+Medway,transit,-71%,-0.71
+Medway,workplace,-51%,-0.51
+Medway,residential,+15%,0.15
+Merseyside,retail_recr,-83%,-0.83
+Merseyside,grocery_pharm,-42%,-0.42
+Merseyside,parks,-53%,-0.53
+Merseyside,transit,-74%,-0.74
+Merseyside,workplace,-54%,-0.54
+Merseyside,residential,+15%,0.15
+Merthyr Tydfil County Borough,retail_recr,-89%,-0.89
+Merthyr Tydfil County Borough,grocery_pharm,-50%,-0.5
+Merthyr Tydfil County Borough,parks,Not,NA
+Merthyr Tydfil County Borough,transit,-54%,-0.54
+Merthyr Tydfil County Borough,workplace,-52%,-0.52
+Merthyr Tydfil County Borough,residential,+8%,0.08
+Mid and East Antrim,retail_recr,-81%,-0.81
+Mid and East Antrim,grocery_pharm,-37%,-0.37
+Mid and East Antrim,parks,-52%,-0.52
+Mid and East Antrim,transit,-56%,-0.56
+Mid and East Antrim,workplace,-56%,-0.56
+Mid and East Antrim,residential,+27%,0.27
+Mid Ulster,retail_recr,-81%,-0.81
+Mid Ulster,grocery_pharm,-43%,-0.43
+Mid Ulster,parks,Not,NA
+Mid Ulster,transit,-51%,-0.51
+Mid Ulster,workplace,-42%,-0.42
+Mid Ulster,residential,+28%,0.28
+Middlesbrough,retail_recr,-84%,-0.84
+Middlesbrough,grocery_pharm,-43%,-0.43
+Middlesbrough,parks,-63%,-0.63
+Middlesbrough,transit,-73%,-0.73
+Middlesbrough,workplace,-51%,-0.51
+Middlesbrough,residential,+24%,0.24
+Midlothian,retail_recr,-90%,-0.9
+Midlothian,grocery_pharm,-43%,-0.43
+Midlothian,parks,-20%,-0.2
+Midlothian,transit,-50%,-0.5
+Midlothian,workplace,-53%,-0.53
+Midlothian,residential,+25%,0.25
+Milton Keynes,retail_recr,-85%,-0.85
+Milton Keynes,grocery_pharm,-49%,-0.49
+Milton Keynes,parks,-53%,-0.53
+Milton Keynes,transit,-79%,-0.79
+Milton Keynes,workplace,-55%,-0.55
+Milton Keynes,residential,+19%,0.19
+Monmouthshire,retail_recr,-85%,-0.85
+Monmouthshire,grocery_pharm,-56%,-0.56
+Monmouthshire,parks,-61%,-0.61
+Monmouthshire,transit,-58%,-0.58
+Monmouthshire,workplace,-47%,-0.47
+Monmouthshire,residential,+16%,0.16
+Moray,retail_recr,-88%,-0.88
+Moray,grocery_pharm,-45%,-0.45
+Moray,parks,-42%,-0.42
+Moray,transit,-63%,-0.63
+Moray,workplace,-54%,-0.54
+Moray,residential,+12%,0.12
+Na h-Eileanan an Iar,retail_recr,-77%,-0.77
+Na h-Eileanan an Iar,parks,Not,NA
+Na h-Eileanan an Iar,grocery_pharm,-31%,-0.31
+Na h-Eileanan an Iar,transit,-54%,-0.54
+Na h-Eileanan an Iar,residential,Not,NA
+Na h-Eileanan an Iar,workplace,-51%,-0.51
+Neath Port Talbot Principle Area,retail_recr,-74%,-0.74
+Neath Port Talbot Principle Area,grocery_pharm,-38%,-0.38
+Neath Port Talbot Principle Area,parks,-46%,-0.46
+Neath Port Talbot Principle Area,transit,-60%,-0.6
+Neath Port Talbot Principle Area,workplace,-46%,-0.46
+Neath Port Talbot Principle Area,residential,+23%,0.23
+Newport,retail_recr,-83%,-0.83
+Newport,grocery_pharm,-47%,-0.47
+Newport,parks,-49%,-0.49
+Newport,transit,-66%,-0.66
+Newport,workplace,-52%,-0.52
+Newport,residential,+26%,0.26
+Newry and Mourne and Down,retail_recr,-87%,-0.87
+Newry and Mourne and Down,grocery_pharm,-45%,-0.45
+Newry and Mourne and Down,parks,-65%,-0.65
+Newry and Mourne and Down,transit,-55%,-0.55
+Newry and Mourne and Down,workplace,-52%,-0.52
+Newry and Mourne and Down,residential,+29%,0.29
+Norfolk,retail_recr,-87%,-0.87
+Norfolk,grocery_pharm,-52%,-0.52
+Norfolk,parks,-69%,-0.69
+Norfolk,transit,-68%,-0.68
+Norfolk,workplace,-53%,-0.53
+Norfolk,residential,+14%,0.14
+North Ayrshire Council,retail_recr,-79%,-0.79
+North Ayrshire Council,grocery_pharm,-37%,-0.37
+North Ayrshire Council,parks,-12%,-0.12
+North Ayrshire Council,transit,-59%,-0.59
+North Ayrshire Council,workplace,-51%,-0.51
+North Ayrshire Council,residential,+25%,0.25
+North East Lincolnshire,retail_recr,-85%,-0.85
+North East Lincolnshire,grocery_pharm,-46%,-0.46
+North East Lincolnshire,parks,-72%,-0.72
+North East Lincolnshire,transit,-68%,-0.68
+North East Lincolnshire,workplace,-46%,-0.46
+North East Lincolnshire,residential,+22%,0.22
+North Lanarkshire,retail_recr,-78%,-0.78
+North Lanarkshire,grocery_pharm,-37%,-0.37
+North Lanarkshire,parks,Not,NA
+North Lanarkshire,transit,-56%,-0.56
+North Lanarkshire,workplace,-50%,-0.5
+North Lanarkshire,residential,+13%,0.13
+North Lincolnshire,retail_recr,-79%,-0.79
+North Lincolnshire,grocery_pharm,-41%,-0.41
+North Lincolnshire,parks,-56%,-0.56
+North Lincolnshire,transit,-58%,-0.58
+North Lincolnshire,workplace,-46%,-0.46
+North Lincolnshire,residential,+23%,0.23
+North Somerset,retail_recr,-84%,-0.84
+North Somerset,grocery_pharm,-50%,-0.5
+North Somerset,parks,-52%,-0.52
+North Somerset,transit,-88%,-0.88
+North Somerset,workplace,-54%,-0.54
+North Somerset,residential,+27%,0.27
+North Yorkshire,retail_recr,-88%,-0.88
+North Yorkshire,grocery_pharm,-48%,-0.48
+North Yorkshire,parks,-65%,-0.65
+North Yorkshire,transit,-74%,-0.74
+North Yorkshire,workplace,-55%,-0.55
+North Yorkshire,residential,+15%,0.15
+Northamptonshire,retail_recr,-84%,-0.84
+Northamptonshire,grocery_pharm,-42%,-0.42
+Northamptonshire,parks,-59%,-0.59
+Northamptonshire,transit,-71%,-0.71
+Northamptonshire,workplace,-47%,-0.47
+Northamptonshire,residential,+14%,0.14
+Northumberland,retail_recr,-84%,-0.84
+Northumberland,grocery_pharm,-42%,-0.42
+Northumberland,parks,-66%,-0.66
+Northumberland,transit,-61%,-0.61
+Northumberland,workplace,-54%,-0.54
+Northumberland,residential,+14%,0.14
+Nottinghamshire,retail_recr,-90%,-0.9
+Nottinghamshire,grocery_pharm,-45%,-0.45
+Nottinghamshire,parks,-58%,-0.58
+Nottinghamshire,transit,-80%,-0.8
+Nottinghamshire,workplace,-56%,-0.56
+Nottinghamshire,residential,+15%,0.15
+Orkney,retail_recr,-85%,-0.85
+Orkney,parks,Not,NA
+Orkney,grocery_pharm,-40%,-0.4
+Orkney,transit,Not,NA
+Orkney,residential,Not,NA
+Orkney,workplace,-61%,-0.61
+Oxfordshire,retail_recr,-87%,-0.87
+Oxfordshire,grocery_pharm,-45%,-0.45
+Oxfordshire,parks,-48%,-0.48
+Oxfordshire,transit,-79%,-0.79
+Oxfordshire,workplace,-58%,-0.58
+Oxfordshire,residential,+17%,0.17
+Pembrokeshire,retail_recr,-87%,-0.87
+Pembrokeshire,grocery_pharm,-49%,-0.49
+Pembrokeshire,parks,-62%,-0.62
+Pembrokeshire,transit,-61%,-0.61
+Pembrokeshire,workplace,-47%,-0.47
+Pembrokeshire,residential,+18%,0.18
+Perth and Kinross,retail_recr,-86%,-0.86
+Perth and Kinross,grocery_pharm,-46%,-0.46
+Perth and Kinross,parks,-39%,-0.39
+Perth and Kinross,transit,-65%,-0.65
+Perth and Kinross,workplace,-54%,-0.54
+Perth and Kinross,residential,+27%,0.27
+Peterborough,retail_recr,-80%,-0.8
+Peterborough,grocery_pharm,-45%,-0.45
+Peterborough,parks,-36%,-0.36
+Peterborough,transit,-77%,-0.77
+Peterborough,workplace,-43%,-0.43
+Peterborough,residential,+17%,0.17
+Plymouth,retail_recr,-87%,-0.87
+Plymouth,grocery_pharm,-50%,-0.5
+Plymouth,parks,-43%,-0.43
+Plymouth,transit,-70%,-0.7
+Plymouth,workplace,-54%,-0.54
+Plymouth,residential,+18%,0.18
+Portsmouth,retail_recr,-88%,-0.88
+Portsmouth,grocery_pharm,-43%,-0.43
+Portsmouth,parks,-46%,-0.46
+Portsmouth,transit,-71%,-0.71
+Portsmouth,workplace,-54%,-0.54
+Portsmouth,residential,+19%,0.19
+Powys,retail_recr,-88%,-0.88
+Powys,grocery_pharm,-50%,-0.5
+Powys,parks,-56%,-0.56
+Powys,transit,-63%,-0.63
+Powys,workplace,-51%,-0.51
+Powys,residential,+23%,0.23
+Reading,retail_recr,-89%,-0.89
+Reading,grocery_pharm,-50%,-0.5
+Reading,parks,-41%,-0.41
+Reading,transit,-84%,-0.84
+Reading,workplace,-55%,-0.55
+Reading,residential,+32%,0.32
+Redcar and Cleveland,retail_recr,-88%,-0.88
+Redcar and Cleveland,grocery_pharm,-44%,-0.44
+Redcar and Cleveland,parks,-63%,-0.63
+Redcar and Cleveland,transit,-62%,-0.62
+Redcar and Cleveland,workplace,-50%,-0.5
+Redcar and Cleveland,residential,+23%,0.23
+Renfrewshire,retail_recr,-86%,-0.86
+Renfrewshire,grocery_pharm,-39%,-0.39
+Renfrewshire,parks,+14%,0.14
+Renfrewshire,transit,-84%,-0.84
+Renfrewshire,workplace,-58%,-0.58
+Renfrewshire,residential,+29%,0.29
+Rhondda Cynon Taff,retail_recr,-80%,-0.8
+Rhondda Cynon Taff,grocery_pharm,-41%,-0.41
+Rhondda Cynon Taff,parks,-47%,-0.47
+Rhondda Cynon Taff,transit,-52%,-0.52
+Rhondda Cynon Taff,workplace,-50%,-0.5
+Rhondda Cynon Taff,residential,+19%,0.19
+Rutland,retail_recr,-100%,-1
+Rutland,grocery_pharm,-37%,-0.37
+Rutland,parks,-70%,-0.7
+Rutland,transit,Not,NA
+Rutland,residential,Not,NA
+Rutland,workplace,-57%,-0.57
+Scottish Borders,retail_recr,-88%,-0.88
+Scottish Borders,grocery_pharm,-46%,-0.46
+Scottish Borders,parks,-39%,-0.39
+Scottish Borders,transit,-44%,-0.44
+Scottish Borders,workplace,-51%,-0.51
+Scottish Borders,residential,+20%,0.2
+Shetland Islands,retail_recr,-85%,-0.85
+Shetland Islands,parks,Not,NA
+Shetland Islands,grocery_pharm,-49%,-0.49
+Shetland Islands,transit,-54%,-0.54
+Shetland Islands,residential,Not,NA
+Shetland Islands,workplace,-60%,-0.6
+Shropshire,retail_recr,-85%,-0.85
+Shropshire,grocery_pharm,-49%,-0.49
+Shropshire,parks,-56%,-0.56
+Shropshire,transit,-70%,-0.7
+Shropshire,workplace,-50%,-0.5
+Shropshire,residential,+14%,0.14
+Slough,retail_recr,-80%,-0.8
+Slough,grocery_pharm,-45%,-0.45
+Slough,parks,-45%,-0.45
+Slough,transit,-78%,-0.78
+Slough,workplace,-54%,-0.54
+Slough,residential,+29%,0.29
+Somerset,retail_recr,-86%,-0.86
+Somerset,grocery_pharm,-48%,-0.48
+Somerset,parks,-56%,-0.56
+Somerset,transit,-73%,-0.73
+Somerset,workplace,-49%,-0.49
+Somerset,residential,+14%,0.14
+South Ayrshire Council,retail_recr,-88%,-0.88
+South Ayrshire Council,grocery_pharm,-42%,-0.42
+South Ayrshire Council,parks,-35%,-0.35
+South Ayrshire Council,transit,-62%,-0.62
+South Ayrshire Council,workplace,-56%,-0.56
+South Ayrshire Council,residential,+20%,0.2
+South Gloucestershire,retail_recr,-81%,-0.81
+South Gloucestershire,grocery_pharm,-45%,-0.45
+South Gloucestershire,parks,-30%,-0.3
+South Gloucestershire,transit,-64%,-0.64
+South Gloucestershire,workplace,-52%,-0.52
+South Gloucestershire,residential,+20%,0.2
+South Lanarkshire,retail_recr,-78%,-0.78
+South Lanarkshire,grocery_pharm,-38%,-0.38
+South Lanarkshire,parks,-6%,-0.06
+South Lanarkshire,transit,-57%,-0.57
+South Lanarkshire,workplace,-54%,-0.54
+South Lanarkshire,residential,+14%,0.14
+South Yorkshire,retail_recr,-86%,-0.86
+South Yorkshire,grocery_pharm,-43%,-0.43
+South Yorkshire,parks,-47%,-0.47
+South Yorkshire,transit,-71%,-0.71
+South Yorkshire,workplace,-53%,-0.53
+South Yorkshire,residential,+15%,0.15
+Southampton,retail_recr,-87%,-0.87
+Southampton,grocery_pharm,-41%,-0.41
+Southampton,parks,-57%,-0.57
+Southampton,transit,-71%,-0.71
+Southampton,workplace,-54%,-0.54
+Southampton,residential,+19%,0.19
+Southend-on-Sea,retail_recr,-89%,-0.89
+Southend-on-Sea,grocery_pharm,-39%,-0.39
+Southend-on-Sea,parks,-63%,-0.63
+Southend-on-Sea,transit,-79%,-0.79
+Southend-on-Sea,workplace,-57%,-0.57
+Southend-on-Sea,residential,+28%,0.28
+Staffordshire,retail_recr,-85%,-0.85
+Staffordshire,grocery_pharm,-44%,-0.44
+Staffordshire,parks,-54%,-0.54
+Staffordshire,transit,-73%,-0.73
+Staffordshire,workplace,-54%,-0.54
+Staffordshire,residential,+14%,0.14
+Stirling,retail_recr,-85%,-0.85
+Stirling,grocery_pharm,-49%,-0.49
+Stirling,parks,-49%,-0.49
+Stirling,transit,-76%,-0.76
+Stirling,workplace,-62%,-0.62
+Stirling,residential,+11%,0.11
+Stockton-on-Tees,retail_recr,-84%,-0.84
+Stockton-on-Tees,grocery_pharm,-47%,-0.47
+Stockton-on-Tees,parks,-60%,-0.6
+Stockton-on-Tees,transit,-69%,-0.69
+Stockton-on-Tees,workplace,-52%,-0.52
+Stockton-on-Tees,residential,+25%,0.25
+Stoke-on-Trent,retail_recr,-84%,-0.84
+Stoke-on-Trent,grocery_pharm,-44%,-0.44
+Stoke-on-Trent,parks,-41%,-0.41
+Stoke-on-Trent,transit,-70%,-0.7
+Stoke-on-Trent,workplace,-49%,-0.49
+Stoke-on-Trent,residential,+14%,0.14
+Suffolk,retail_recr,-87%,-0.87
+Suffolk,grocery_pharm,-51%,-0.51
+Suffolk,parks,-67%,-0.67
+Suffolk,transit,-69%,-0.69
+Suffolk,workplace,-54%,-0.54
+Suffolk,residential,+15%,0.15
+Surrey,retail_recr,-85%,-0.85
+Surrey,grocery_pharm,-44%,-0.44
+Surrey,parks,-57%,-0.57
+Surrey,transit,-74%,-0.74
+Surrey,workplace,-59%,-0.59
+Surrey,residential,+17%,0.17
+Swansea,retail_recr,-84%,-0.84
+Swansea,grocery_pharm,-50%,-0.5
+Swansea,parks,-51%,-0.51
+Swansea,transit,-67%,-0.67
+Swansea,workplace,-54%,-0.54
+Swansea,residential,+19%,0.19
+Swindon,retail_recr,-83%,-0.83
+Swindon,grocery_pharm,-44%,-0.44
+Swindon,parks,-30%,-0.3
+Swindon,transit,-69%,-0.69
+Swindon,workplace,-52%,-0.52
+Swindon,residential,+28%,0.28
+Thurrock,retail_recr,-88%,-0.88
+Thurrock,grocery_pharm,-53%,-0.53
+Thurrock,parks,-51%,-0.51
+Thurrock,transit,-59%,-0.59
+Thurrock,workplace,-50%,-0.5
+Thurrock,residential,+29%,0.29
+Torbay,retail_recr,-86%,-0.86
+Torbay,grocery_pharm,-44%,-0.44
+Torbay,parks,-58%,-0.58
+Torbay,transit,-68%,-0.68
+Torbay,workplace,-55%,-0.55
+Torbay,residential,+24%,0.24
+Torfaen Principal Area,retail_recr,-82%,-0.82
+Torfaen Principal Area,grocery_pharm,-37%,-0.37
+Torfaen Principal Area,parks,Not,NA
+Torfaen Principal Area,transit,-54%,-0.54
+Torfaen Principal Area,workplace,-53%,-0.53
+Torfaen Principal Area,residential,+24%,0.24
+Tyne and Wear,retail_recr,-85%,-0.85
+Tyne and Wear,grocery_pharm,-47%,-0.47
+Tyne and Wear,parks,-58%,-0.58
+Tyne and Wear,transit,-74%,-0.74
+Tyne and Wear,workplace,-57%,-0.57
+Tyne and Wear,residential,+15%,0.15
+Vale of Glamorgan,retail_recr,-84%,-0.84
+Vale of Glamorgan,grocery_pharm,-49%,-0.49
+Vale of Glamorgan,parks,-59%,-0.59
+Vale of Glamorgan,transit,-70%,-0.7
+Vale of Glamorgan,workplace,-54%,-0.54
+Vale of Glamorgan,residential,+27%,0.27
+Warrington,retail_recr,-86%,-0.86
+Warrington,grocery_pharm,-42%,-0.42
+Warrington,parks,-29%,-0.29
+Warrington,transit,-68%,-0.68
+Warrington,workplace,-52%,-0.52
+Warrington,residential,+27%,0.27
+Warwickshire,retail_recr,-86%,-0.86
+Warwickshire,grocery_pharm,-44%,-0.44
+Warwickshire,parks,-56%,-0.56
+Warwickshire,transit,-72%,-0.72
+Warwickshire,workplace,-54%,-0.54
+Warwickshire,residential,+15%,0.15
+West Berkshire,retail_recr,-88%,-0.88
+West Berkshire,grocery_pharm,-49%,-0.49
+West Berkshire,parks,-41%,-0.41
+West Berkshire,transit,-82%,-0.82
+West Berkshire,workplace,-58%,-0.58
+West Berkshire,residential,+29%,0.29
+West Dunbartonshire Council,retail_recr,-75%,-0.75
+West Dunbartonshire Council,grocery_pharm,-43%,-0.43
+West Dunbartonshire Council,parks,Not,NA
+West Dunbartonshire Council,transit,-54%,-0.54
+West Dunbartonshire Council,workplace,-51%,-0.51
+West Dunbartonshire Council,residential,+23%,0.23
+West Lothian,retail_recr,-74%,-0.74
+West Lothian,grocery_pharm,-29%,-0.29
+West Lothian,parks,-29%,-0.29
+West Lothian,transit,-52%,-0.52
+West Lothian,workplace,-50%,-0.5
+West Lothian,residential,+27%,0.27
+West Midlands,retail_recr,-84%,-0.84
+West Midlands,grocery_pharm,-45%,-0.45
+West Midlands,parks,-45%,-0.45
+West Midlands,transit,-78%,-0.78
+West Midlands,workplace,-57%,-0.57
+West Midlands,residential,+15%,0.15
+West Sussex,retail_recr,-85%,-0.85
+West Sussex,grocery_pharm,-46%,-0.46
+West Sussex,parks,-53%,-0.53
+West Sussex,transit,-85%,-0.85
+West Sussex,workplace,-56%,-0.56
+West Sussex,residential,+15%,0.15
+West Yorkshire,retail_recr,-84%,-0.84
+West Yorkshire,grocery_pharm,-44%,-0.44
+West Yorkshire,parks,-49%,-0.49
+West Yorkshire,transit,-74%,-0.74
+West Yorkshire,workplace,-55%,-0.55
+West Yorkshire,residential,+15%,0.15
+Wiltshire,retail_recr,-84%,-0.84
+Wiltshire,grocery_pharm,-45%,-0.45
+Wiltshire,parks,-56%,-0.56
+Wiltshire,transit,-70%,-0.7
+Wiltshire,workplace,-54%,-0.54
+Wiltshire,residential,+15%,0.15
+Windsor and Maidenhead,retail_recr,-88%,-0.88
+Windsor and Maidenhead,grocery_pharm,-42%,-0.42
+Windsor and Maidenhead,parks,-74%,-0.74
+Windsor and Maidenhead,transit,-79%,-0.79
+Windsor and Maidenhead,workplace,-63%,-0.63
+Windsor and Maidenhead,residential,+31%,0.31
+Wokingham,retail_recr,-81%,-0.81
+Wokingham,grocery_pharm,-52%,-0.52
+Wokingham,parks,-26%,-0.26
+Wokingham,transit,-66%,-0.66
+Wokingham,workplace,-61%,-0.61
+Wokingham,residential,+32%,0.32
+Worcestershire,retail_recr,-86%,-0.86
+Worcestershire,grocery_pharm,-47%,-0.47
+Worcestershire,parks,-44%,-0.44
+Worcestershire,transit,-71%,-0.71
+Worcestershire,workplace,-55%,-0.55
+Worcestershire,residential,+14%,0.14
+Wrexham Principal Area,retail_recr,-83%,-0.83
+Wrexham Principal Area,grocery_pharm,-43%,-0.43
+Wrexham Principal Area,parks,-45%,-0.45
+Wrexham Principal Area,transit,-64%,-0.64
+Wrexham Principal Area,workplace,-48%,-0.48
+Wrexham Principal Area,residential,+24%,0.24
+York,retail_recr,-90%,-0.9
+York,grocery_pharm,-50%,-0.5
+York,parks,-64%,-0.64
+York,transit,-84%,-0.84
+York,workplace,-65%,-0.65
+York,residential,+29%,0.29
