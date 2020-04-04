@@ -11,6 +11,8 @@ You'll need the packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](http
 
 ## NEWS
 
+2020-04-04 16:51 `get_all_data.R` script pulls data from all reports, saved in the data folder
+
 2020-04-04 16:26 Add comments to the functions, move tidyverse library call to scripts
 
 2020-04-03 18:22 Converted code into a functions, added date and country codes into output tables, created functions for region reports (US state-level data)
