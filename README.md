@@ -6,12 +6,16 @@
 
 This is a repo to scrape the data from Google's COVID19 community mobility reports https://www.google.com/covid19/mobility/
 
+## Requirements
+You'll need the packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](https://purrr.tidyverse.org), [`xml2](https://xml2.r-lib.org/), [`rvest`](http://rvest.tidyverse.org/), [`pdftools`](https://docs.ropensci.org/pdftools/) and [`countrycode`](https://cran.r-project.org/package=countrycode). These are all on CRAN.
 
 ## NEWS
 
-2020-03-03 18:22 Converted code into a functions, added date and country codes into output tables, created functions for region reports (US state-level data)
+2020-04-04 16:26 Add comments to the functions, move tidyverse library call to scripts
 
-2020-03-03 12:59 - First version, scrape of PDF and extract of data into CSV
+2020-04-03 18:22 Converted code into a functions, added date and country codes into output tables, created functions for region reports (US state-level data)
+
+2020-04-03 12:59 - First version, scrape of PDF and extract of data into CSV
 
 ## How to use
 
