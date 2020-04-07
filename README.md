@@ -6,10 +6,18 @@
 
 This is a repo to scrape the data from Google's COVID19 community mobility reports https://www.google.com/covid19/mobility/. This code is released freely under the MIT Licence, and provided 'as-is'.
 
+This project is built in R and extracts just the headline mobility comparison figures from Google's PDFs. If you are looking to extract the trend-lines please see the following:
+
+* ONS Data Science Campus' [python-based extraction tool](https://github.com/datasciencecampus/mobility-report-data-extractor) and [data archive](https://github.com/datasciencecampus/google-mobility-reports-data) (for UK overall, UK localities, and country-level for G20 countries)
+* Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/), which includes a file with data from all trendlines.
+
+
 ## Requirements
 You'll need the packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](https://purrr.tidyverse.org), [`xml2`](https://xml2.r-lib.org/), [`rvest`](http://rvest.tidyverse.org/), [`pdftools`](https://docs.ropensci.org/pdftools/) and [`countrycode`](https://cran.r-project.org/package=countrycode). These are all on CRAN.
 
 ## NEWS
+
+2020-04-70 16:52 Updated README to reference ONS work on trendline extraction
 
 2020-04-04 16:51 `get_all_data.R` script pulls data from all reports, saved in the data folder
 
