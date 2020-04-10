@@ -24,6 +24,7 @@ Use the links below to directly download the data for the selected dates. You ca
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
+| 2020-04-10 15:36 | Added function `get_update_date()` |
 | 2020-04-10 13:15 | Extracted new mobility data (reference date 2020-04-05) <br /> `get_all_data.R` updated so can be run without needing to change filenames (i.e. will programmatically extract date and use that for the filenames) |
 | 2020-04-07 16:52 | Updated README to reference ONS work on trendline extraction |
 | 2020-04-04 16:51 | `get_all_data.R` script pulls data from all reports, saved in the data folder |
@@ -49,6 +50,7 @@ The `R/functions.R` script provides a number of functions to interact with the G
 * `get_region_list()` gets a list of the region reports available (currently just US states)
 * `get_region_data()` extracts the overall figures from a region report
 * `get_subregion_data()` extracts the locality figures from a region report
+* `get_update_date()` extracts the date the reports were updated (not the reference date of the reports)
 
 The functions return tibbles providing the headline mobility report figures, they do not extract or interact with the trend-lines provided in the chart reports. The tibbles have the following columns:
 

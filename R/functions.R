@@ -278,3 +278,27 @@ get_subregion_data <- function(url) {
   
 }
 
+get_update_date <- function(url = "https://www.google.com/covid19/mobility/") {
+  
+  # get webpage
+  page <- xml2::read_html(url)
+  
+  # get script block that contains date
+  date_script <- page %>% 
+    rvest::html_nodes("#time-update+script") %>% 
+    rvest::html_text() %>%
+    strsplit("\n") %>%
+    pluck(1)
+  
+  date_var <- date_script[str_detect(date_script, "var date = .*")]
+  
+  date_val <- str_sub(
+    date_var,
+    (str_locate(date_var, "\".*\"") + c(1, -1))
+    )
+  
+  date_of_update <- lubridate::as_datetime(date_val)
+  
+  return(date_of_update)
+  
+}
