@@ -4,16 +4,21 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-This is a repo to scrape the data from Google's COVID19 community mobility reports https://www.google.com/covid19/mobility/. This code is released freely under the MIT Licence, and provided 'as-is'.
+This is a repo to scrape the data from Google's COVID19 community mobility reports https://www.google.com/covid19/mobility/ using R. This code is released freely under the MIT Licence, and provided 'as-is'.
 
 This project is built in R and extracts just the headline mobility comparison figures from Google's PDFs. If you are looking to extract the trend-lines please see the following:
 
 * ONS Data Science Campus' [python-based extraction tool](https://github.com/datasciencecampus/mobility-report-data-extractor) and [data archive](https://github.com/datasciencecampus/google-mobility-reports-data) (for UK overall, UK localities, and country-level for G20 countries)
 * Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/), which includes a file with data from all trendlines.
 
+## Data
 
-## Requirements
-You'll need the packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](https://purrr.tidyverse.org), [`xml2`](https://xml2.r-lib.org/), [`rvest`](http://rvest.tidyverse.org/), [`pdftools`](https://docs.ropensci.org/pdftools/) and [`countrycode`](https://cran.r-project.org/package=countrycode). These are all on CRAN.
+Use the links below to directly download the data for the selected dates. You can also browse these in the `data` folder, this folder also contains a log of the processed countries and regions.
+
+| Date       | Wide-format          | Long-format          |
+| ---------- | -------------------- | -------------------- |
+| 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) |
+| 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) |
 
 ## NEWS
 
@@ -27,6 +32,14 @@ You'll need the packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](http
 | 2020-04-03 12:59 | First version, scrape of PDF and extract of data into CSV (reference date 2020-03-29) |
 
 ## How to use
+
+You'll need the following R packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](https://purrr.tidyverse.org), [`xml2`](https://xml2.r-lib.org/), [`rvest`](http://rvest.tidyverse.org/), [`pdftools`](https://docs.ropensci.org/pdftools/) and [`countrycode`](https://cran.r-project.org/package=countrycode). These are all on CRAN.
+
+```r
+install.packages("tidyverse")       # installs dplyr, purrr, rvest and xml2
+install.packages("pdftools")
+install.packages("countrycode")
+```
 
 The `R/functions.R` script provides a number of functions to interact with the Google COVI19 Community Mobility Reports:
 
@@ -61,9 +74,9 @@ There are six mobility entities presented in the reports:
 
 This code is also provided in `mobility_report_scraping.R`
 
-``` {r}
-library(tidyverse)
-source("R/functions.R")
+```r
+library(tidyverse)       # pdftools and countrycode do not need to be loaded
+source("R/functions.R")  # they are referenced in my functions using pkg::fun()
 
 # get list of countries
 # default url is https://www.google.com/covid19/mobility/
