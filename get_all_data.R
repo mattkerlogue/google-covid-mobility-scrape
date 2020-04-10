@@ -28,7 +28,14 @@ all_data_long <- countries_overall %>%
 all_data_wide <- all_data_long %>% 
   pivot_wider(names_from = entity, values_from = value)
 
-write_excel_csv(country_list, "data/processed_countries.csv")
-write_excel_csv(region_list, "data/processed_regions.csv")
-write_excel_csv(all_data_long, "data/2020-03-29_alldata_long.csv")
-write_excel_csv(all_data_wide, "data/2020-03-29_alldata_wide.csv")
+write_excel_csv(country_list, "data/processed_countries.csv", append = TRUE)
+write_excel_csv(region_list, "data/processed_regions.csv", append = TRUE)
+
+outdate <- paste0(unique(all_data_wide$date), collapse = "_")
+
+write_excel_csv(all_data_long, 
+                file.path("data", 
+                          paste(outdate, "alldata_long.csv", sep = "_")))
+write_excel_csv(all_data_wide,
+                file.path("data", 
+                          paste(outdate, "alldata_wide.csv", sep = "_")))

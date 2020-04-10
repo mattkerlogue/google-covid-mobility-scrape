@@ -17,15 +17,14 @@ You'll need the packages: [`dplyr`](https://dplyr.tidyverse.org), [`purrr`](http
 
 ## NEWS
 
-2020-04-70 16:52 Updated README to reference ONS work on trendline extraction
-
-2020-04-04 16:51 `get_all_data.R` script pulls data from all reports, saved in the data folder
-
-2020-04-04 16:26 Add comments to the functions, move tidyverse library call to scripts
-
-2020-04-03 18:22 Converted code into a functions, added date and country codes into output tables, created functions for region reports (US state-level data)
-
-2020-04-03 12:59 - First version, scrape of PDF and extract of data into CSV
+| Date             | Update                                                    |
+| ---------------- | --------------------------------------------------------- |
+| 2020-04-10 13:15 | Extracted new mobility data (reference date 2020-04-05) <br /> `get_all_data.R` updated so can be run without needing to change filenames (i.e. will programmatically extract date and use that for the filenames) |
+| 2020-04-07 16:52 | Updated README to reference ONS work on trendline extraction |
+| 2020-04-04 16:51 | `get_all_data.R` script pulls data from all reports, saved in the data folder |
+| 2020-04-04 16:26 | Add comments to the functions, move tidyverse library call to scripts |
+| 2020-04-03 18:22 | Converted code into a functions, added date and country codes into output tables, created functions for region reports (US state-level data) |
+| 2020-04-03 12:59 | First version, scrape of PDF and extract of data into CSV (reference date 2020-03-29) |
 
 ## How to use
 
