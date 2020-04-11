@@ -1,4 +1,4 @@
-library(tidyverse)
+suppressPackageStartupMessages(library(tidyverse))
 source("R/functions.R")
 
 # checkout the autoupdate branch if not interactive
