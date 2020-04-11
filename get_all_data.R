@@ -7,7 +7,11 @@ last_update <- read_lines("LASTUPDATE_UTC.txt") %>%
 live_update <- get_update_time()
 
 if (live_update == last_update) {
-  message("Nothing has changed")
+  
+  log_msg <- "  No update"
+  
+  data_update <- FALSE
+  
 } else {
   country_list <- get_country_list()
   
@@ -81,17 +85,32 @@ if (live_update == last_update) {
                                     time_file,
                                     sep = "_"))) 
     
+    log_msg <- "!! Previously published reports were updated"
+    
+  } else {
+    
+    write_excel_csv(country_list, "data/processed_countries.csv", append = TRUE)
+    write_excel_csv(region_list, "data/processed_regions.csv", append = TRUE)
+    
+    write_excel_csv(all_data_long, 
+                    file.path("data", 
+                              paste(this_outdate, "alldata_long.csv", sep = "_")))
+    write_excel_csv(all_data_wide,
+                    file.path("data", 
+                              paste(this_outdate, "alldata_wide.csv", sep = "_")))
+    
+    log_msg <- "!! New reports were published"
+    
   }
   
-  write_excel_csv(country_list, "data/processed_countries.csv", append = TRUE)
-  write_excel_csv(region_list, "data/processed_regions.csv", append = TRUE)
-  
-  write_excel_csv(all_data_long, 
-                  file.path("data", 
-                            paste(this_outdate, "alldata_long.csv", sep = "_")))
-  write_excel_csv(all_data_wide,
-                  file.path("data", 
-                            paste(this_outdate, "alldata_wide.csv", sep = "_")))
+  data_update <- TRUE
   
 }
+
+if (interactive()) {
+  message(log_msg)
+}
+
+log_msg <- paste0(Sys.time(), " ", log_msg)
+write_lines(log_msg, "processing.log", append = TRUE)
 
