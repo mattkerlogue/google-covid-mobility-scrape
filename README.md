@@ -20,10 +20,13 @@ Use the links below to directly download the data for the selected dates. You ca
 | 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) |
 | 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) |
 
+The `get_all_data.R` script now runs hourly (at 5 minutes past the hour), and will push an update to the `autoupdate` branch if it scrapes new data.
+
 ## NEWS
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
+| 2020-04-11 15:43 | `get_all_data.R` amended to add logging and automated git commit/push if data updated |
 | 2020-04-10 16:16 | `get_all_data.R` amended to check update time, doesn't run extraction code if times are the same,  gives a warning if update times have changed but report dates are unchanged |
 | 2020-04-10 15:36 | Added function `get_update_time()` to extract time of update |
 | 2020-04-10 13:15 | Extracted new mobility data (reference date 2020-04-05) <br /> `get_all_data.R` updated so can be run without needing to change filenames (i.e. will programmatically extract date and use that for the filenames) |

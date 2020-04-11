@@ -1,11 +1,19 @@
 library(tidyverse)
 source("R/functions.R")
 
+# checkout the autoupdate branch if not interactive
+if (!interactive()) {
+  git2r::checkout(".", "autoupdate") 
+}
+
+# get time of last data update
 last_update <- read_lines("LASTUPDATE_UTC.txt") %>%
   lubridate::as_datetime()
 
+# get current update time
 live_update <- get_update_time()
 
+# if no update set message & flag otherwise scrape
 if (live_update == last_update) {
   
   log_msg <- "  No update"
@@ -13,8 +21,10 @@ if (live_update == last_update) {
   data_update <- FALSE
   
 } else {
+  # get list of countries with reports
   country_list <- get_country_list()
   
+  # get the date of the reports and the latest update already processed
   this_outdate <- paste0(unique(country_list$date))
   max_past_outdate <- suppressMessages(
     read_csv("data/processed_countries.csv") %>%
@@ -22,40 +32,52 @@ if (live_update == last_update) {
       max()
   )
   
+  # create existing reports updated flag
   existing_report_update <- FALSE
   
+  # if the report dates are the same then set flag to true
   if (this_outdate == max_past_outdate) {
     warning("Report update date has changed, date of reports has not changed")
     existing_report_update <- TRUE
   }
   
+  # get country and subnational data
   country_dt <- country_list %>%
     mutate(overall_data = map(url, get_national_data),
            locality_data = map(url, get_subnational_data))
   
+  # get list of regional reports
   region_list <- get_region_list()
   
+  # get regional data
   region_dt <- region_list %>%
     mutate(overall_data = map(url, get_region_data),
            locality_data = map(url, get_subregion_data))
   
+  # combine the country and region data
   full_dt <- country_dt %>%
     bind_rows(region_dt)
   
+  # get data for all countries and all localities (drop US-level report's 
+  # subnational data as duplicated in regional reports)
   countries_overall <- map_dfr(full_dt$overall_data, bind_rows)
   locality_overall <- map_dfr(full_dt$locality_data, bind_rows) %>%
     filter(!(country == "US" & is.na(region)))
   
+  # combine all the data into a long form dataset, get countryname from code
   all_data_long <- countries_overall %>%
     bind_rows(locality_overall) %>%
     mutate(country_name = countrycode::countrycode(country, "iso2c", "country.name")) %>%
     select(date, country, country_name, region, location, entity, value)
   
+  # pivot into a wide table
   all_data_wide <- all_data_long %>% 
     pivot_wider(names_from = entity, values_from = value)
   
+  # write the update time
   write_lines(live_update, "LASTUPDATE_UTC.txt")
   
+  # if existing reports updated add update timestamp to filenames
   if (existing_report_update) {
     
     time_file <- paste0(format(live_update, "%y%m%dT%H%M%SZ"), ".csv") 
@@ -85,6 +107,7 @@ if (live_update == last_update) {
                                     time_file,
                                     sep = "_"))) 
     
+    # set log message
     log_msg <- "!! Previously published reports were updated"
     
   } else {
@@ -98,26 +121,41 @@ if (live_update == last_update) {
     write_excel_csv(all_data_wide,
                     file.path("data", 
                               paste(this_outdate, "alldata_wide.csv", sep = "_")))
-    
+    # set log message
     log_msg <- "!! New reports were published"
     
   }
   
+  # set data update flag
   data_update <- TRUE
   
 }
 
+# if in interactive R tell the user what's happened
 if (interactive()) {
   message(log_msg)
 }
 
+# write the log message to the processing log
 log_msg <- paste0(Sys.time(), " ", log_msg)
 write_lines(log_msg, "processing.log", append = TRUE)
 
-if (data_update) {
-  git2r::checkout(".", "autoupdate")
-  commit_msg <- paste("AUTOUPDATE", Sys.time())
+# FOR AUTOMATED PROCESSING ONLY
+# if data is updated commit to the autoupdate brance
+if (!interactive & data_update) {
+  # add new data files
+  git2r::add(".", "data/*")
+  
+  # AUTOMATED commit message
+  commit_msg <- paste("AUTOUPDATE", Sys.time(), log_msg, sep = ": ")
+  
+  # commit everything that has changed
   git2r::commit(".", message = commit_msg, all = TRUE)
+  
+  # push to repo
   git2r::push(".", "origin", "refs/heads/autoupdate", 
               credentials = git2r::cred_token())
+  
+  # go back to master
+  git2r::checkout(".", "master")
 }
