@@ -20,7 +20,12 @@ Use the links below to directly download the data for the selected dates. You ca
 | 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) |
 | 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) |
 
-The `get_all_data.R` script now runs hourly (at 5 minutes past the hour), and will push an update to the `autoupdate` branch if it scrapes new data.
+The `get_all_data.R` script can now be run quickly from the command line and will push new data to the autoupdate repo automatically.
+
+```
+cd ~/r/google-covid-mobility-scrape
+Rscript get_all_data.R
+```
 
 ## NEWS
 
