@@ -142,7 +142,7 @@ write_lines(log_msg, "processing.log", append = TRUE)
 
 # FOR AUTOMATED PROCESSING ONLY
 # if data is updated commit to the autoupdate brance
-if (!interactive & data_update) {
+if (!interactive() & data_update) {
   # add new data files
   git2r::add(".", "data/*")
   
