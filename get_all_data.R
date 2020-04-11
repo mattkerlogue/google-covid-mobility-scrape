@@ -114,3 +114,10 @@ if (interactive()) {
 log_msg <- paste0(Sys.time(), " ", log_msg)
 write_lines(log_msg, "processing.log", append = TRUE)
 
+if (data_update) {
+  git2r::checkout(".", "autoupdate")
+  commit_msg <- paste("AUTOUPDATE", Sys.time())
+  git2r::commit(".", message = commit_msg, all = TRUE)
+  git2r::push(".", "origin", "refs/heads/autoupdate", 
+              credentials = git2r::cred_token())
+}
