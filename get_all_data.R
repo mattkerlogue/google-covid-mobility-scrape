@@ -102,6 +102,11 @@ if (live_update == last_update) {
                                     time_file,
                                     sep = "_"))) 
     
+    # also write data to 'latest' CSVs for easy use of latest available data 
+    # in other applications
+    write_excel_csv(all_data_long, file.path("data","latest_alldata_long.csv"))
+    write_excel_csv(all_data_wide, file.path("data","latest_alldata_wide.csv"))
+    
     # set log message
     log_msg <- "!! Previously published reports were updated"
     
@@ -116,6 +121,12 @@ if (live_update == last_update) {
     write_excel_csv(all_data_wide,
                     file.path("data", 
                               paste(this_outdate, "alldata_wide.csv", sep = "_")))
+    
+    # also write data to 'latest' CSVs for easy use of latest available data 
+    # in other applications
+    write_excel_csv(all_data_long, file.path("data","latest_alldata_long.csv"))
+    write_excel_csv(all_data_wide, file.path("data","latest_alldata_wide.csv"))
+    
     # set log message
     log_msg <- "!! New reports were published"
     
