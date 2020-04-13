@@ -1,11 +1,6 @@
 suppressPackageStartupMessages(library(tidyverse))
 source("R/functions.R")
 
-# checkout the autoupdate branch if not interactive
-if (!interactive()) {
-  git2r::checkout(".", "autoupdate") 
-}
-
 # get time of last data update
 last_update <- read_lines("LASTUPDATE_UTC.txt") %>%
   lubridate::as_datetime()
@@ -140,22 +135,3 @@ if (interactive()) {
 log_msg <- paste0(Sys.time(), " ", log_msg)
 write_lines(log_msg, "processing.log", append = TRUE)
 
-# FOR AUTOMATED PROCESSING ONLY
-# if data is updated commit to the autoupdate brance
-if (!interactive() & data_update) {
-  # add new data files
-  git2r::add(".", "data/*")
-  
-  # AUTOMATED commit message
-  commit_msg <- paste("AUTOUPDATE", Sys.time(), log_msg, sep = ": ")
-  
-  # commit everything that has changed
-  git2r::commit(".", message = commit_msg, all = TRUE)
-  
-  # push to repo
-  git2r::push(".", "origin", "refs/heads/autoupdate", 
-              credentials = git2r::cred_token())
-  
-  # go back to master
-  git2r::checkout(".", "master")
-}
