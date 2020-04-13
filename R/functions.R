@@ -41,65 +41,79 @@ get_subnational_data <- function(url) {
   
   # get the report, subset to locality pages and convert to dataframe
   report_data <- pdftools::pdf_data(url)
-  subnational_pages <- report_data[3:(length(report_data)-1)]
-  subnational_data <- map_dfr(subnational_pages, bind_rows, .id = "page")
   
-  # get the report file name and the date and country
-  filename <- basename(url)
-  
-  date <- strsplit(filename, "_")[[1]][1]
-  country <- strsplit(filename, "_")[[1]][2]
-  
-  # extract information for each locality
-  subnational_datapoints <- subnational_data %>%
-    filter(y == 36  | y == 104 | y == 242 | 
-           y == 363 | y == 431 | y == 568) %>%
-    mutate(
-      entity = case_when(
-        y == 36 ~ "location",
-        y == 104 & x == 36  ~ "retail_recr",
-        y == 104 & x == 210 ~ "grocery_pharm",
-        y == 104 & x == 384 ~ "parks",
-        y == 242 & x == 36  ~ "transit",
-        y == 242 & x == 210 ~ "workplace",
-        y == 242 & x == 384 ~ "residential",
-        y == 363 ~ "location",
-        y == 431 & x == 36  ~ "retail_recr",
-        y == 431 & x == 210 ~ "grocery_pharm",
-        y == 431 & x == 384 ~ "parks",
-        y == 568 & x == 36  ~ "transit",
-        y == 568 & x == 210 ~ "workplace",
-        y == 568 & x == 384 ~ "residential"),
-      position = case_when(
-        y == 36 ~ "first",
-        y == 104 ~ "first",
-        y == 242 ~ "first",
-        y == 363 ~ "second",
-        y == 431 ~ "second",
-        y == 568 ~ "second")
+  # reports with sub-national data have more than 3 pages
+  if (length(report_data) > 3) {
+    subnational_pages <- report_data[3:(length(report_data) - 1)]
+    subnational_data <- map_dfr(subnational_pages, bind_rows, .id = "page")
+    
+    # get the report file name and the date and country
+    filename <- basename(url)
+    
+    date <- strsplit(filename, "_")[[1]][1]
+    country <- strsplit(filename, "_")[[1]][2]
+    
+    # extract information for each locality
+    subnational_datapoints <- subnational_data %>%
+      filter(y == 36  | y == 104 | y == 242 | 
+               y == 363 | y == 431 | y == 568) %>%
+      mutate(
+        entity = case_when(
+          y == 36 ~ "location",
+          y == 104 & x == 36  ~ "retail_recr",
+          y == 104 & x == 210 ~ "grocery_pharm",
+          y == 104 & x == 384 ~ "parks",
+          y == 242 & x == 36  ~ "transit",
+          y == 242 & x == 210 ~ "workplace",
+          y == 242 & x == 384 ~ "residential",
+          y == 363 ~ "location",
+          y == 431 & x == 36  ~ "retail_recr",
+          y == 431 & x == 210 ~ "grocery_pharm",
+          y == 431 & x == 384 ~ "parks",
+          y == 568 & x == 36  ~ "transit",
+          y == 568 & x == 210 ~ "workplace",
+          y == 568 & x == 384 ~ "residential"),
+        position = case_when(
+          y == 36 ~ "first",
+          y == 104 ~ "first",
+          y == 242 ~ "first",
+          y == 363 ~ "second",
+          y == 431 ~ "second",
+          y == 568 ~ "second")
+      )
+    
+    # combine location information into a label
+    locations <- subnational_datapoints %>% 
+      filter(entity == "location") %>%
+      select(page, position, text) %>%
+      group_by(page, position) %>%
+      nest() %>%
+      mutate(location = map_chr(data, paste),
+             location = str_remove_all(location, "^c\\(\""),
+             location = str_replace_all(location, "\", \"", " "),
+             location = str_remove_all(location, "\"\\)"),
+             location = str_replace_all(location, "And", "and")) %>%
+      select(page, position, location)
+    
+    # merge location label with datapoints
+    location_data <- subnational_datapoints %>%
+      left_join(locations, by = c("page", "position")) %>%
+      filter(entity != "location") %>%
+      mutate(value = as.numeric(str_remove_all(text, "\\%"))/100,
+             date = date,
+             country = country) %>%
+      select(date, country, location, entity, value)
+    
+  } else {
+    # create empty tibble if no sub-national data
+    location_data <- tibble::tibble(
+      date = character(), 
+      country = character(),
+      location = character(),
+      entity = character(),
+      value = double()
     )
-  
-  # combine location information into a label
-  locations <- subnational_datapoints %>% 
-    filter(entity == "location") %>%
-    select(page, position, text) %>%
-    group_by(page, position) %>%
-    nest() %>%
-    mutate(location = map_chr(data, paste),
-           location = str_remove_all(location, "^c\\(\""),
-           location = str_replace_all(location, "\", \"", " "),
-           location = str_remove_all(location, "\"\\)"),
-           location = str_replace_all(location, "And", "and")) %>%
-    select(page, position, location)
-  
-  # merge location label with datapoints
-  location_data <- subnational_datapoints %>%
-    left_join(locations, by = c("page", "position")) %>%
-    filter(entity != "location") %>%
-    mutate(value = as.numeric(str_remove_all(text, "\\%"))/100,
-           date = date,
-           country = country) %>%
-    select(date, country, location, entity, value)
+  }
   
   # return data
   return(location_data)
