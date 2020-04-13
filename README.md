@@ -12,15 +12,18 @@ This project is built in R and extracts just the headline mobility comparison fi
 * Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/), which includes a file with data from all trendlines.
 
 ## Data
-
 Use the links below to directly download the data for the selected dates. You can also browse these in the `data` folder, this folder also contains a log of the processed countries and regions.
+
+A [GitHub action workflow](.github/workflows/main.yaml) runs the `get_all_data.R` script on an hourly basis to check for new reports. If new reports have been published (or existing reports updated) the script will run and new data will be pushed to the repository, files continue to have the format `YYYY-MM-DD_alldata_[wide|long].csv` however there are now also `latest_alldata_[wide|long].csv` files which are copies of the last produced data. All files contain a reference date column.
+
+The table below provides a list of data in the repository, but is manually updated, check [`processing.log`](processing.log) for a log of activty, and [`LASTUPDATE_UTC.txt`](LASTUPDATE_UTC.txt) for the metadata relating to updates if you want to check whether there has been an update.
 
 | Date       | Wide-format          | Long-format          |
 | ---------- | -------------------- | -------------------- |
+| **Latest**     | [**latest_alldata_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_wide.csv) | [**latest_alldata_long.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_long.csv) |
 | 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) |
 | 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) |
 
-The `get_all_data.R` script can now be run quickly from the command line and will push new data to the autoupdate repo automatically.
 
 ```
 cd ~/r/google-covid-mobility-scrape
@@ -31,7 +34,7 @@ Rscript get_all_data.R
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
-| 2020-04-11 15:43 | `get_all_data.R` amended to add logging and automated git commit/push if data updated |
+| 2020-04-13 19:30 | `get_all_data.R` now runs hourly via GitHub actions |
 | 2020-04-10 16:16 | `get_all_data.R` amended to check update time, doesn't run extraction code if times are the same,  gives a warning if update times have changed but report dates are unchanged |
 | 2020-04-10 15:36 | Added function `get_update_time()` to extract time of update |
 | 2020-04-10 13:15 | Extracted new mobility data (reference date 2020-04-05) <br /> `get_all_data.R` updated so can be run without needing to change filenames (i.e. will programmatically extract date and use that for the filenames) |
