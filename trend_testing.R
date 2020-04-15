@@ -144,9 +144,9 @@ svg_paths_p2 <- svg_data_p2 %>%
 
 dt_p2 <- svg_paths_p2 %>% filter(
   str_detect(style, "rgb\\(25.878906\\%,52.159119\\%,95.689392\\%\\)")) %>%
-  drop_na(transform) %>%
   mutate(transformdat = str_remove_all(transform, "matrix\\(|\\)")) %>%
   separate(transformdat, into = c(NA, NA, NA, NA, "base_x", "base_y"), sep =",") %>%
+  drop_na(transform) %>%
   select(base_x, base_y, d) %>%
   mutate(
     nd = str_replace(d,"^M[ |-]+\\d+\\.\\d+ \\d+.\\d+", "0 50") %>%
@@ -156,3 +156,14 @@ dt_p2 <- svg_paths_p2 %>% filter(
     coords = map(nd, gen_xy),
 entity = map2_chr(base_x, base_y, entity_assign),
 position = map2_chr(base_x, base_y, position_assign))
+
+svgdt <- xml2::read_html("/var/folders/x7/94g4gp_s0jlcgg39ln09yq0w0000gn/T//RtmpM5NzW4/file_2_.svg")
+svgpth <- svgdt %>% 
+  html_nodes("path") %>% 
+  html_attrs() %>%
+  map_dfr(bind_rows) %>%
+  drop_na(transform) %>%
+  filter(str_detect(style, "rgb\\(25.878906\\%,52.159119\\%,95.689392\\%\\)")) %>%
+  mutate(transformdat = str_remove_all(transform, "matrix\\(|\\)")) %>%
+  separate(transformdat, into = c(NA, NA, NA, NA, "base_x", "base_y"), sep = ",") %>%
+  select(base_x, base_y, d)
