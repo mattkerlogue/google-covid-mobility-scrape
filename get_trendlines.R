@@ -48,6 +48,7 @@ location_trends_long_slim <- location_trends %>%
   select(full_ref, value)
 
 location_trends_wide <- location_trends_long %>%
+  select(-full_ref) %>%
   pivot_wider(names_from = date, 
               values_from = value, 
               values_fill = list(value = NA_real_),
