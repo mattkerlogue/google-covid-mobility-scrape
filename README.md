@@ -3,6 +3,7 @@
 
 <!-- badges: start -->
 ![googleC19scrape](https://github.com/mattkerlogue/google-covid-mobility-scrape/workflows/googleC19scrape/badge.svg)
+![test_autoscrape](https://github.com/mattkerlogue/google-covid-mobility-scrape/workflows/test_autoscrape/badge.svg)
 <!-- badges: end -->
 
 This is a repo to scrape the data from Google's COVID19 community mobility reports https://www.google.com/covid19/mobility/ using R. This code is released freely under the MIT Licence, and provided 'as-is'.
