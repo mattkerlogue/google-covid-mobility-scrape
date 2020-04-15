@@ -1,0 +1,49 @@
+# Workflow to test webscraping
+
+name: test_autoscrape
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches:
+      - 'test/trendlines'
+    paths:
+      - 'LASTUPDATE_UTC.txt'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # Scraping job
+  trendlines:
+    # The type of runner that the job will run on
+    runs-on: macos-latest
+
+    # Load repo and install R
+    steps:
+    - uses: actions/checkout@v2
+      with: 
+        ref: test/trendlines
+    - uses: r-lib/actions/setup-r@master
+
+    # Set-up R
+    - name: Install packages
+      run: |
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("pdftools")'
+        R -e 'install.packages("countrycode")'
+    # Run R script
+    - name: Scrape
+      run: Rscript get_trendlines.R
+    
+    # Save artifacts
+    - name: Upload data
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: autoscrape_test_data
+        path: data/latest_trendline_wide.csv
+
+    - name: Upload log
+      uses: actions/upload-artifact@v1.0.0
+      with:
+        name: autoscrape_test_log
+        path: processing.trendline.log

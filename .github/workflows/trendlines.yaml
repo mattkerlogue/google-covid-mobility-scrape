@@ -1,0 +1,47 @@
+# Hourly scraping
+
+name: googleC19trendscrape
+
+# Controls when the action will run. Triggers the workflow on push or pull request
+# events but only for the master branch
+on:
+  push:
+    branches:
+      - 'master'
+    paths:
+      - 'LASTUPDATE_UTC.txt'
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # Scraping job
+  trendlines:
+    # The type of runner that the job will run on
+    runs-on: macos-latest
+
+    # Load repo and install R
+    steps:
+    - uses: actions/checkout@master
+    - uses: r-lib/actions/setup-r@master
+
+    # Set-up R
+    - name: Install pacakges
+      run: |
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("pdftools")'
+        R -e 'install.packages("countrycode")'
+
+    # Run R script
+    - name: Scrape
+      run: Rscript get_trendlines.R
+    
+    # Add new files in data folder, commit along with other modified files, push
+    - name: Commit files
+      run: |
+        git config --local user.name github-actions
+        git config --local user.email "actions@github.com"
+        git add data/*
+        git commit -am "GH ACTION Autorun $(date)"
+        git push origin master
+      env:
+        REPO_KEY: ${{secrets.GITHUB_TOKEN}}
+        username: github-actions
