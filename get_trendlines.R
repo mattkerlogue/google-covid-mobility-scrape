@@ -1,6 +1,10 @@
 library(tidyverse)
 source("R/trendline_functions.R")
 
+if (!dir.exists("tmp")) {
+  dir.create("tmp")
+}
+
 url_list <- get_pdf_links() %>%
   mutate(file = map(url, download_pdf))
 
