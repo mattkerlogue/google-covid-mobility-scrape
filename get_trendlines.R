@@ -10,7 +10,9 @@ pdf_base_dt <- url_list %>%
 pdf_data_dt <- pdf_base_dt %>%
   mutate(trend = pmap(list(file, pages, date), get_svg_pages))
 
-saveRDS(pdf_data_dt, "data/intermediate_trendline_data.RDS")
+# uncomment to save intermediate object, useful when testing/running interactively
+# saveRDS(pdf_data_dt, "data/intermediate_trendline_data.RDS")
+# pdf_data_dt <- readRDS("data/intermediate_trendline_data.RDS")
 
 location_trends <- pdf_data_dt %>%
   select(country, type, country_name, region, ref_date = date, trend) %>%
@@ -29,14 +31,19 @@ location_trends <- pdf_data_dt %>%
       str_replace(
         paste(country, region, location, sep = "."),
         "\\.NA\\.",
-        "\\.")),
+        "\\..")),
     timeplace_ref = toupper(paste(date, entity, sep = ".")),
     full_ref = paste(location_ref, timeplace_ref, sep = "."),
     value = round(value, 4))
 
-location_trends_wide <- location_trends %>%
-  select(-location_ref, -timeplace_ref, -full_ref) %>%
-  mutate(value = round(value, 4)) %>%
+location_trends_long <- location_trends %>%
+  select(country, type, country_name, region, ref_date, 
+         location, entity, date, full_ref, value)
+
+location_trends_long_slim <- location_trends %>%
+  select(full_ref, value)
+
+location_trends_wide <- location_trends_long %>%
   pivot_wider(names_from = date, 
               values_from = value, 
               values_fill = list(value = NA_real_),
@@ -51,16 +58,28 @@ processing_dt <- pdf_data_dt %>%
 write_excel_csv(
   processing_dt,
   path = file.path("data", "processed_trendlines.csv"),
-  append = TRUE
-)
+  append = TRUE)
+
+write_rds(
+  location_trends_long, 
+  path = file.path("data", paste0(report_date, "_trendline_long.rds")),
+  compress = "bz2")
 
 write_excel_csv(
-  location_trends, 
-  path = file.path("data", paste0(report_date, "_trendline_long.csv")),
+  location_trends_wide, 
+  path = file.path("data", paste0(report_date, "_trendline_wide.csv.bz2")),
   na = "")
 
 write_excel_csv(
-  location_trends, 
-  path = file.path("data", "latest_trendline_long.csv"),
+  location_trends_long_slim, 
+  path = file.path("data", "latest_trendline_long_slim.csv.bz2"),
   na = "")
 
+write_excel_csv(
+  location_trends_wide, 
+  path = file.path("data", "latest_trendline_wide.csv"),
+  na = "")
+
+write_lines(report_date, "LASTUPDATE_TRENDLINE_DATE.txt")
+log_msg <- paste0(Sys.time(), "  TRENDLINES EXTRACTED | Report date: ", report_date)
+write_lines(log_msg, "processing.trendline.log", append = TRUE)
