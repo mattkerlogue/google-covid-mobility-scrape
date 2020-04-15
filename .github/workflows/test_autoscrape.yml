@@ -19,7 +19,8 @@ jobs:
     # Load repo and install R
     steps:
     - uses: actions/checkout@v2
-        with: test/autoscrape
+      with: 
+        ref: test/autoscrape
     - uses: r-lib/actions/setup-r@master
       
     # Delete data folder, reset last update
