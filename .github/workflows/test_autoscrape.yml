@@ -22,13 +22,6 @@ jobs:
       with: 
         ref: test/autoscrape
     - uses: r-lib/actions/setup-r@master
-      
-    # Delete data folder, reset last update
-    - name: Reset folder
-      run: |
-        rm -r data/
-        mkdir data
-        echo '2020-01-01 00:00:01' > LASTUPDATE_UTC.txt
 
     # Set-up R
     - name: Install pacakges
