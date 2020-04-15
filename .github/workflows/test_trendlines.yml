@@ -28,6 +28,7 @@ jobs:
     # Set-up R
     - name: Install packages
       run: |
+        brew install pdf2svg
         R -e 'install.packages("tidyverse")'
         R -e 'install.packages("pdftools")'
         R -e 'install.packages("countrycode")'
