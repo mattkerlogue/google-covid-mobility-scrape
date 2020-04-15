@@ -15,7 +15,7 @@ download_pdf <- function(url) {
   
   filename <- basename(url)
   
-  tmp_pdf <- file.path(tempdir(), filename)
+  tmp_pdf <- file.path("tmp", filename)
   
   download.file(url, tmp_pdf, mode = "wb")
   
@@ -25,7 +25,7 @@ download_pdf <- function(url) {
 
 pdf2svg <- function(file, page) {
 
-  svgfile <- file.path(tempdir(), paste(str_remove("file.pdf", "\\.pdf$"),
+  svgfile <- file.path("tmp", paste(str_remove("file.pdf", "\\.pdf$"),
                                         page,
                                         ".svg",
                                         sep = "_"))
