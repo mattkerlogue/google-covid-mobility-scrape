@@ -6,9 +6,11 @@
 ![test_autoscrape](https://github.com/mattkerlogue/google-covid-mobility-scrape/workflows/test_autoscrape/badge.svg)
 <!-- badges: end -->
 
-This is a repo to scrape the data from Google's [COVID19 community mobility reports](https://www.google.com/covid19/mobility/) using R. This code is released freely under the MIT Licence, and provided 'as-is'.
+This is a repo to scrape the data from Google's [COVID19 community mobility reports](https://www.google.com/covid19/mobility/) using R. This code is released freely under the MIT Licence, it is provided 'as-is'.
 
-This project is built in R and extracts just the headline mobility comparison figures from Google's PDFs. If you are looking to extract the trend-lines please see the following:
+This project is built in R and extracts both the headline mobility comparison figures and trendline data from Google's PDFs.
+
+The trendline extraction work benefits significantly from the following work:
 
 * ONS Data Science Campus' [python-based extraction tool](https://github.com/datasciencecampus/mobility-report-data-extractor) and [data archive](https://github.com/datasciencecampus/google-mobility-reports-data) (for UK overall, UK localities, and country-level for G20 countries)
 * Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/), which includes a file with data from all trendlines.
@@ -21,9 +23,9 @@ If you'd like to read about the process of developing this code please read the 
 ## Data
 Use the links below to directly download the data for the selected dates. You can also browse these in the `data` folder, this folder also contains a log of the processed countries and regions.
 
-| Date       | Headlines (wide)     | Headlines (long)     | Trendlines (wide)    | Trendlines (long)    |
+| Date       | Headline figuress (wide) | Headline figures (long) | Trendlines (wide)    | Trendlines (long)    |
 | ---------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| **Latest**     | [**latest_alldata_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_wide.csv) | [**latest_alldata_long.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_long.csv) | [**latest_trendline_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_trendline_wide.csv) | [**latest_trendline_long_slim.csv.bzip2**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_trendline_long_slim.csv.bz2) (*note Bzip2 compressed file*) |
+| **Latest**     | [**latest_alldata_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_wide.csv) | [**latest_alldata_long.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_long.csv) | [**latest_trendline_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_trendline_wide.csv) | [**latest_trendline_long_slim.csv.bz2**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_trendline_long_slim.csv.bz2) (*note Bzip2 compressed file*) |
 | 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) | [2020-04-05_trendline_wide.csv.bz2](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_trendline_wide.csv.bz2) (*note Bzip2 compressed file*) | [2020-04-05_trendline_long.rds](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_trendline_long.rds) (*note native R RDS format*) |
 | 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) | NA | NA |
 
@@ -34,6 +36,7 @@ Trendline data is extracted but saved in compressed formats due to the size of t
 
 The table below provides a list of data in the repository, but is manually updated, check [`processing.log`](processing.log) for a log of activity, and [`LASTUPDATE_UTC.txt`](LASTUPDATE_UTC.txt) for the metadata relating to updates if you want to check whether there has been an update. Logs files for the trendline extracation are [`processing.trendline.log`](processing.trendline.log) and [`LASTUPDATE_TRENDLINE_UTC.txt`](LASTUPDATE_TRENDLINE_UTC.txt)
 
+**NOTE:** In the extracting the trendlines, for programatic simplicity, the code arbitraily sets all data points for Sunday 23 Feb 2020 (2020-02-23) at 0.
 
 ```
 cd ~/r/google-covid-mobility-scrape
@@ -44,7 +47,8 @@ Rscript get_all_data.R
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
-| 2020-04-15 22:16 | **TRENDLINES EXTRACTED** data for the trendlines is now being extracted thanks to Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/) |
+| 2020-04-16 01:50 | Corrected an error with the baselining of trendlines for the overall report trends. |
+| 2020-04-15 22:16 | **TRENDLINES EXTRACTED** data for the trendlines is now being extracted, with thanks to Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/) for the code inspiration. |
 | 2020-04-13 19:30 | `get_all_data.R` now runs hourly via GitHub actions |
 | 2020-04-10 16:16 | `get_all_data.R` amended to check update time, doesn't run extraction code if times are the same,  gives a warning if update times have changed but report dates are unchanged |
 | 2020-04-10 15:36 | Added function `get_update_time()` to extract time of update |
