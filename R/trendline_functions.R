@@ -147,6 +147,8 @@ get_svg_data <- function(file, page, report_date) {
   
   svgfile <- pdf2svg(file, page)
   
+  svg_replace <- ifelse(page < 3, "0 60", "0 50")
+  
   svg_path_dt <- xml2::read_html(svgfile) %>%
     rvest::html_nodes("path") %>% 
     rvest::html_attrs() %>%
@@ -157,7 +159,7 @@ get_svg_data <- function(file, page, report_date) {
     separate(transformdat, into = c(NA, NA, NA, NA, "base_x", "base_y"), sep = ",") %>%
     # select(base_x, base_y, d) %>%
     mutate(
-      nd = str_replace(d,"^M[ |-]+\\d+\\.\\d+ \\d+.\\d+", "0 50") %>%
+      nd = str_replace(d,"^M[ |-]+\\d+\\.\\d+ \\d+.\\d+", svg_replace) %>%
         str_trim() %>%
         str_replace_all(" [L|M|(M)] ", "|") %>%
         str_replace_all(" ", ","),
