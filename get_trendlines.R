@@ -29,7 +29,7 @@ location_trends <- pdf_data_dt %>%
   filter(drop == 0) %>%
   select(-drop) %>%
   unnest(coords) %>%
-  drop_na(entity, location, value) %>%
+  drop_na(entity, location, value, date) %>%
   mutate(
     location_ref = toupper(
       str_replace(
