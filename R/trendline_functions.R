@@ -170,7 +170,7 @@ get_svg_data <- function(file, page, report_date) {
     drop_na()
   
   if (interactive()) {
-    message(".")
+    message(ifelse(page %% 3 == 0, "...", "."))
   }
   
   return(svg_path_dt)
