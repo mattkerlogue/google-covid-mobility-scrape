@@ -32,10 +32,8 @@ location_trends <- pdf_data_dt %>%
   drop_na(entity, location, value, date) %>%
   mutate(
     location_ref = toupper(
-      str_replace(
-        paste(country, region, location, sep = "."),
-        "\\.NA\\.",
-        "\\..")),
+      str_replace(paste(country, region, location, sep = "."), "\\.NA\\.", "\\..") %>% 
+        str_replace_all(" ","_")),
     timeplace_ref = toupper(paste(date, entity, sep = ".")),
     full_ref = paste(location_ref, timeplace_ref, sep = "."),
     value = round(value, 4))
@@ -84,6 +82,7 @@ write_excel_csv(
   location_trends_wide, 
   path = file.path("data", "latest_trendline_wide.csv"),
   na = "")
+
 
 write_lines(report_date, "LASTUPDATE_TRENDLINE_DATE.txt")
 log_msg <- paste0(Sys.time(), "  TRENDLINES EXTRACTED | Report date: ", report_date)

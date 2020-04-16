@@ -1,182 +1,365 @@
-﻿AF,country,Afghanistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AF_Mobility_Report_en.pdf,2020-04-15
-AO,country,Angola,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AO_Mobility_Report_en.pdf,2020-04-15
-AG,country,Antigua & Barbuda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AG_Mobility_Report_en.pdf,2020-04-15
-AR,country,Argentina,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AR_Mobility_Report_en.pdf,2020-04-15
-AW,country,Aruba,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AW_Mobility_Report_en.pdf,2020-04-15
-AU,country,Australia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AU_Mobility_Report_en.pdf,2020-04-15
-AT,country,Austria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AT_Mobility_Report_en.pdf,2020-04-15
-BH,country,Bahrain,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BH_Mobility_Report_en.pdf,2020-04-15
-BD,country,Bangladesh,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BD_Mobility_Report_en.pdf,2020-04-15
-BB,country,Barbados,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BB_Mobility_Report_en.pdf,2020-04-15
-BY,country,Belarus,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BY_Mobility_Report_en.pdf,2020-04-15
-BE,country,Belgium,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BE_Mobility_Report_en.pdf,2020-04-15
-BZ,country,Belize,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BZ_Mobility_Report_en.pdf,2020-04-15
-BJ,country,Benin,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BJ_Mobility_Report_en.pdf,2020-04-15
-BO,country,Bolivia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BO_Mobility_Report_en.pdf,2020-04-15
-BA,country,Bosnia & Herzegovina,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BA_Mobility_Report_en.pdf,2020-04-15
-BW,country,Botswana,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BW_Mobility_Report_en.pdf,2020-04-15
-BR,country,Brazil,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BR_Mobility_Report_en.pdf,2020-04-15
-BG,country,Bulgaria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BG_Mobility_Report_en.pdf,2020-04-15
-BF,country,Burkina Faso,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BF_Mobility_Report_en.pdf,2020-04-15
-KH,country,Cambodia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KH_Mobility_Report_en.pdf,2020-04-15
-CM,country,Cameroon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CM_Mobility_Report_en.pdf,2020-04-15
-CA,country,Canada,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CA_Mobility_Report_en.pdf,2020-04-15
-CV,country,Cape Verde,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CV_Mobility_Report_en.pdf,2020-04-15
-CL,country,Chile,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CL_Mobility_Report_en.pdf,2020-04-15
-CO,country,Colombia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CO_Mobility_Report_en.pdf,2020-04-15
-CR,country,Costa Rica,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CR_Mobility_Report_en.pdf,2020-04-15
-CI,country,Côte d’Ivoire,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CI_Mobility_Report_en.pdf,2020-04-15
-HR,country,Croatia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HR_Mobility_Report_en.pdf,2020-04-15
-CZ,country,Czechia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CZ_Mobility_Report_en.pdf,2020-04-15
-DK,country,Denmark,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DK_Mobility_Report_en.pdf,2020-04-15
-DO,country,Dominican Republic,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DO_Mobility_Report_en.pdf,2020-04-15
-EC,country,Ecuador,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EC_Mobility_Report_en.pdf,2020-04-15
-EG,country,Egypt,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EG_Mobility_Report_en.pdf,2020-04-15
-SV,country,El Salvador,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SV_Mobility_Report_en.pdf,2020-04-15
-EE,country,Estonia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EE_Mobility_Report_en.pdf,2020-04-15
-FJ,country,Fiji,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FJ_Mobility_Report_en.pdf,2020-04-15
-FI,country,Finland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FI_Mobility_Report_en.pdf,2020-04-15
-FR,country,France,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FR_Mobility_Report_en.pdf,2020-04-15
-GA,country,Gabon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GA_Mobility_Report_en.pdf,2020-04-15
-GE,country,Georgia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GE_Mobility_Report_en.pdf,2020-04-15
-DE,country,Germany,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DE_Mobility_Report_en.pdf,2020-04-15
-GH,country,Ghana,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GH_Mobility_Report_en.pdf,2020-04-15
-GR,country,Greece,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GR_Mobility_Report_en.pdf,2020-04-15
-GT,country,Guatemala,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GT_Mobility_Report_en.pdf,2020-04-15
-GW,country,Guinea-Bissau,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GW_Mobility_Report_en.pdf,2020-04-15
-HT,country,Haiti,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HT_Mobility_Report_en.pdf,2020-04-15
-HN,country,Honduras,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HN_Mobility_Report_en.pdf,2020-04-15
-HK,country,Hong Kong SAR China,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HK_Mobility_Report_en.pdf,2020-04-15
-HU,country,Hungary,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HU_Mobility_Report_en.pdf,2020-04-15
-IN,country,India,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IN_Mobility_Report_en.pdf,2020-04-15
-ID,country,Indonesia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ID_Mobility_Report_en.pdf,2020-04-15
-IQ,country,Iraq,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IQ_Mobility_Report_en.pdf,2020-04-15
-IE,country,Ireland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IE_Mobility_Report_en.pdf,2020-04-15
-IL,country,Israel,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IL_Mobility_Report_en.pdf,2020-04-15
-IT,country,Italy,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IT_Mobility_Report_en.pdf,2020-04-15
-JM,country,Jamaica,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JM_Mobility_Report_en.pdf,2020-04-15
-JP,country,Japan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JP_Mobility_Report_en.pdf,2020-04-15
-JO,country,Jordan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JO_Mobility_Report_en.pdf,2020-04-15
-KZ,country,Kazakhstan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KZ_Mobility_Report_en.pdf,2020-04-15
-KE,country,Kenya,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KE_Mobility_Report_en.pdf,2020-04-15
-KW,country,Kuwait,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KW_Mobility_Report_en.pdf,2020-04-15
-KG,country,Kyrgyzstan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KG_Mobility_Report_en.pdf,2020-04-15
-LA,country,Laos,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LA_Mobility_Report_en.pdf,2020-04-15
-LV,country,Latvia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LV_Mobility_Report_en.pdf,2020-04-15
-LB,country,Lebanon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LB_Mobility_Report_en.pdf,2020-04-15
-LY,country,Libya,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LY_Mobility_Report_en.pdf,2020-04-15
-LI,country,Liechtenstein,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LI_Mobility_Report_en.pdf,2020-04-15
-LT,country,Lithuania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LT_Mobility_Report_en.pdf,2020-04-15
-LU,country,Luxembourg,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LU_Mobility_Report_en.pdf,2020-04-15
-MY,country,Malaysia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MY_Mobility_Report_en.pdf,2020-04-15
-ML,country,Mali,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ML_Mobility_Report_en.pdf,2020-04-15
-MT,country,Malta,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MT_Mobility_Report_en.pdf,2020-04-15
-MU,country,Mauritius,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MU_Mobility_Report_en.pdf,2020-04-15
-MX,country,Mexico,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MX_Mobility_Report_en.pdf,2020-04-15
-MD,country,Moldova,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MD_Mobility_Report_en.pdf,2020-04-15
-MN,country,Mongolia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MN_Mobility_Report_en.pdf,2020-04-15
-MZ,country,Mozambique,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MZ_Mobility_Report_en.pdf,2020-04-15
-MM,country,Myanmar (Burma),NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MM_Mobility_Report_en.pdf,2020-04-15
-"NA",country,Namibia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NA_Mobility_Report_en.pdf,2020-04-15
-NP,country,Nepal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NP_Mobility_Report_en.pdf,2020-04-15
-NL,country,Netherlands,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NL_Mobility_Report_en.pdf,2020-04-15
-NZ,country,New Zealand,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NZ_Mobility_Report_en.pdf,2020-04-15
-NI,country,Nicaragua,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NI_Mobility_Report_en.pdf,2020-04-15
-NE,country,Niger,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NE_Mobility_Report_en.pdf,2020-04-15
-NG,country,Nigeria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NG_Mobility_Report_en.pdf,2020-04-15
-MK,country,Macedonia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MK_Mobility_Report_en.pdf,2020-04-15
-NO,country,Norway,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NO_Mobility_Report_en.pdf,2020-04-15
-OM,country,Oman,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_OM_Mobility_Report_en.pdf,2020-04-15
-PK,country,Pakistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PK_Mobility_Report_en.pdf,2020-04-15
-PA,country,Panama,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PA_Mobility_Report_en.pdf,2020-04-15
-PG,country,Papua New Guinea,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PG_Mobility_Report_en.pdf,2020-04-15
-PY,country,Paraguay,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PY_Mobility_Report_en.pdf,2020-04-15
-PE,country,Peru,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PE_Mobility_Report_en.pdf,2020-04-15
-PH,country,Philippines,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PH_Mobility_Report_en.pdf,2020-04-15
-PL,country,Poland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PL_Mobility_Report_en.pdf,2020-04-15
-PT,country,Portugal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PT_Mobility_Report_en.pdf,2020-04-15
-PR,country,Puerto Rico,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PR_Mobility_Report_en.pdf,2020-04-15
-QA,country,Qatar,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_QA_Mobility_Report_en.pdf,2020-04-15
-RE,country,Réunion,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RE_Mobility_Report_en.pdf,2020-04-15
-RO,country,Romania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RO_Mobility_Report_en.pdf,2020-04-15
-RW,country,Rwanda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RW_Mobility_Report_en.pdf,2020-04-15
-SA,country,Saudi Arabia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SA_Mobility_Report_en.pdf,2020-04-15
-SN,country,Senegal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SN_Mobility_Report_en.pdf,2020-04-15
-SG,country,Singapore,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SG_Mobility_Report_en.pdf,2020-04-15
-SK,country,Slovakia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SK_Mobility_Report_en.pdf,2020-04-15
-SI,country,Slovenia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SI_Mobility_Report_en.pdf,2020-04-15
-ZA,country,South Africa,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZA_Mobility_Report_en.pdf,2020-04-15
-KR,country,South Korea,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KR_Mobility_Report_en.pdf,2020-04-15
-ES,country,Spain,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ES_Mobility_Report_en.pdf,2020-04-15
-LK,country,Sri Lanka,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LK_Mobility_Report_en.pdf,2020-04-15
-SE,country,Sweden,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SE_Mobility_Report_en.pdf,2020-04-15
-CH,country,Switzerland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CH_Mobility_Report_en.pdf,2020-04-15
-TW,country,Taiwan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TW_Mobility_Report_en.pdf,2020-04-15
-TJ,country,Tajikistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TJ_Mobility_Report_en.pdf,2020-04-15
-TZ,country,Tanzania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TZ_Mobility_Report_en.pdf,2020-04-15
-TH,country,Thailand,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TH_Mobility_Report_en.pdf,2020-04-15
-BS,country,Bahamas,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BS_Mobility_Report_en.pdf,2020-04-15
-TG,country,Togo,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TG_Mobility_Report_en.pdf,2020-04-15
-TT,country,Trinidad & Tobago,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TT_Mobility_Report_en.pdf,2020-04-15
-TR,country,Turkey,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TR_Mobility_Report_en.pdf,2020-04-15
-UG,country,Uganda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_UG_Mobility_Report_en.pdf,2020-04-15
-AE,country,United Arab Emirates,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AE_Mobility_Report_en.pdf,2020-04-15
-GB,country,United Kingdom,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GB_Mobility_Report_en.pdf,2020-04-15
-US,country,United States,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mobility_Report_en.pdf,2020-04-15
-UY,country,Uruguay,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_UY_Mobility_Report_en.pdf,2020-04-15
-VE,country,Venezuela,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_VE_Mobility_Report_en.pdf,2020-04-15
-VN,country,Vietnam,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_VN_Mobility_Report_en.pdf,2020-04-15
-YE,country,Yemen,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_YE_Mobility_Report_en.pdf,2020-04-15
-ZM,country,Zambia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZM_Mobility_Report_en.pdf,2020-04-15
-ZW,country,Zimbabwe,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZW_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Alabama,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Alabama_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Alaska,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Alaska_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Arizona,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Arizona_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Arkansas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Arkansas_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,California,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_California_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Colorado,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Colorado_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Connecticut,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Connecticut_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Delaware,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Delaware_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,District of Columbia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_District_of_Columbia_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Florida,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Florida_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Georgia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Georgia_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Hawaii,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Hawaii_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Idaho,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Idaho_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Illinois,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Illinois_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Indiana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Indiana_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Iowa,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Iowa_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Kansas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Kansas_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Kentucky,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Kentucky_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Louisiana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Louisiana_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Maine,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Maine_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Maryland,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Maryland_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Massachusetts,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Massachusetts_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Michigan,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Michigan_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Minnesota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Minnesota_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Mississippi,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mississippi_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Missouri,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Missouri_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Montana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Montana_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Nebraska,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Nebraska_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Nevada,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Nevada_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,New Hampshire,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Hampshire_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,New Jersey,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Jersey_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,New Mexico,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Mexico_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,New York,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_York_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,North Carolina,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_North_Carolina_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,North Dakota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_North_Dakota_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Ohio,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Ohio_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Oklahoma,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Oklahoma_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Oregon,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Oregon_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Pennsylvania,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Pennsylvania_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Rhode Island,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Rhode_Island_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,South Carolina,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_South_Carolina_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,South Dakota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_South_Dakota_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Tennessee,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Tennessee_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Texas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Texas_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Utah,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Utah_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Vermont,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Vermont_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Virginia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Virginia_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Washington,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Washington_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,West Virginia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_West_Virginia_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Wisconsin,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Wisconsin_Mobility_Report_en.pdf,2020-04-15
-US,region,United States,Wyoming,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Wyoming_Mobility_Report_en.pdf,2020-04-15
+﻿country,type,country_name,region,date,url,processed
+AF,country,Afghanistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AF_Mobility_Report_en.pdf,2020-04-16
+AO,country,Angola,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AO_Mobility_Report_en.pdf,2020-04-16
+AG,country,Antigua & Barbuda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AG_Mobility_Report_en.pdf,2020-04-16
+AR,country,Argentina,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AR_Mobility_Report_en.pdf,2020-04-16
+AW,country,Aruba,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AW_Mobility_Report_en.pdf,2020-04-16
+AU,country,Australia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AU_Mobility_Report_en.pdf,2020-04-16
+AT,country,Austria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AT_Mobility_Report_en.pdf,2020-04-16
+BH,country,Bahrain,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BH_Mobility_Report_en.pdf,2020-04-16
+BD,country,Bangladesh,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BD_Mobility_Report_en.pdf,2020-04-16
+BB,country,Barbados,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BB_Mobility_Report_en.pdf,2020-04-16
+BY,country,Belarus,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BY_Mobility_Report_en.pdf,2020-04-16
+BE,country,Belgium,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BE_Mobility_Report_en.pdf,2020-04-16
+BZ,country,Belize,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BZ_Mobility_Report_en.pdf,2020-04-16
+BJ,country,Benin,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BJ_Mobility_Report_en.pdf,2020-04-16
+BO,country,Bolivia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BO_Mobility_Report_en.pdf,2020-04-16
+BA,country,Bosnia & Herzegovina,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BA_Mobility_Report_en.pdf,2020-04-16
+BW,country,Botswana,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BW_Mobility_Report_en.pdf,2020-04-16
+BR,country,Brazil,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BR_Mobility_Report_en.pdf,2020-04-16
+BG,country,Bulgaria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BG_Mobility_Report_en.pdf,2020-04-16
+BF,country,Burkina Faso,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BF_Mobility_Report_en.pdf,2020-04-16
+KH,country,Cambodia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KH_Mobility_Report_en.pdf,2020-04-16
+CM,country,Cameroon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CM_Mobility_Report_en.pdf,2020-04-16
+CA,country,Canada,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CA_Mobility_Report_en.pdf,2020-04-16
+CV,country,Cape Verde,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CV_Mobility_Report_en.pdf,2020-04-16
+CL,country,Chile,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CL_Mobility_Report_en.pdf,2020-04-16
+CO,country,Colombia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CO_Mobility_Report_en.pdf,2020-04-16
+CR,country,Costa Rica,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CR_Mobility_Report_en.pdf,2020-04-16
+CI,country,Côte d’Ivoire,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CI_Mobility_Report_en.pdf,2020-04-16
+HR,country,Croatia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HR_Mobility_Report_en.pdf,2020-04-16
+CZ,country,Czechia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CZ_Mobility_Report_en.pdf,2020-04-16
+DK,country,Denmark,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DK_Mobility_Report_en.pdf,2020-04-16
+DO,country,Dominican Republic,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DO_Mobility_Report_en.pdf,2020-04-16
+EC,country,Ecuador,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EC_Mobility_Report_en.pdf,2020-04-16
+EG,country,Egypt,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EG_Mobility_Report_en.pdf,2020-04-16
+SV,country,El Salvador,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SV_Mobility_Report_en.pdf,2020-04-16
+EE,country,Estonia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EE_Mobility_Report_en.pdf,2020-04-16
+FJ,country,Fiji,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FJ_Mobility_Report_en.pdf,2020-04-16
+FI,country,Finland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FI_Mobility_Report_en.pdf,2020-04-16
+FR,country,France,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FR_Mobility_Report_en.pdf,2020-04-16
+GA,country,Gabon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GA_Mobility_Report_en.pdf,2020-04-16
+GE,country,Georgia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GE_Mobility_Report_en.pdf,2020-04-16
+DE,country,Germany,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DE_Mobility_Report_en.pdf,2020-04-16
+GH,country,Ghana,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GH_Mobility_Report_en.pdf,2020-04-16
+GR,country,Greece,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GR_Mobility_Report_en.pdf,2020-04-16
+GT,country,Guatemala,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GT_Mobility_Report_en.pdf,2020-04-16
+GW,country,Guinea-Bissau,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GW_Mobility_Report_en.pdf,2020-04-16
+HT,country,Haiti,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HT_Mobility_Report_en.pdf,2020-04-16
+HN,country,Honduras,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HN_Mobility_Report_en.pdf,2020-04-16
+HK,country,Hong Kong SAR China,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HK_Mobility_Report_en.pdf,2020-04-16
+HU,country,Hungary,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HU_Mobility_Report_en.pdf,2020-04-16
+IN,country,India,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IN_Mobility_Report_en.pdf,2020-04-16
+ID,country,Indonesia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ID_Mobility_Report_en.pdf,2020-04-16
+IQ,country,Iraq,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IQ_Mobility_Report_en.pdf,2020-04-16
+IE,country,Ireland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IE_Mobility_Report_en.pdf,2020-04-16
+IL,country,Israel,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IL_Mobility_Report_en.pdf,2020-04-16
+IT,country,Italy,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IT_Mobility_Report_en.pdf,2020-04-16
+JM,country,Jamaica,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JM_Mobility_Report_en.pdf,2020-04-16
+JP,country,Japan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JP_Mobility_Report_en.pdf,2020-04-16
+JO,country,Jordan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JO_Mobility_Report_en.pdf,2020-04-16
+KZ,country,Kazakhstan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KZ_Mobility_Report_en.pdf,2020-04-16
+KE,country,Kenya,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KE_Mobility_Report_en.pdf,2020-04-16
+KW,country,Kuwait,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KW_Mobility_Report_en.pdf,2020-04-16
+KG,country,Kyrgyzstan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KG_Mobility_Report_en.pdf,2020-04-16
+LA,country,Laos,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LA_Mobility_Report_en.pdf,2020-04-16
+LV,country,Latvia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LV_Mobility_Report_en.pdf,2020-04-16
+LB,country,Lebanon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LB_Mobility_Report_en.pdf,2020-04-16
+LY,country,Libya,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LY_Mobility_Report_en.pdf,2020-04-16
+LI,country,Liechtenstein,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LI_Mobility_Report_en.pdf,2020-04-16
+LT,country,Lithuania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LT_Mobility_Report_en.pdf,2020-04-16
+LU,country,Luxembourg,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LU_Mobility_Report_en.pdf,2020-04-16
+MY,country,Malaysia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MY_Mobility_Report_en.pdf,2020-04-16
+ML,country,Mali,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ML_Mobility_Report_en.pdf,2020-04-16
+MT,country,Malta,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MT_Mobility_Report_en.pdf,2020-04-16
+MU,country,Mauritius,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MU_Mobility_Report_en.pdf,2020-04-16
+MX,country,Mexico,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MX_Mobility_Report_en.pdf,2020-04-16
+MD,country,Moldova,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MD_Mobility_Report_en.pdf,2020-04-16
+MN,country,Mongolia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MN_Mobility_Report_en.pdf,2020-04-16
+MZ,country,Mozambique,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MZ_Mobility_Report_en.pdf,2020-04-16
+MM,country,Myanmar (Burma),NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MM_Mobility_Report_en.pdf,2020-04-16
+"NA",country,Namibia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NA_Mobility_Report_en.pdf,2020-04-16
+NP,country,Nepal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NP_Mobility_Report_en.pdf,2020-04-16
+NL,country,Netherlands,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NL_Mobility_Report_en.pdf,2020-04-16
+NZ,country,New Zealand,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NZ_Mobility_Report_en.pdf,2020-04-16
+NI,country,Nicaragua,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NI_Mobility_Report_en.pdf,2020-04-16
+NE,country,Niger,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NE_Mobility_Report_en.pdf,2020-04-16
+NG,country,Nigeria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NG_Mobility_Report_en.pdf,2020-04-16
+MK,country,Macedonia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MK_Mobility_Report_en.pdf,2020-04-16
+NO,country,Norway,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NO_Mobility_Report_en.pdf,2020-04-16
+OM,country,Oman,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_OM_Mobility_Report_en.pdf,2020-04-16
+PK,country,Pakistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PK_Mobility_Report_en.pdf,2020-04-16
+PA,country,Panama,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PA_Mobility_Report_en.pdf,2020-04-16
+PG,country,Papua New Guinea,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PG_Mobility_Report_en.pdf,2020-04-16
+PY,country,Paraguay,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PY_Mobility_Report_en.pdf,2020-04-16
+PE,country,Peru,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PE_Mobility_Report_en.pdf,2020-04-16
+PH,country,Philippines,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PH_Mobility_Report_en.pdf,2020-04-16
+PL,country,Poland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PL_Mobility_Report_en.pdf,2020-04-16
+PT,country,Portugal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PT_Mobility_Report_en.pdf,2020-04-16
+PR,country,Puerto Rico,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PR_Mobility_Report_en.pdf,2020-04-16
+QA,country,Qatar,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_QA_Mobility_Report_en.pdf,2020-04-16
+RE,country,Réunion,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RE_Mobility_Report_en.pdf,2020-04-16
+RO,country,Romania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RO_Mobility_Report_en.pdf,2020-04-16
+RW,country,Rwanda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RW_Mobility_Report_en.pdf,2020-04-16
+SA,country,Saudi Arabia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SA_Mobility_Report_en.pdf,2020-04-16
+SN,country,Senegal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SN_Mobility_Report_en.pdf,2020-04-16
+SG,country,Singapore,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SG_Mobility_Report_en.pdf,2020-04-16
+SK,country,Slovakia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SK_Mobility_Report_en.pdf,2020-04-16
+SI,country,Slovenia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SI_Mobility_Report_en.pdf,2020-04-16
+ZA,country,South Africa,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZA_Mobility_Report_en.pdf,2020-04-16
+KR,country,South Korea,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KR_Mobility_Report_en.pdf,2020-04-16
+ES,country,Spain,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ES_Mobility_Report_en.pdf,2020-04-16
+LK,country,Sri Lanka,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LK_Mobility_Report_en.pdf,2020-04-16
+SE,country,Sweden,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SE_Mobility_Report_en.pdf,2020-04-16
+CH,country,Switzerland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CH_Mobility_Report_en.pdf,2020-04-16
+TW,country,Taiwan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TW_Mobility_Report_en.pdf,2020-04-16
+TJ,country,Tajikistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TJ_Mobility_Report_en.pdf,2020-04-16
+TZ,country,Tanzania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TZ_Mobility_Report_en.pdf,2020-04-16
+TH,country,Thailand,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TH_Mobility_Report_en.pdf,2020-04-16
+BS,country,Bahamas,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BS_Mobility_Report_en.pdf,2020-04-16
+TG,country,Togo,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TG_Mobility_Report_en.pdf,2020-04-16
+TT,country,Trinidad & Tobago,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TT_Mobility_Report_en.pdf,2020-04-16
+TR,country,Turkey,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TR_Mobility_Report_en.pdf,2020-04-16
+UG,country,Uganda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_UG_Mobility_Report_en.pdf,2020-04-16
+AE,country,United Arab Emirates,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AE_Mobility_Report_en.pdf,2020-04-16
+GB,country,United Kingdom,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GB_Mobility_Report_en.pdf,2020-04-16
+US,country,United States,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mobility_Report_en.pdf,2020-04-16
+UY,country,Uruguay,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_UY_Mobility_Report_en.pdf,2020-04-16
+VE,country,Venezuela,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_VE_Mobility_Report_en.pdf,2020-04-16
+VN,country,Vietnam,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_VN_Mobility_Report_en.pdf,2020-04-16
+YE,country,Yemen,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_YE_Mobility_Report_en.pdf,2020-04-16
+ZM,country,Zambia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZM_Mobility_Report_en.pdf,2020-04-16
+ZW,country,Zimbabwe,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZW_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Alabama,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Alabama_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Alaska,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Alaska_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Arizona,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Arizona_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Arkansas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Arkansas_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,California,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_California_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Colorado,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Colorado_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Connecticut,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Connecticut_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Delaware,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Delaware_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,District of Columbia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_District_of_Columbia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Florida,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Florida_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Georgia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Georgia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Hawaii,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Hawaii_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Idaho,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Idaho_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Illinois,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Illinois_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Indiana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Indiana_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Iowa,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Iowa_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Kansas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Kansas_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Kentucky,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Kentucky_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Louisiana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Louisiana_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Maine,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Maine_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Maryland,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Maryland_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Massachusetts,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Massachusetts_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Michigan,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Michigan_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Minnesota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Minnesota_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Mississippi,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mississippi_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Missouri,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Missouri_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Montana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Montana_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Nebraska,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Nebraska_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Nevada,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Nevada_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New Hampshire,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Hampshire_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New Jersey,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Jersey_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New Mexico,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Mexico_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New York,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_York_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,North Carolina,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_North_Carolina_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,North Dakota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_North_Dakota_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Ohio,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Ohio_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Oklahoma,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Oklahoma_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Oregon,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Oregon_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Pennsylvania,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Pennsylvania_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Rhode Island,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Rhode_Island_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,South Carolina,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_South_Carolina_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,South Dakota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_South_Dakota_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Tennessee,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Tennessee_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Texas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Texas_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Utah,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Utah_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Vermont,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Vermont_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Virginia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Virginia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Washington,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Washington_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,West Virginia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_West_Virginia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Wisconsin,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Wisconsin_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Wyoming,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Wyoming_Mobility_Report_en.pdf,2020-04-16
+﻿AF,country,Afghanistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AF_Mobility_Report_en.pdf,2020-04-16
+AO,country,Angola,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AO_Mobility_Report_en.pdf,2020-04-16
+AG,country,Antigua & Barbuda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AG_Mobility_Report_en.pdf,2020-04-16
+AR,country,Argentina,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AR_Mobility_Report_en.pdf,2020-04-16
+AW,country,Aruba,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AW_Mobility_Report_en.pdf,2020-04-16
+AU,country,Australia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AU_Mobility_Report_en.pdf,2020-04-16
+AT,country,Austria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AT_Mobility_Report_en.pdf,2020-04-16
+BH,country,Bahrain,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BH_Mobility_Report_en.pdf,2020-04-16
+BD,country,Bangladesh,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BD_Mobility_Report_en.pdf,2020-04-16
+BB,country,Barbados,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BB_Mobility_Report_en.pdf,2020-04-16
+BY,country,Belarus,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BY_Mobility_Report_en.pdf,2020-04-16
+BE,country,Belgium,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BE_Mobility_Report_en.pdf,2020-04-16
+BZ,country,Belize,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BZ_Mobility_Report_en.pdf,2020-04-16
+BJ,country,Benin,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BJ_Mobility_Report_en.pdf,2020-04-16
+BO,country,Bolivia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BO_Mobility_Report_en.pdf,2020-04-16
+BA,country,Bosnia & Herzegovina,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BA_Mobility_Report_en.pdf,2020-04-16
+BW,country,Botswana,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BW_Mobility_Report_en.pdf,2020-04-16
+BR,country,Brazil,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BR_Mobility_Report_en.pdf,2020-04-16
+BG,country,Bulgaria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BG_Mobility_Report_en.pdf,2020-04-16
+BF,country,Burkina Faso,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BF_Mobility_Report_en.pdf,2020-04-16
+KH,country,Cambodia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KH_Mobility_Report_en.pdf,2020-04-16
+CM,country,Cameroon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CM_Mobility_Report_en.pdf,2020-04-16
+CA,country,Canada,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CA_Mobility_Report_en.pdf,2020-04-16
+CV,country,Cape Verde,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CV_Mobility_Report_en.pdf,2020-04-16
+CL,country,Chile,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CL_Mobility_Report_en.pdf,2020-04-16
+CO,country,Colombia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CO_Mobility_Report_en.pdf,2020-04-16
+CR,country,Costa Rica,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CR_Mobility_Report_en.pdf,2020-04-16
+CI,country,Côte d’Ivoire,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CI_Mobility_Report_en.pdf,2020-04-16
+HR,country,Croatia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HR_Mobility_Report_en.pdf,2020-04-16
+CZ,country,Czechia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CZ_Mobility_Report_en.pdf,2020-04-16
+DK,country,Denmark,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DK_Mobility_Report_en.pdf,2020-04-16
+DO,country,Dominican Republic,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DO_Mobility_Report_en.pdf,2020-04-16
+EC,country,Ecuador,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EC_Mobility_Report_en.pdf,2020-04-16
+EG,country,Egypt,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EG_Mobility_Report_en.pdf,2020-04-16
+SV,country,El Salvador,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SV_Mobility_Report_en.pdf,2020-04-16
+EE,country,Estonia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_EE_Mobility_Report_en.pdf,2020-04-16
+FJ,country,Fiji,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FJ_Mobility_Report_en.pdf,2020-04-16
+FI,country,Finland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FI_Mobility_Report_en.pdf,2020-04-16
+FR,country,France,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_FR_Mobility_Report_en.pdf,2020-04-16
+GA,country,Gabon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GA_Mobility_Report_en.pdf,2020-04-16
+GE,country,Georgia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GE_Mobility_Report_en.pdf,2020-04-16
+DE,country,Germany,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_DE_Mobility_Report_en.pdf,2020-04-16
+GH,country,Ghana,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GH_Mobility_Report_en.pdf,2020-04-16
+GR,country,Greece,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GR_Mobility_Report_en.pdf,2020-04-16
+GT,country,Guatemala,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GT_Mobility_Report_en.pdf,2020-04-16
+GW,country,Guinea-Bissau,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GW_Mobility_Report_en.pdf,2020-04-16
+HT,country,Haiti,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HT_Mobility_Report_en.pdf,2020-04-16
+HN,country,Honduras,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HN_Mobility_Report_en.pdf,2020-04-16
+HK,country,Hong Kong SAR China,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HK_Mobility_Report_en.pdf,2020-04-16
+HU,country,Hungary,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_HU_Mobility_Report_en.pdf,2020-04-16
+IN,country,India,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IN_Mobility_Report_en.pdf,2020-04-16
+ID,country,Indonesia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ID_Mobility_Report_en.pdf,2020-04-16
+IQ,country,Iraq,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IQ_Mobility_Report_en.pdf,2020-04-16
+IE,country,Ireland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IE_Mobility_Report_en.pdf,2020-04-16
+IL,country,Israel,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IL_Mobility_Report_en.pdf,2020-04-16
+IT,country,Italy,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_IT_Mobility_Report_en.pdf,2020-04-16
+JM,country,Jamaica,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JM_Mobility_Report_en.pdf,2020-04-16
+JP,country,Japan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JP_Mobility_Report_en.pdf,2020-04-16
+JO,country,Jordan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_JO_Mobility_Report_en.pdf,2020-04-16
+KZ,country,Kazakhstan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KZ_Mobility_Report_en.pdf,2020-04-16
+KE,country,Kenya,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KE_Mobility_Report_en.pdf,2020-04-16
+KW,country,Kuwait,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KW_Mobility_Report_en.pdf,2020-04-16
+KG,country,Kyrgyzstan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KG_Mobility_Report_en.pdf,2020-04-16
+LA,country,Laos,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LA_Mobility_Report_en.pdf,2020-04-16
+LV,country,Latvia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LV_Mobility_Report_en.pdf,2020-04-16
+LB,country,Lebanon,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LB_Mobility_Report_en.pdf,2020-04-16
+LY,country,Libya,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LY_Mobility_Report_en.pdf,2020-04-16
+LI,country,Liechtenstein,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LI_Mobility_Report_en.pdf,2020-04-16
+LT,country,Lithuania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LT_Mobility_Report_en.pdf,2020-04-16
+LU,country,Luxembourg,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LU_Mobility_Report_en.pdf,2020-04-16
+MY,country,Malaysia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MY_Mobility_Report_en.pdf,2020-04-16
+ML,country,Mali,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ML_Mobility_Report_en.pdf,2020-04-16
+MT,country,Malta,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MT_Mobility_Report_en.pdf,2020-04-16
+MU,country,Mauritius,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MU_Mobility_Report_en.pdf,2020-04-16
+MX,country,Mexico,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MX_Mobility_Report_en.pdf,2020-04-16
+MD,country,Moldova,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MD_Mobility_Report_en.pdf,2020-04-16
+MN,country,Mongolia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MN_Mobility_Report_en.pdf,2020-04-16
+MZ,country,Mozambique,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MZ_Mobility_Report_en.pdf,2020-04-16
+MM,country,Myanmar (Burma),NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MM_Mobility_Report_en.pdf,2020-04-16
+"NA",country,Namibia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NA_Mobility_Report_en.pdf,2020-04-16
+NP,country,Nepal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NP_Mobility_Report_en.pdf,2020-04-16
+NL,country,Netherlands,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NL_Mobility_Report_en.pdf,2020-04-16
+NZ,country,New Zealand,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NZ_Mobility_Report_en.pdf,2020-04-16
+NI,country,Nicaragua,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NI_Mobility_Report_en.pdf,2020-04-16
+NE,country,Niger,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NE_Mobility_Report_en.pdf,2020-04-16
+NG,country,Nigeria,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NG_Mobility_Report_en.pdf,2020-04-16
+MK,country,Macedonia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_MK_Mobility_Report_en.pdf,2020-04-16
+NO,country,Norway,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_NO_Mobility_Report_en.pdf,2020-04-16
+OM,country,Oman,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_OM_Mobility_Report_en.pdf,2020-04-16
+PK,country,Pakistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PK_Mobility_Report_en.pdf,2020-04-16
+PA,country,Panama,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PA_Mobility_Report_en.pdf,2020-04-16
+PG,country,Papua New Guinea,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PG_Mobility_Report_en.pdf,2020-04-16
+PY,country,Paraguay,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PY_Mobility_Report_en.pdf,2020-04-16
+PE,country,Peru,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PE_Mobility_Report_en.pdf,2020-04-16
+PH,country,Philippines,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PH_Mobility_Report_en.pdf,2020-04-16
+PL,country,Poland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PL_Mobility_Report_en.pdf,2020-04-16
+PT,country,Portugal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PT_Mobility_Report_en.pdf,2020-04-16
+PR,country,Puerto Rico,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_PR_Mobility_Report_en.pdf,2020-04-16
+QA,country,Qatar,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_QA_Mobility_Report_en.pdf,2020-04-16
+RE,country,Réunion,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RE_Mobility_Report_en.pdf,2020-04-16
+RO,country,Romania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RO_Mobility_Report_en.pdf,2020-04-16
+RW,country,Rwanda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_RW_Mobility_Report_en.pdf,2020-04-16
+SA,country,Saudi Arabia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SA_Mobility_Report_en.pdf,2020-04-16
+SN,country,Senegal,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SN_Mobility_Report_en.pdf,2020-04-16
+SG,country,Singapore,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SG_Mobility_Report_en.pdf,2020-04-16
+SK,country,Slovakia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SK_Mobility_Report_en.pdf,2020-04-16
+SI,country,Slovenia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SI_Mobility_Report_en.pdf,2020-04-16
+ZA,country,South Africa,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZA_Mobility_Report_en.pdf,2020-04-16
+KR,country,South Korea,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_KR_Mobility_Report_en.pdf,2020-04-16
+ES,country,Spain,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ES_Mobility_Report_en.pdf,2020-04-16
+LK,country,Sri Lanka,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_LK_Mobility_Report_en.pdf,2020-04-16
+SE,country,Sweden,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_SE_Mobility_Report_en.pdf,2020-04-16
+CH,country,Switzerland,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_CH_Mobility_Report_en.pdf,2020-04-16
+TW,country,Taiwan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TW_Mobility_Report_en.pdf,2020-04-16
+TJ,country,Tajikistan,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TJ_Mobility_Report_en.pdf,2020-04-16
+TZ,country,Tanzania,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TZ_Mobility_Report_en.pdf,2020-04-16
+TH,country,Thailand,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TH_Mobility_Report_en.pdf,2020-04-16
+BS,country,Bahamas,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_BS_Mobility_Report_en.pdf,2020-04-16
+TG,country,Togo,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TG_Mobility_Report_en.pdf,2020-04-16
+TT,country,Trinidad & Tobago,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TT_Mobility_Report_en.pdf,2020-04-16
+TR,country,Turkey,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_TR_Mobility_Report_en.pdf,2020-04-16
+UG,country,Uganda,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_UG_Mobility_Report_en.pdf,2020-04-16
+AE,country,United Arab Emirates,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_AE_Mobility_Report_en.pdf,2020-04-16
+GB,country,United Kingdom,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_GB_Mobility_Report_en.pdf,2020-04-16
+US,country,United States,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mobility_Report_en.pdf,2020-04-16
+UY,country,Uruguay,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_UY_Mobility_Report_en.pdf,2020-04-16
+VE,country,Venezuela,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_VE_Mobility_Report_en.pdf,2020-04-16
+VN,country,Vietnam,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_VN_Mobility_Report_en.pdf,2020-04-16
+YE,country,Yemen,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_YE_Mobility_Report_en.pdf,2020-04-16
+ZM,country,Zambia,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZM_Mobility_Report_en.pdf,2020-04-16
+ZW,country,Zimbabwe,NA,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_ZW_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Alabama,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Alabama_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Alaska,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Alaska_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Arizona,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Arizona_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Arkansas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Arkansas_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,California,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_California_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Colorado,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Colorado_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Connecticut,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Connecticut_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Delaware,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Delaware_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,District of Columbia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_District_of_Columbia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Florida,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Florida_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Georgia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Georgia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Hawaii,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Hawaii_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Idaho,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Idaho_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Illinois,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Illinois_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Indiana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Indiana_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Iowa,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Iowa_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Kansas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Kansas_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Kentucky,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Kentucky_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Louisiana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Louisiana_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Maine,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Maine_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Maryland,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Maryland_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Massachusetts,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Massachusetts_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Michigan,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Michigan_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Minnesota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Minnesota_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Mississippi,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Mississippi_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Missouri,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Missouri_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Montana,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Montana_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Nebraska,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Nebraska_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Nevada,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Nevada_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New Hampshire,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Hampshire_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New Jersey,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Jersey_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New Mexico,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_Mexico_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,New York,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_New_York_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,North Carolina,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_North_Carolina_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,North Dakota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_North_Dakota_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Ohio,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Ohio_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Oklahoma,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Oklahoma_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Oregon,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Oregon_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Pennsylvania,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Pennsylvania_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Rhode Island,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Rhode_Island_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,South Carolina,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_South_Carolina_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,South Dakota,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_South_Dakota_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Tennessee,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Tennessee_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Texas,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Texas_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Utah,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Utah_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Vermont,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Vermont_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Virginia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Virginia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Washington,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Washington_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,West Virginia,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_West_Virginia_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Wisconsin,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Wisconsin_Mobility_Report_en.pdf,2020-04-16
+US,region,United States,Wyoming,2020-04-05,https://www.gstatic.com/covid19/mobility/2020-04-05_US_Wyoming_Mobility_Report_en.pdf,2020-04-16
