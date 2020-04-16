@@ -5,11 +5,8 @@ name: trendlinescrape
 # Controls when the action will run. Triggers the workflow on push or pull request
 # events but only for the master branch
 on:
-  push:
-    branches:
-      - 'master'
-    paths:
-      - 'LASTUPDATE_UTC.txt'
+  schedule:
+    - cron: '10 * * * *'
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -41,7 +38,7 @@ jobs:
         git config --local user.name github-actions
         git config --local user.email "actions@github.com"
         git add data/*
-        git commit -am "GH ACTION Autorun $(date)"
+        git commit -am "GH ACTION Trendlines $(date)"
         git push origin master
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}
