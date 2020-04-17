@@ -8,7 +8,7 @@
 
 This is a repo to scrape the data from Google's [COVID19 community mobility reports](https://www.google.com/covid19/mobility/) using R. This code is released freely under the MIT Licence, it is provided 'as-is'.
 
-This project is built in R and extracts both the headline mobility comparison figures and trendline data from Google's PDFs.
+This project is built in R and extracts both the headline mobility comparison figures and trendline data from Google's PDFs. Trendline data exists in the `feature/trendlines` branch until verified.
 
 The trendline extraction work benefits significantly from the following work:
 
@@ -23,18 +23,16 @@ If you'd like to read about the process of developing this code please read the 
 ## Data
 Use the links below to directly download the data for the selected dates. You can also browse these in the `data` folder, this folder also contains a log of the processed countries and regions.
 
-| Date       | Headline figuress (wide) | Headline figures (long) | Trendlines (wide)    | Trendlines (long)    |
-| ---------- | -------------------- | -------------------- | -------------------- | -------------------- |
-| **Latest**     | [**latest_alldata_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_wide.csv) | [**latest_alldata_long.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_long.csv) | [**latest_trendline_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_trendline_wide.csv) | [**latest_trendline_long_slim.csv.bz2**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_trendline_long_slim.csv.bz2) (*note Bzip2 compressed file*) |
-| 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) | [2020-04-05_trendline_wide.csv.bz2](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_trendline_wide.csv.bz2) (*note Bzip2 compressed file*) | [2020-04-05_trendline_long.rds](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_trendline_long.rds) (*note native R RDS format*) |
+| Date       | Headline figuress (wide) | Headline figures (long) |
+| ---------- | -------------------- | -------------------- |
+| **Latest**     | [**latest_alldata_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_wide.csv) | [**latest_alldata_long.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_long.csv) |
+| 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) | 
 | 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) | NA | NA |
 
 
 A [GitHub action workflow](.github/workflows/main.yaml) runs the `get_all_data.R` script on an hourly basis to check for new reports. If new reports have been published (or existing reports updated) the script will run and new data will be pushed to the repository, files continue to have the format `YYYY-MM-DD_alldata_[wide|long].csv` however there are now also `latest_alldata_[wide|long].csv` files which are copies of the last produced data. All files contain a reference date column. A [workflow](.github/workflows/trendlines.yaml) has also been written to scrape the trendlines which will execute when an update to `LASTUPDATE_UTC.txt` is pushed to the repository (i.e. when new headline figures have been added).
 
-Trendline data is extracted but saved in compressed formats due to the size of the data, an uncompressed wide-format CSV is available (`latest_trendline_wide.csv`). The compressed formats include: `YYYY-MM-DD_trendline_long.rds` (stored in native R RDS format), `YYYY-MM-DD_trendline_wide.csv.bz2` (CSV compressed using Bzip2), and `latest_trendline_long_slim.csv.bz2` (CSV compressed using Bzip2). `latest_trendline_long_slim.csv.bz2` is a two column file with value and a unique datapoint reference of the format `COUNTRYCODE.REGION.LOCATION.DATE.ENTITY`
-
-The table below provides a list of data in the repository, but is manually updated, check [`processing.log`](processing.log) for a log of activity, and [`LASTUPDATE_UTC.txt`](LASTUPDATE_UTC.txt) for the metadata relating to updates if you want to check whether there has been an update. Logs files for the trendline extracation are [`processing.trendline.log`](processing.trendline.log) and [`LASTUPDATE_TRENDLINE_UTC.txt`](LASTUPDATE_TRENDLINE_UTC.txt)
+The table below provides a list of data in the repository, but is manually updated, check [`processing.log`](processing.log) for a log of activity, and [`LASTUPDATE_UTC.txt`](LASTUPDATE_UTC.txt) for the metadata relating to updates if you want to check whether there has been an update. 
 
 **NOTE:** In the extracting the trendlines, for programatic simplicity, the code arbitraily sets all data points for Sunday 23 Feb 2020 (2020-02-23) at 0.
 
@@ -43,10 +41,17 @@ cd ~/r/google-covid-mobility-scrape
 Rscript get_all_data.R
 ```
 
+### Trendlines
+Code for scraping the trendlines has been written but is still in development and has discrepancies with the work done by others, at present the code for this exists in the `feature/trendlines` branch and has been removed from the `master` branch.
+
+Trendline data is extracted but saved in compressed formats due to the size of the data, an uncompressed wide-format CSV is available (`latest_trendline_wide.csv`). The compressed formats include: `YYYY-MM-DD_trendline_long.rds` (stored in native R RDS format), `YYYY-MM-DD_trendline_wide.csv.bz2` (CSV compressed using Bzip2), and `latest_trendline_long_slim.csv.bz2` (CSV compressed using Bzip2). `latest_trendline_long_slim.csv.bz2` is a two column file with value and a unique datapoint reference of the format `COUNTRYCODE.REGION.LOCATION.DATE.ENTITY`. Log files for the trendline extracation are [`processing.trendline.log`](processing.trendline.log) and [`LASTUPDATE_TRENDLINE_UTC.txt`](LASTUPDATE_TRENDLINE_UTC.txt).
+
+
 ## NEWS
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
+| 2020-04-17 12:40 | Trendlines moved to `feature/trendline` branch while reviewing. |
 | 2020-04-16 01:50 | Corrected an error with the baselining of trendlines for the overall report trends. |
 | 2020-04-15 22:16 | **TRENDLINES EXTRACTED** data for the trendlines is now being extracted, with thanks to Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/) for the code inspiration. |
 | 2020-04-13 19:30 | `get_all_data.R` now runs hourly via GitHub actions |
