@@ -8,6 +8,8 @@
 
 This is a repo to scrape the data from Google's [COVID19 community mobility reports](https://www.google.com/covid19/mobility/) using R. This code is released freely under the MIT Licence, it is provided 'as-is'.
 
+**NOTE: Google are now publishing their own CSV of this data - while this project will remain live, you are advised to use that for anything important:**  https://www.gstatic.com/covid19/mobility/Global_Mobility_Report.csv.
+
 This project is built in R and extracts both the headline mobility comparison figures and trendline data from Google's PDFs. Trendline data exists in the `feature/trendlines` branch until verified.
 
 The trendline extraction work benefits significantly from the following work:
@@ -26,6 +28,7 @@ Use the links below to directly download the data for the selected dates. You ca
 | Date       | Headline figuress (wide) | Headline figures (long) |
 | ---------- | -------------------- | -------------------- |
 | **Latest**     | [**latest_alldata_wide.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_wide.csv) | [**latest_alldata_long.csv**](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/latest_alldata_long.csv) |
+| 2020-04-11 | [2020-04-11_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-11_alldata_wide.csv) | [2020-04-11_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-11_alldata_long.csv) | 
 | 2020-04-05 | [2020-04-05_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_wide.csv) | [2020-04-05_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-04-05_alldata_long.csv) | 
 | 2020-03-29 | [2020-03-29_alldata_wide.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_wide.csv) | [2020-03-29_alldata_long.csv](https://github.com/mattkerlogue/google-covid-mobility-scrape/raw/master/data/2020-03-29_alldata_long.csv) | NA | NA |
 
@@ -51,6 +54,7 @@ Trendline data is extracted but saved in compressed formats due to the size of t
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
+| 2020-04-17 12:45 | Google are now |
 | 2020-04-17 12:40 | Trendlines moved to `feature/trendline` branch while reviewing. |
 | 2020-04-16 01:50 | Corrected an error with the baselining of trendlines for the overall report trends. |
 | 2020-04-15 22:16 | **TRENDLINES EXTRACTED** data for the trendlines is now being extracted, with thanks to Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/) for the code inspiration. |
