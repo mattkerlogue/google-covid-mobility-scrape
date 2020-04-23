@@ -298,20 +298,14 @@ get_update_time <- function(url = "https://www.google.com/covid19/mobility/") {
   page <- xml2::read_html(url)
   
   # get script block that contains date
-  update_script <- page %>% 
-    rvest::html_nodes("#time-update+script") %>% 
+  update_text <- page %>% 
+    rvest::html_nodes("p.report-info-text") %>% 
     rvest::html_text() %>%
-    strsplit("\n") %>%
-    pluck(1)
-  
-  update_var <- update_script[str_detect(update_script, "var date = .*")]
-  
-  update_val <- str_sub(
-    update_var,
-    (str_locate(update_var, "\".*\"") + c(1, -1))
-    )
-  
-  update_time <- lubridate::as_datetime(update_val) %>%
+    pluck(1) %>%
+    str_remove_all("^Reports updated ") %>%
+    str_remove_all("\\.|\\,")
+    
+  update_time <- lubridate::ymd_hm(paste("2020", update_text)) %>%
     lubridate::round_date("second")
   
   return(update_time)
