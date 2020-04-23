@@ -158,20 +158,23 @@ get_region_list <- function(url = "https://www.google.com/covid19/mobility/") {
   page <- xml2::read_html(url)
   
   # extract region URLs
-  region_urls <- rvest::html_nodes(page, "div.region-data > a.download-link") %>% 
-    rvest::html_attr("href")
+  pageJSON <- page %>% 
+    rvest::html_nodes(xpath = "/html/body/div[1]/section[3]/div[2]/script[1]") %>% 
+    rvest::html_text() %>%
+    str_remove("^window.templateData=JSON.parse\\('") %>%
+    str_remove("'\\)$") %>%
+    stringi::stri_unescape_unicode() %>%
+    jsonlite::fromJSON()
   
-  # create tibble from URLs
-  regions <- tibble(url = region_urls) %>%
-    mutate(filename = basename(url),
+  regions <- pageJSON$countries %>%
+    select(name, childRegionLabel, childRegions) %>%
+    filter(name == "United States") %>%
+    pull(childRegions) %>%
+    pluck(1) %>%
+    mutate(filename = basename(pdfLink),
            date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
-           country = map_chr(filename, ~strsplit(., "_")[[1]][2]),
-           region = map_chr(filename, 
-                            ~str_remove_all(., "-") %>% 
-                              str_remove("\\d+_\\w{2}_") %>% 
-                              str_remove("_Mobility_Report_en.pdf") %>% 
-                              str_replace_all("_", " "))) %>%
-    select(country, region, date, url)
+           country = map_chr(filename, ~strsplit(., "_")[[1]][2])) %>%
+    select(country, region = name, date, url = pdfLink)
   
   # return data
   return(regions)
