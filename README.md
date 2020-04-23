@@ -50,11 +50,13 @@ Code for scraping the trendlines has been written but is still in development an
 Trendline data is extracted but saved in compressed formats due to the size of the data, an uncompressed wide-format CSV is available (`latest_trendline_wide.csv`). The compressed formats include: `YYYY-MM-DD_trendline_long.rds` (stored in native R RDS format), `YYYY-MM-DD_trendline_wide.csv.bz2` (CSV compressed using Bzip2), and `latest_trendline_long_slim.csv.bz2` (CSV compressed using Bzip2). `latest_trendline_long_slim.csv.bz2` is a two column file with value and a unique datapoint reference of the format `COUNTRYCODE.REGION.LOCATION.DATE.ENTITY`. Log files for the trendline extracation are [`processing.trendline.log`](processing.trendline.log) and [`LASTUPDATE_TRENDLINE_UTC.txt`](LASTUPDATE_TRENDLINE_UTC.txt).
 
 
-## NEWS
+## NEWS (date/time in London local time; BST)
 
 | Date             | Update                                                    |
 | ---------------- | --------------------------------------------------------- |
-| 2020-04-17 12:45 | Google are now |
+| 2020-04-23 19:30 | Code updated, GitHub Actions resumed |
+| 2020-04-23 20:04 | Google updated their website, breaking the code so GitHub Actions automated checking was paused |
+| 2020-04-17 12:45 | Google are now publishing their own CSV, this should be considered the canonical source, this project will continue for now |
 | 2020-04-17 12:40 | Trendlines moved to `feature/trendline` branch while reviewing. |
 | 2020-04-16 01:50 | Corrected an error with the baselining of trendlines for the overall report trends. |
 | 2020-04-15 22:16 | **TRENDLINES EXTRACTED** data for the trendlines is now being extracted, with thanks to Duncan Garmonsway's [port of the ONS code to R](https://github.com/nacnudus/google-location-coronavirus/) for the code inspiration. |
