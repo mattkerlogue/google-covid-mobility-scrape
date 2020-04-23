@@ -3,7 +3,8 @@ source("R/functions.R")
 
 # get time of last data update
 last_update <- read_lines("LASTUPDATE_UTC.txt") %>%
-  lubridate::as_datetime()
+  lubridate::as_datetime() %>%
+  lubridate::round_date("minute")
 
 # get current update time
 live_update <- get_update_time()
