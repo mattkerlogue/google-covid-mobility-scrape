@@ -125,19 +125,27 @@ get_country_list <- function(url = "https://www.google.com/covid19/mobility/") {
   # get webpage
   page <- xml2::read_html(url)
   
-  # extract country urls 
-  country_urls <- rvest::html_nodes(page, "div.country-data > a.download-link") %>% 
-    rvest::html_attr("href")
   
-  # create tibble from URL
-  countries <- tibble(url = country_urls) %>%
-    mutate(filename = basename(url),
+  pageJSON <- page %>% 
+    rvest::html_nodes(xpath = "/html/body/div[1]/section[3]/div[2]/script[1]") %>% 
+    rvest::html_text() %>%
+    str_remove("^window.templateData=JSON.parse\\('") %>%
+    str_remove("'\\)$") %>%
+    stringi::stri_unescape_unicode() %>%
+    jsonlite::fromJSON()
+  
+  
+  countries <- pageJSON$countries %>%
+    select(name, pdfLink) %>%
+    mutate(filename = basename(pdfLink),
            date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
-           country = map_chr(filename, ~strsplit(., "_")[[1]][2]),
+           country = countrycode::countrycode(name, 
+                                              "country.name", 
+                                              "iso2c"),
            country_name = countrycode::countrycode(country, 
                                                    "iso2c", 
                                                    "country.name")) %>%
-    select(country, country_name, date, url)
+    select(country, country_name, date, url = pdfLink)
   
   # return data
   return(countries)
