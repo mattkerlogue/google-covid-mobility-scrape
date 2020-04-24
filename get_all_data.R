@@ -21,7 +21,7 @@ if (live_update == last_update) {
   country_list <- get_country_list()
   
   # get the date of the reports and the latest update already processed
-  this_outdate <- paste0(unique(country_list$date))
+  this_outdate <- lubridate::ymd(paste0(max(country_list$date)))
   max_past_outdate <- suppressMessages(
     read_csv("data/processed_countries.csv") %>%
       pull(date) %>%
