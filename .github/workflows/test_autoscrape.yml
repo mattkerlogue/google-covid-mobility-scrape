@@ -7,10 +7,6 @@ on:
   push:
     branches:
       - 'test/autoscrape'
-  push:
-    paths:
-      - 'R/functions.R'
-     
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
