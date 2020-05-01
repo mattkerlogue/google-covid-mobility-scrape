@@ -14,13 +14,13 @@ get_national_data <- function(url) {
   
   # extract the data at relevant y position
   national_datapoints <- national_data %>%
-    filter(y == 369 | y == 486 | y == 603 | 
-           y == 62  | y == 179 | y == 296) %>%
+    filter(x==36 & (y == 395 | y == 512 | y == 629 | 
+           y == 62  | y == 179 | y == 296)) %>%
     mutate(
       entity = case_when(
-        page == 1 & y == 369 ~ "retail_recr",
-        page == 1 & y == 486 ~ "grocery_pharm",
-        page == 1 & y == 603 ~ "parks",
+        page == 1 & y == 395 ~ "retail_recr",
+        page == 1 & y == 512 ~ "grocery_pharm",
+        page == 1 & y == 629 ~ "parks",
         page == 2 & y == 62  ~ "transit",
         page == 2 & y == 179 ~ "workplace",
         page == 2 & y == 296 ~ "residential",
@@ -203,13 +203,13 @@ get_region_data <- function(url) {
   
   # extract the data at relevant y position
   region_datapoints <- region_data %>%
-    filter(y == 369 | y == 486 | y == 603 | 
-             y == 62  | y == 179 | y == 296) %>%
+    filter(x==36 & (y == 395 | y == 512 | y == 629 | 
+                      y == 62  | y == 179 | y == 296))%>%
     mutate(
       entity = case_when(
-        page == 1 & y == 369 ~ "retail_recr",
-        page == 1 & y == 486 ~ "grocery_pharm",
-        page == 1 & y == 603 ~ "parks",
+        page == 1 & y == 395 ~ "retail_recr",
+        page == 1 & y == 512 ~ "grocery_pharm",
+        page == 1 & y == 629 ~ "parks",
         page == 2 & y == 62  ~ "transit",
         page == 2 & y == 179 ~ "workplace",
         page == 2 & y == 296 ~ "residential",
