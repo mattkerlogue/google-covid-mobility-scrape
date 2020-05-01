@@ -316,7 +316,7 @@ get_update_time <- function(url = "https://www.google.com/covid19/mobility/") {
     str_remove_all("^Reports updated ") %>%
     str_remove_all("\\.|\\,")
     
-  update_time <- lubridate::ymd_hm(paste("2020", update_text)) %>%
+  update_time <- lubridate::ymd_hm(update_text) %>%
     lubridate::round_date("second")
   
   return(update_time)
