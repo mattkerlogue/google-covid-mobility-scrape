@@ -167,7 +167,7 @@ get_region_list <- function(url = "https://www.google.com/covid19/mobility/") {
     jsonlite::fromJSON()
   
   regions <- pageJSON$countries %>%
-    select(name, childRegionLabel, childRegions) %>%
+    select(name, childRegions) %>%
     filter(name == "United States") %>%
     pull(childRegions) %>%
     pluck(1) %>%
