@@ -4,10 +4,11 @@ source("R/functions.R")
 # get time of last data update
 last_update <- read_lines("LASTUPDATE_UTC.txt") %>%
   lubridate::as_datetime() %>%
-  lubridate::round_date("minute")
+  lubridate::round_date("day")
 
 # get current update time
-live_update <- get_update_time()
+live_update <- get_update_time() %>%
+  lubridate::round_date("day")
 
 # if no update set message & flag otherwise scrape
 if (live_update == last_update) {
