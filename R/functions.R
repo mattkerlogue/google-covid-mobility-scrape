@@ -136,8 +136,9 @@ get_country_list <- function(url = "https://www.google.com/covid19/mobility/") {
   
   
   countries <- pageJSON$countries %>%
-    select(name, pdfLink) %>%
-    mutate(filename = basename(pdfLink),
+    select(name, pdfLinks) %>%
+    unnest(pdfLinks) %>%
+    mutate(filename = basename(link),
            date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
            country = countrycode::countrycode(name, 
                                               "country.name", 
@@ -145,7 +146,8 @@ get_country_list <- function(url = "https://www.google.com/covid19/mobility/") {
            country_name = countrycode::countrycode(country, 
                                                    "iso2c", 
                                                    "country.name")) %>%
-    select(country, country_name, date, url = pdfLink)
+    filter(lang == "en") %>%
+    select(country, country_name, date, url = link)
   
   # return data
   return(countries)
@@ -171,10 +173,12 @@ get_region_list <- function(url = "https://www.google.com/covid19/mobility/") {
     filter(name == "United States") %>%
     pull(childRegions) %>%
     pluck(1) %>%
-    mutate(filename = basename(pdfLink),
+    unnest(pdfLinks) %>%
+    mutate(filename = basename(link),
            date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
            country = map_chr(filename, ~strsplit(., "_")[[1]][2])) %>%
-    select(country, region = name, date, url = pdfLink)
+    filter(lang == "en") %>%
+    select(country, region = name, date, url = link)
   
   # return data
   return(regions)
