@@ -18,23 +18,24 @@ jobs:
     # Load repo and install R
     steps:
     - uses: actions/checkout@master
+    
+    # Install R
     - uses: r-lib/actions/setup-r@master
+       with:
+         r-version: '3.6.3'
 
     # Set-up R
     - name: Install pacakges
-      run: |
-        R -e 'install.packages("tidyverse")'
-        R -e 'install.packages("pdftools")'
-        R -e 'install.packages("countrycode")'
-
+      run: R -e 'source("install_packages.R", echo = TRUE)'
+        
     # Run R script
     - name: Scrape
-      run: Rscript get_all_data.R
-    
+      run: R -e 'source("get_all_data.R", echo = TRUE)'
+
     # Add new files in data folder, commit along with other modified files, push
     - name: Commit files
       run: |
-        git config --local user.name github-actions
+        git config --local user.name actions-user
         git config --local user.email "actions@github.com"
         git add data/*
         git commit -am "GH ACTION Headlines $(date)"
