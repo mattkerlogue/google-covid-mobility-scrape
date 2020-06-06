@@ -3,10 +3,12 @@ source("R/functions.R")
 
 # get time of last data update
 last_update <- read_lines("LASTUPDATE_UTC.txt") %>%
-  lubridate::as_datetime()
+  lubridate::as_datetime() %>%
+  lubridate::round_date("day")
 
 # get current update time
-live_update <- get_update_time()
+live_update <- get_update_time() %>%
+  lubridate::round_date("day")
 
 # if no update set message & flag otherwise scrape
 if (live_update == last_update) {
@@ -20,7 +22,7 @@ if (live_update == last_update) {
   country_list <- get_country_list()
   
   # get the date of the reports and the latest update already processed
-  this_outdate <- paste0(unique(country_list$date))
+  this_outdate <- lubridate::ymd(paste0(max(country_list$date)))
   max_past_outdate <- suppressMessages(
     read_csv("data/processed_countries.csv") %>%
       pull(date) %>%

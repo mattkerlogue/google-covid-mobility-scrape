@@ -2,8 +2,7 @@
 
 name: test_autoscrape
 
-# Controls when the action will run. Triggers the workflow on push or pull request
-# events but only for the master branch
+# Trigger on push to test/autoscrape branch or when functions.R is updated
 on:
   push:
     branches:
@@ -21,7 +20,10 @@ jobs:
     - uses: actions/checkout@v2
       with: 
         ref: test/autoscrape
-    - uses: r-lib/actions/setup-r@master
+
+    # Install R
+    - name: Simple brew install of r
+      run: brew install
 
     # Set-up R
     - name: Install pacakges
@@ -29,6 +31,7 @@ jobs:
         R -e 'install.packages("tidyverse")'
         R -e 'install.packages("pdftools")'
         R -e 'install.packages("countrycode")'
+        
     # Run R script
     - name: Scrape
       run: Rscript get_all_data.R
