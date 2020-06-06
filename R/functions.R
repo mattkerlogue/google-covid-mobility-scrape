@@ -14,13 +14,13 @@ get_national_data <- function(url) {
   
   # extract the data at relevant y position
   national_datapoints <- national_data %>%
-    filter(y == 369 | y == 486 | y == 603 | 
-           y == 62  | y == 179 | y == 296) %>%
+    filter(x==36 & (y == 395 | y == 512 | y == 629 | 
+           y == 62  | y == 179 | y == 296)) %>%
     mutate(
       entity = case_when(
-        page == 1 & y == 369 ~ "retail_recr",
-        page == 1 & y == 486 ~ "grocery_pharm",
-        page == 1 & y == 603 ~ "parks",
+        page == 1 & y == 395 ~ "retail_recr",
+        page == 1 & y == 512 ~ "grocery_pharm",
+        page == 1 & y == 629 ~ "parks",
         page == 2 & y == 62  ~ "transit",
         page == 2 & y == 179 ~ "workplace",
         page == 2 & y == 296 ~ "residential",
@@ -125,19 +125,29 @@ get_country_list <- function(url = "https://www.google.com/covid19/mobility/") {
   # get webpage
   page <- xml2::read_html(url)
   
-  # extract country urls 
-  country_urls <- rvest::html_nodes(page, "div.country-data > a.download-link") %>% 
-    rvest::html_attr("href")
   
-  # create tibble from URL
-  countries <- tibble(url = country_urls) %>%
-    mutate(filename = basename(url),
+  pageJSON <- page %>% 
+    rvest::html_nodes(xpath = "/html/body/div[1]/section[3]/div[2]/script[1]") %>% 
+    rvest::html_text() %>%
+    str_remove("^window.templateData=JSON.parse\\('") %>%
+    str_remove("'\\)$") %>%
+    stringi::stri_unescape_unicode() %>%
+    jsonlite::fromJSON()
+  
+  
+  countries <- pageJSON$countries %>%
+    select(name, pdfLinks) %>%
+    unnest(pdfLinks) %>%
+    mutate(filename = basename(link),
            date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
-           country = map_chr(filename, ~strsplit(., "_")[[1]][2]),
+           country = countrycode::countrycode(name, 
+                                              "country.name", 
+                                              "iso2c"),
            country_name = countrycode::countrycode(country, 
                                                    "iso2c", 
                                                    "country.name")) %>%
-    select(country, country_name, date, url)
+    filter(lang == "en") %>%
+    select(country, country_name, date, url = link)
   
   # return data
   return(countries)
@@ -150,20 +160,25 @@ get_region_list <- function(url = "https://www.google.com/covid19/mobility/") {
   page <- xml2::read_html(url)
   
   # extract region URLs
-  region_urls <- rvest::html_nodes(page, "div.region-data > a.download-link") %>% 
-    rvest::html_attr("href")
+  pageJSON <- page %>% 
+    rvest::html_nodes(xpath = "/html/body/div[1]/section[3]/div[2]/script[1]") %>% 
+    rvest::html_text() %>%
+    str_remove("^window.templateData=JSON.parse\\('") %>%
+    str_remove("'\\)$") %>%
+    stringi::stri_unescape_unicode() %>%
+    jsonlite::fromJSON()
   
-  # create tibble from URLs
-  regions <- tibble(url = region_urls) %>%
-    mutate(filename = basename(url),
+  regions <- pageJSON$countries %>%
+    select(name, childRegions) %>%
+    filter(name == "United States") %>%
+    pull(childRegions) %>%
+    pluck(1) %>%
+    unnest(pdfLinks) %>%
+    mutate(filename = basename(link),
            date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
-           country = map_chr(filename, ~strsplit(., "_")[[1]][2]),
-           region = map_chr(filename, 
-                            ~str_remove_all(., "-") %>% 
-                              str_remove("\\d+_\\w{2}_") %>% 
-                              str_remove("_Mobility_Report_en.pdf") %>% 
-                              str_replace_all("_", " "))) %>%
-    select(country, region, date, url)
+           country = map_chr(filename, ~strsplit(., "_")[[1]][2])) %>%
+    filter(lang == "en") %>%
+    select(country, region = name, date, url = link)
   
   # return data
   return(regions)
@@ -192,13 +207,13 @@ get_region_data <- function(url) {
   
   # extract the data at relevant y position
   region_datapoints <- region_data %>%
-    filter(y == 369 | y == 486 | y == 603 | 
-             y == 62  | y == 179 | y == 296) %>%
+    filter(x==36 & (y == 395 | y == 512 | y == 629 | 
+                      y == 62  | y == 179 | y == 296))%>%
     mutate(
       entity = case_when(
-        page == 1 & y == 369 ~ "retail_recr",
-        page == 1 & y == 486 ~ "grocery_pharm",
-        page == 1 & y == 603 ~ "parks",
+        page == 1 & y == 395 ~ "retail_recr",
+        page == 1 & y == 512 ~ "grocery_pharm",
+        page == 1 & y == 629 ~ "parks",
         page == 2 & y == 62  ~ "transit",
         page == 2 & y == 179 ~ "workplace",
         page == 2 & y == 296 ~ "residential",
@@ -298,20 +313,14 @@ get_update_time <- function(url = "https://www.google.com/covid19/mobility/") {
   page <- xml2::read_html(url)
   
   # get script block that contains date
-  update_script <- page %>% 
-    rvest::html_nodes("#time-update+script") %>% 
+  update_text <- page %>% 
+    rvest::html_nodes("p.report-info-text") %>% 
     rvest::html_text() %>%
-    strsplit("\n") %>%
-    pluck(1)
-  
-  update_var <- update_script[str_detect(update_script, "var date = .*")]
-  
-  update_val <- str_sub(
-    update_var,
-    (str_locate(update_var, "\".*\"") + c(1, -1))
-    )
-  
-  update_time <- lubridate::as_datetime(update_val) %>%
+    pluck(1) %>%
+    str_remove_all("^Reports updated ") %>%
+    str_remove_all("\\.|\\,")
+    
+  update_time <- lubridate::as_datetime(update_text) %>%
     lubridate::round_date("second")
   
   return(update_time)

@@ -1,0 +1,2520 @@
+﻿date,country,country_name,region,location,transit,workplace,residential,retail_recr,grocery_pharm,parks
+2020-05-21,AF,Afghanistan,NA,COUNTRY OVERALL,-0.32,-0.28,0.13,NA,NA,NA
+2020-05-21,AO,Angola,NA,COUNTRY OVERALL,-0.48,-0.27,0.2,-0.34,-0.19,-0.15
+2020-05-21,AG,Antigua & Barbuda,NA,COUNTRY OVERALL,-0.59,-0.4,0.26,-0.36,-0.21,-0.22
+2020-05-21,AR,Argentina,NA,COUNTRY OVERALL,-0.57,-0.35,0.21,-0.71,-0.27,-0.88
+2020-05-21,AW,Aruba,NA,COUNTRY OVERALL,-0.63,-0.78,0.31,NA,NA,NA
+2020-05-21,AU,Australia,NA,COUNTRY OVERALL,-0.52,-0.26,0.15,-0.28,-0.03,-0.33
+2020-05-21,AT,Austria,NA,COUNTRY OVERALL,-0.52,-0.8,0.2,-0.58,-0.87,0.82
+2020-05-21,BH,Bahrain,NA,COUNTRY OVERALL,-0.28,-0.24,0.21,NA,NA,NA
+2020-05-21,BD,Bangladesh,NA,COUNTRY OVERALL,-0.62,-0.51,0.19,NA,NA,NA
+2020-05-21,BB,Barbados,NA,COUNTRY OVERALL,-0.6,-0.48,0.24,-0.48,-0.32,-0.37
+2020-05-21,BY,Belarus,NA,COUNTRY OVERALL,-0.17,-0.18,0.06,NA,NA,NA
+2020-05-21,BE,Belgium,NA,COUNTRY OVERALL,-0.54,-0.8,0.25,-0.65,-0.52,0.8
+2020-05-21,BZ,Belize,NA,COUNTRY OVERALL,-0.52,-0.4,0.17,-0.35,-0.16,-0.25
+2020-05-21,BJ,Benin,NA,COUNTRY OVERALL,-0.28,-0.38,0.14,-0.18,-0.06,-0.05
+2020-05-21,BO,Bolivia,NA,COUNTRY OVERALL,-0.7,-0.57,0.32,-0.7,-0.54,-0.62
+2020-05-21,BA,Bosnia & Herzegovina,NA,COUNTRY OVERALL,-0.16,-0.21,0.05,NA,NA,NA
+2020-05-21,BW,Botswana,NA,COUNTRY OVERALL,-0.56,-0.62,0.32,NA,NA,NA
+2020-05-21,BR,Brazil,NA,COUNTRY OVERALL,-0.49,-0.31,0.17,-0.51,-0.07,-0.43
+2020-05-21,BG,Bulgaria,NA,COUNTRY OVERALL,-0.31,-0.29,0.09,-0.25,-0.05,-0.15
+2020-05-21,BF,Burkina Faso,NA,COUNTRY OVERALL,-0.25,-0.34,0.15,-0.15,-0.07,-0.14
+2020-05-21,KH,Cambodia,NA,COUNTRY OVERALL,-0.45,-0.18,0.09,-0.22,-0.13,-0.13
+2020-05-21,CM,Cameroon,NA,COUNTRY OVERALL,-0.18,-0.35,0.15,-0.19,-0.13,-0.23
+2020-05-21,CA,Canada,NA,COUNTRY OVERALL,-0.55,-0.49,0.18,-0.3,-0.02,0.73
+2020-05-21,CV,Cape Verde,NA,COUNTRY OVERALL,-0.64,-0.42,0.19,-0.45,-0.3,-0.44
+2020-05-21,CL,Chile,NA,COUNTRY OVERALL,-0.77,-0.74,0.36,-0.78,-0.53,-0.72
+2020-05-21,CO,Colombia,NA,COUNTRY OVERALL,-0.59,-0.48,0.25,-0.6,-0.35,-0.48
+2020-05-21,CR,Costa Rica,NA,COUNTRY OVERALL,-0.45,-0.31,0.17,NA,NA,NA
+2020-05-21,CI,Côte d’Ivoire,NA,COUNTRY OVERALL,-0.28,-0.47,0.21,-0.22,-0.1,-0.22
+2020-05-21,HR,Croatia,NA,COUNTRY OVERALL,-0.32,-0.28,0.06,-0.06,0,0.45
+2020-05-21,CZ,Czechia,NA,COUNTRY OVERALL,-0.14,-0.22,0.07,-0.17,0.05,-0.01
+2020-05-21,DK,Denmark,NA,COUNTRY OVERALL,-0.42,-0.77,0.16,-0.38,-0.21,3.37
+2020-05-21,DO,Dominican Republic,NA,COUNTRY OVERALL,-0.66,-0.49,0.24,-0.47,-0.32,-0.44
+2020-05-21,EC,Ecuador,NA,COUNTRY OVERALL,-0.64,-0.6,0.3,-0.58,-0.38,-0.55
+2020-05-21,EG,Egypt,NA,COUNTRY OVERALL,-0.44,-0.3,0.15,-0.5,0.03,-0.4
+2020-05-21,SV,El Salvador,NA,COUNTRY OVERALL,-0.72,-0.64,0.33,-0.75,-0.54,-0.66
+2020-05-21,EE,Estonia,NA,COUNTRY OVERALL,-0.2,-0.33,0.1,-0.13,-0.01,0.51
+2020-05-21,FJ,Fiji,NA,COUNTRY OVERALL,-0.29,-0.14,0.14,NA,NA,NA
+2020-05-21,FI,Finland,NA,COUNTRY OVERALL,-0.53,-0.76,0.17,-0.47,-0.14,1.49
+2020-05-21,FR,France,NA,COUNTRY OVERALL,-0.61,-0.78,0.22,-0.56,-0.36,0.66
+2020-05-21,GA,Gabon,NA,COUNTRY OVERALL,-0.45,-0.51,0.26,-0.36,-0.29,-0.18
+2020-05-21,GE,Georgia,NA,COUNTRY OVERALL,-0.47,-0.48,0.12,NA,NA,NA
+2020-05-21,DE,Germany,NA,COUNTRY OVERALL,-0.46,-0.81,0.18,-0.55,-0.87,2.25
+2020-05-21,GH,Ghana,NA,COUNTRY OVERALL,-0.22,-0.18,0.15,NA,NA,NA
+2020-05-21,GR,Greece,NA,COUNTRY OVERALL,-0.27,-0.24,0.08,-0.32,0.09,0.3
+2020-05-21,GT,Guatemala,NA,COUNTRY OVERALL,-0.62,-0.42,0.25,-0.49,-0.25,-0.43
+2020-05-21,GW,Guinea-Bissau,NA,COUNTRY OVERALL,NA,-0.27,NA,NA,NA,NA
+2020-05-21,HT,Haiti,NA,COUNTRY OVERALL,-0.44,-0.31,0.12,-0.28,-0.23,-0.17
+2020-05-21,HN,Honduras,NA,COUNTRY OVERALL,-0.67,-0.51,0.23,-0.64,-0.41,-0.45
+2020-05-21,HK,Hong Kong SAR China,NA,COUNTRY OVERALL,-0.21,-0.01,0.09,NA,NA,NA
+2020-05-21,HU,Hungary,NA,COUNTRY OVERALL,-0.35,-0.36,0.13,-0.18,-0.04,0.32
+2020-05-21,IN,India,NA,COUNTRY OVERALL,-0.49,-0.44,0.21,-0.72,-0.2,-0.56
+2020-05-21,ID,Indonesia,NA,COUNTRY OVERALL,-0.47,-0.57,0.2,-0.24,0.12,-0.21
+2020-05-21,IQ,Iraq,NA,COUNTRY OVERALL,-0.09,-0.18,0.13,NA,NA,NA
+2020-05-21,IE,Ireland,NA,COUNTRY OVERALL,-0.5,-0.55,0.24,-0.6,-0.06,-0.4
+2020-05-21,IL,Israel,NA,COUNTRY OVERALL,-0.14,-0.19,0.12,-0.32,0.04,-0.19
+2020-05-21,IT,Italy,NA,COUNTRY OVERALL,-0.46,-0.37,0.15,-0.37,-0.15,0
+2020-05-21,JM,Jamaica,NA,COUNTRY OVERALL,-0.36,-0.39,0.22,-0.36,-0.25,-0.44
+2020-05-21,JP,Japan,NA,COUNTRY OVERALL,-0.41,-0.21,0.12,-0.27,-0.01,-0.08
+2020-05-21,JO,Jordan,NA,COUNTRY OVERALL,-0.73,-0.35,0.1,0,0.4,-0.11
+2020-05-21,KZ,Kazakhstan,NA,COUNTRY OVERALL,-0.05,-0.29,0.08,NA,NA,NA
+2020-05-21,KE,Kenya,NA,COUNTRY OVERALL,-0.3,-0.29,0.22,-0.35,-0.26,-0.23
+2020-05-21,KW,Kuwait,NA,COUNTRY OVERALL,-0.79,-0.78,0.45,-0.87,-0.73,-0.77
+2020-05-21,KG,Kyrgyzstan,NA,COUNTRY OVERALL,-0.38,-0.38,0.08,-0.36,-0.22,-0.1
+2020-05-21,LA,Laos,NA,COUNTRY OVERALL,-0.29,-0.1,0.06,NA,NA,NA
+2020-05-21,LV,Latvia,NA,COUNTRY OVERALL,-0.3,-0.31,0.11,-0.16,-0.02,0.08
+2020-05-21,LB,Lebanon,NA,COUNTRY OVERALL,-0.58,-0.34,0.09,-0.24,-0.01,0.11
+2020-05-21,LY,Libya,NA,COUNTRY OVERALL,-0.14,-0.18,0.13,0.01,0.32,0.19
+2020-05-21,LI,Liechtenstein,NA,COUNTRY OVERALL,-0.39,-0.82,NA,NA,NA,NA
+2020-05-21,LT,Lithuania,NA,COUNTRY OVERALL,-0.34,-0.35,0.11,-0.29,0.06,0.34
+2020-05-21,LU,Luxembourg,NA,COUNTRY OVERALL,-0.66,-0.86,0.28,NA,NA,NA
+2020-05-21,MY,Malaysia,NA,COUNTRY OVERALL,-0.48,-0.32,0.21,-0.47,0,-0.39
+2020-05-21,ML,Mali,NA,COUNTRY OVERALL,-0.19,-0.08,0.07,NA,NA,NA
+2020-05-21,MT,Malta,NA,COUNTRY OVERALL,-0.33,-0.42,0.2,NA,NA,NA
+2020-05-21,MU,Mauritius,NA,COUNTRY OVERALL,-0.62,-0.52,0.23,-0.54,-0.43,-0.63
+2020-05-21,MX,Mexico,NA,COUNTRY OVERALL,-0.58,-0.47,0.22,-0.54,-0.2,-0.46
+2020-05-21,MD,Moldova,NA,COUNTRY OVERALL,-0.27,-0.32,0.1,NA,NA,NA
+2020-05-21,MN,Mongolia,NA,COUNTRY OVERALL,0.12,0.06,-0.01,0.11,0.34,0.3
+2020-05-21,MZ,Mozambique,NA,COUNTRY OVERALL,-0.18,-0.1,0.11,-0.2,-0.05,-0.24
+2020-05-21,MM,Myanmar (Burma),NA,COUNTRY OVERALL,-0.37,-0.25,0.15,NA,NA,NA
+2020-05-21,"NA",Namibia,NA,COUNTRY OVERALL,-0.61,-0.67,0.2,-0.36,-0.19,-0.22
+2020-05-21,NP,Nepal,NA,COUNTRY OVERALL,-0.63,-0.58,0.23,NA,NA,NA
+2020-05-21,NL,Netherlands,NA,COUNTRY OVERALL,-0.53,-0.78,0.19,-0.35,-0.13,2.46
+2020-05-21,NZ,New Zealand,NA,COUNTRY OVERALL,-0.47,-0.1,0.11,-0.28,-0.12,-0.42
+2020-05-21,NI,Nicaragua,NA,COUNTRY OVERALL,-0.38,-0.26,0.15,-0.38,-0.22,-0.31
+2020-05-21,NE,Niger,NA,COUNTRY OVERALL,-0.07,-0.13,0.07,-0.01,0.16,-0.06
+2020-05-21,NG,Nigeria,NA,COUNTRY OVERALL,-0.32,-0.34,0.22,-0.37,-0.26,-0.41
+2020-05-21,MK,North Macedonia,NA,COUNTRY OVERALL,-0.46,-0.38,0.13,NA,NA,NA
+2020-05-21,NO,Norway,NA,COUNTRY OVERALL,-0.44,-0.81,0.19,-0.61,-0.7,2.27
+2020-05-21,OM,Oman,NA,COUNTRY OVERALL,-0.61,-0.39,0.23,-0.46,-0.28,-0.44
+2020-05-21,PK,Pakistan,NA,COUNTRY OVERALL,-0.26,-0.33,0.13,-0.26,-0.09,-0.14
+2020-05-21,PA,Panama,NA,COUNTRY OVERALL,-0.64,-0.6,0.35,NA,NA,NA
+2020-05-21,PG,Papua New Guinea,NA,COUNTRY OVERALL,-0.16,0.22,0.04,NA,NA,NA
+2020-05-21,PY,Paraguay,NA,COUNTRY OVERALL,-0.44,-0.19,0.17,-0.41,-0.29,-0.41
+2020-05-21,PE,Peru,NA,COUNTRY OVERALL,-0.71,-0.65,0.36,-0.81,-0.51,-0.61
+2020-05-21,PH,Philippines,NA,COUNTRY OVERALL,-0.7,-0.57,0.3,-0.7,-0.34,-0.48
+2020-05-21,PL,Poland,NA,COUNTRY OVERALL,-0.38,-0.27,0.09,-0.16,-0.04,0.47
+2020-05-21,PT,Portugal,NA,COUNTRY OVERALL,-0.54,-0.44,0.21,-0.41,-0.16,0.13
+2020-05-21,PR,Puerto Rico,NA,COUNTRY OVERALL,-0.63,-0.4,0.21,-0.4,-0.22,-0.38
+2020-05-21,QA,Qatar,NA,COUNTRY OVERALL,-0.4,-0.4,0.27,NA,NA,NA
+2020-05-21,RE,Réunion,NA,COUNTRY OVERALL,-0.74,-0.63,NA,-0.74,-0.72,-0.65
+2020-05-21,RO,Romania,NA,COUNTRY OVERALL,-0.34,-0.36,0.1,-0.29,-0.04,-0.41
+2020-05-21,RW,Rwanda,NA,COUNTRY OVERALL,-0.31,-0.28,0.15,-0.33,-0.23,-0.08
+2020-05-21,SA,Saudi Arabia,NA,COUNTRY OVERALL,-0.75,-0.48,0.27,-0.48,-0.1,-0.62
+2020-05-21,SN,Senegal,NA,COUNTRY OVERALL,-0.49,-0.45,0.21,-0.41,-0.21,-0.31
+2020-05-21,RS,Serbia,NA,COUNTRY OVERALL,-0.28,-0.33,0.04,NA,NA,NA
+2020-05-21,SG,Singapore,NA,COUNTRY OVERALL,-0.62,-0.64,0.41,NA,NA,NA
+2020-05-21,SK,Slovakia,NA,COUNTRY OVERALL,-0.31,-0.3,0.1,-0.22,0.02,0.47
+2020-05-21,SI,Slovenia,NA,COUNTRY OVERALL,-0.23,-0.26,0.07,-0.07,-0.06,0.46
+2020-05-21,ZA,South Africa,NA,COUNTRY OVERALL,-0.62,-0.48,0.26,-0.49,-0.24,-0.33
+2020-05-21,KR,South Korea,NA,COUNTRY OVERALL,-0.05,-0.02,0.02,NA,NA,NA
+2020-05-21,ES,Spain,NA,COUNTRY OVERALL,-0.53,-0.48,0.19,-0.58,-0.18,-0.07
+2020-05-21,LK,Sri Lanka,NA,COUNTRY OVERALL,-0.42,-0.33,0.23,NA,NA,NA
+2020-05-21,SE,Sweden,NA,COUNTRY OVERALL,-0.42,-0.76,0.17,-0.21,0,2.68
+2020-05-21,CH,Switzerland,NA,COUNTRY OVERALL,-0.31,-0.81,0.2,-0.58,-0.71,1.45
+2020-05-21,TW,Taiwan,NA,COUNTRY OVERALL,-0.23,0.05,0.01,NA,NA,NA
+2020-05-21,TJ,Tajikistan,NA,COUNTRY OVERALL,-0.45,-0.36,0.15,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,COUNTRY OVERALL,-0.15,-0.19,0.09,-0.2,0.01,-0.12
+2020-05-21,TH,Thailand,NA,COUNTRY OVERALL,-0.39,-0.23,0.13,NA,NA,NA
+2020-05-21,BS,Bahamas,NA,COUNTRY OVERALL,-0.72,-0.45,0.23,-0.42,-0.05,-0.2
+2020-05-21,TG,Togo,NA,COUNTRY OVERALL,-0.36,-0.42,0.24,-0.29,-0.17,-0.02
+2020-05-21,TT,Trinidad & Tobago,NA,COUNTRY OVERALL,-0.65,-0.46,0.22,NA,NA,NA
+2020-05-21,TR,Turkey,NA,COUNTRY OVERALL,-0.37,-0.34,0.12,-0.36,0.31,-0.05
+2020-05-21,UG,Uganda,NA,COUNTRY OVERALL,-0.67,-0.43,0.26,-0.6,-0.46,-0.28
+2020-05-21,AE,United Arab Emirates,NA,COUNTRY OVERALL,-0.61,-0.43,0.3,-0.53,-0.2,-0.69
+2020-05-21,GB,United Kingdom,NA,COUNTRY OVERALL,-0.58,-0.59,0.23,-0.64,-0.16,0.51
+2020-05-21,US,United States,NA,COUNTRY OVERALL,-0.37,-0.41,0.15,-0.22,-0.01,0.31
+2020-05-21,UY,Uruguay,NA,COUNTRY OVERALL,-0.49,-0.24,0.17,-0.52,-0.35,-0.68
+2020-05-21,VE,Venezuela,NA,COUNTRY OVERALL,-0.51,-0.4,0.2,NA,NA,NA
+2020-05-21,VN,Vietnam,NA,COUNTRY OVERALL,-0.07,0.16,0.01,-0.2,0.05,-0.25
+2020-05-21,YE,Yemen,NA,COUNTRY OVERALL,0.04,-0.15,0.08,NA,NA,NA
+2020-05-21,ZM,Zambia,NA,COUNTRY OVERALL,-0.12,-0.11,0.13,NA,NA,NA
+2020-05-21,ZW,Zimbabwe,NA,COUNTRY OVERALL,-0.45,-0.24,0.26,-0.25,-0.14,-0.22
+2020-05-21,US,United States,Alabama,REGION OVERALL,-0.04,-0.3,0.1,-0.05,0.09,0.4
+2020-05-21,US,United States,Alaska,REGION OVERALL,-0.28,-0.3,0.1,-0.03,0.12,0.78
+2020-05-21,US,United States,Arizona,REGION OVERALL,-0.27,-0.4,0.13,-0.15,-0.02,0.03
+2020-05-21,US,United States,Arkansas,REGION OVERALL,-0.05,-0.3,0.08,-0.02,0.11,0.98
+2020-05-21,US,United States,California,REGION OVERALL,-0.45,-0.45,0.18,-0.4,-0.06,-0.05
+2020-05-21,US,United States,Colorado,REGION OVERALL,-0.36,-0.44,0.14,-0.19,0.01,0.78
+2020-05-21,US,United States,Connecticut,REGION OVERALL,-0.34,-0.44,0.17,-0.22,-0.06,0.84
+2020-05-21,US,United States,Delaware,REGION OVERALL,-0.32,-0.42,0.16,-0.21,-0.03,0.46
+2020-05-21,US,United States,District of Columbia,REGION OVERALL,-0.74,-0.66,0.26,NA,NA,NA
+2020-05-21,US,United States,Florida,REGION OVERALL,-0.44,-0.37,0.14,-0.26,-0.11,-0.22
+2020-05-21,US,United States,Georgia,REGION OVERALL,-0.36,-0.38,0.14,-0.13,0.01,0.19
+2020-05-21,US,United States,Hawaii,REGION OVERALL,-0.65,-0.41,0.18,-0.42,-0.19,-0.49
+2020-05-21,US,United States,Idaho,REGION OVERALL,0.04,-0.33,0.1,-0.02,0.12,0.96
+2020-05-21,US,United States,Illinois,REGION OVERALL,-0.42,-0.45,0.17,-0.29,-0.01,0.36
+2020-05-21,US,United States,Indiana,REGION OVERALL,-0.05,-0.35,0.12,-0.08,0.05,0.75
+2020-05-21,US,United States,Iowa,REGION OVERALL,-0.05,-0.34,0.12,-0.13,0.11,1.43
+2020-05-21,US,United States,Kansas,REGION OVERALL,-0.02,-0.36,0.12,-0.12,0.01,1.1
+2020-05-21,US,United States,Kentucky,REGION OVERALL,-0.14,-0.37,0.12,-0.16,0.08,0.52
+2020-05-21,US,United States,Louisiana,REGION OVERALL,-0.22,-0.31,0.1,-0.12,0.06,0.11
+2020-05-21,US,United States,Maine,REGION OVERALL,-0.19,-0.36,0.11,-0.13,0.08,1.54
+2020-05-21,US,United States,Maryland,REGION OVERALL,-0.44,-0.5,0.21,-0.26,-0.08,0.61
+2020-05-21,US,United States,Massachusetts,REGION OVERALL,-0.59,-0.52,0.2,-0.3,-0.08,0.77
+2020-05-21,US,United States,Michigan,REGION OVERALL,-0.26,-0.46,0.15,-0.2,0.02,1.56
+2020-05-21,US,United States,Minnesota,REGION OVERALL,-0.46,-0.44,0.16,-0.23,0.05,1.15
+2020-05-21,US,United States,Mississippi,REGION OVERALL,-0.01,-0.28,0.09,-0.01,0.08,0.41
+2020-05-21,US,United States,Missouri,REGION OVERALL,-0.14,-0.36,0.11,-0.07,0.09,0.8
+2020-05-21,US,United States,Montana,REGION OVERALL,-0.05,-0.27,0.08,-0.02,0.14,0.76
+2020-05-21,US,United States,Nebraska,REGION OVERALL,0,-0.35,0.14,-0.14,0.04,0.88
+2020-05-21,US,United States,Nevada,REGION OVERALL,-0.41,-0.44,0.15,-0.24,-0.04,-0.19
+2020-05-21,US,United States,New Hampshire,REGION OVERALL,-0.2,-0.4,0.15,-0.08,0.04,1.57
+2020-05-21,US,United States,New Jersey,REGION OVERALL,-0.54,-0.51,0.21,-0.39,-0.06,0.86
+2020-05-21,US,United States,New Mexico,REGION OVERALL,-0.15,-0.4,0.14,-0.16,0.08,0.34
+2020-05-21,US,United States,New York,REGION OVERALL,-0.58,-0.51,0.2,-0.42,-0.04,0.39
+2020-05-21,US,United States,North Carolina,REGION OVERALL,-0.36,-0.39,0.17,-0.25,-0.03,-0.16
+2020-05-21,US,United States,North Dakota,REGION OVERALL,-0.09,-0.3,0.09,-0.03,0.08,1.14
+2020-05-21,US,United States,Ohio,REGION OVERALL,-0.13,-0.38,0.13,-0.12,0.03,0.84
+2020-05-21,US,United States,Oklahoma,REGION OVERALL,0.01,-0.32,0.09,-0.01,0.11,0.68
+2020-05-21,US,United States,Oregon,REGION OVERALL,-0.34,-0.42,0.14,-0.24,-0.01,0.25
+2020-05-21,US,United States,Pennsylvania,REGION OVERALL,-0.42,-0.44,0.16,-0.24,-0.01,0.88
+2020-05-21,US,United States,Rhode Island,REGION OVERALL,-0.49,-0.43,0.16,-0.17,-0.04,1.49
+2020-05-21,US,United States,South Carolina,REGION OVERALL,-0.05,-0.32,0.12,-0.07,0.04,0.12
+2020-05-21,US,United States,South Dakota,REGION OVERALL,0.11,-0.31,0.1,-0.04,0.18,1.85
+2020-05-21,US,United States,Tennessee,REGION OVERALL,-0.15,-0.33,0.1,-0.06,0.06,0.44
+2020-05-21,US,United States,Texas,REGION OVERALL,-0.29,-0.39,0.14,-0.14,-0.01,0.2
+2020-05-21,US,United States,Utah,REGION OVERALL,-0.29,-0.4,0.12,-0.08,0.12,1.33
+2020-05-21,US,United States,Vermont,REGION OVERALL,-0.31,-0.42,0.14,-0.19,-0.03,1.17
+2020-05-21,US,United States,Virginia,REGION OVERALL,-0.41,-0.45,0.18,-0.27,-0.06,0.14
+2020-05-21,US,United States,Washington,REGION OVERALL,-0.47,-0.47,0.18,-0.3,-0.04,0.25
+2020-05-21,US,United States,West Virginia,REGION OVERALL,-0.02,-0.33,0.11,-0.09,0.02,0.05
+2020-05-21,US,United States,Wisconsin,REGION OVERALL,-0.11,-0.37,0.13,-0.14,0.06,1.77
+2020-05-21,US,United States,Wyoming,REGION OVERALL,0.18,-0.27,0.08,0,0.13,0.87
+2020-05-21,AO,Angola,NA,Benguela Province,NA,NA,NA,-0.56,-0.2,NA
+2020-05-21,AO,Angola,NA,Huambo Province,NA,-0.01,NA,NA,NA,NA
+2020-05-21,AO,Angola,NA,Luanda Province,NA,NA,NA,-0.37,-0.21,-0.33
+2020-05-21,AG,Antigua & Barbuda,NA,Saint George,-0.8,-0.82,NA,NA,NA,NA
+2020-05-21,AG,Antigua & Barbuda,NA,Saint Mary,NA,-0.44,NA,NA,NA,NA
+2020-05-21,AR,Argentina,NA,Buenos Aires,NA,NA,NA,-0.79,-0.27,-0.88
+2020-05-21,AR,Argentina,NA,Catamarca Province,NA,NA,NA,-0.56,-0.06,-0.88
+2020-05-21,AR,Argentina,NA,Chubut Province,NA,NA,NA,-0.62,-0.23,-0.82
+2020-05-21,AR,Argentina,NA,Corrientes,NA,NA,NA,-0.65,-0.28,-0.83
+2020-05-21,AR,Argentina,NA,Formosa Province,NA,NA,NA,-0.74,-0.17,-0.79
+2020-05-21,AR,Argentina,NA,La Pampa,NA,NA,NA,-0.65,-0.18,-0.82
+2020-05-21,AR,Argentina,NA,Mendoza Province,NA,NA,NA,-0.66,-0.25,-0.89
+2020-05-21,AR,Argentina,NA,Neuquen,NA,NA,NA,-0.68,-0.28,-0.85
+2020-05-21,AR,Argentina,NA,Salta Province,NA,NA,NA,-0.55,-0.18,-0.76
+2020-05-21,AR,Argentina,NA,San Luis Province,NA,NA,NA,-0.69,-0.27,-0.91
+2020-05-21,AR,Argentina,NA,Santa Fe Province,NA,NA,NA,-0.67,-0.24,-0.92
+2020-05-21,AR,Argentina,NA,Tierra del Fuego Province,NA,NA,NA,-0.66,-0.27,-0.78
+2020-05-21,AU,Australia,NA,Australian Capital Territory,NA,NA,NA,-0.3,-0.03,-0.01
+2020-05-21,AU,Australia,NA,Northern Territory,NA,NA,NA,-0.06,0.14,0.03
+2020-05-21,AU,Australia,NA,South Australia,NA,NA,NA,-0.2,0.04,-0.24
+2020-05-21,AU,Australia,NA,Victoria,NA,NA,NA,-0.37,-0.07,-0.49
+2020-05-21,AT,Austria,NA,Burgenland,NA,NA,NA,-0.46,-0.92,0.8
+2020-05-21,AT,Austria,NA,Lower Austria,NA,NA,NA,-0.46,-0.89,2.31
+2020-05-21,AT,Austria,NA,Styria,NA,NA,NA,-0.57,-0.87,0.8
+2020-05-21,AT,Austria,NA,Upper Austria,NA,NA,NA,-0.54,-0.88,2
+2020-05-21,AT,Austria,NA,Vorarlberg,NA,NA,NA,-0.53,-0.87,0.49
+2020-05-21,BB,Barbados,NA,Christ Church,NA,NA,NA,-0.56,-0.35,-0.62
+2020-05-21,BB,Barbados,NA,Saint James,NA,NA,NA,-0.69,-0.42,NA
+2020-05-21,BB,Barbados,NA,Saint Lucy,NA,-0.46,NA,NA,NA,NA
+2020-05-21,BB,Barbados,NA,Saint Peter,NA,-0.48,NA,NA,NA,NA
+2020-05-21,BB,Barbados,NA,Saint Thomas,NA,-0.46,NA,NA,NA,NA
+2020-05-21,BE,Belgium,NA,Brussels,NA,NA,NA,-0.73,-0.46,0.85
+2020-05-21,BE,Belgium,NA,Wallonia,NA,NA,NA,-0.68,-0.57,0.48
+2020-05-21,BZ,Belize,NA,Belize District,NA,NA,NA,-0.35,-0.23,-0.38
+2020-05-21,BZ,Belize,NA,Corozal District,NA,NA,NA,-0.53,NA,NA
+2020-05-21,BZ,Belize,NA,Stann Creek District,NA,-0.39,NA,NA,NA,NA
+2020-05-21,BJ,Benin,NA,Atlantique Department,NA,NA,NA,0.04,0.1,NA
+2020-05-21,BJ,Benin,NA,Littoral Department,NA,NA,NA,-0.31,-0.17,-0.14
+2020-05-21,BJ,Benin,NA,Zou Department,NA,-0.17,NA,NA,NA,NA
+2020-05-21,BO,Bolivia,NA,Beni Department,NA,NA,NA,-0.61,-0.53,-0.46
+2020-05-21,BO,Bolivia,NA,Cochabamba Department,NA,NA,NA,-0.67,-0.54,-0.64
+2020-05-21,BO,Bolivia,NA,Oruro Department,NA,NA,NA,-0.63,-0.58,-0.63
+2020-05-21,BO,Bolivia,NA,Potosi Department,NA,NA,NA,-0.71,-0.64,-0.62
+2020-05-21,BO,Bolivia,NA,Tarija Department,NA,NA,NA,-0.62,-0.52,-0.6
+2020-05-21,BR,Brazil,NA,Federal District,NA,NA,NA,-0.51,0.02,-0.5
+2020-05-21,BR,Brazil,NA,State of Alagoas,NA,NA,NA,-0.59,-0.21,-0.54
+2020-05-21,BR,Brazil,NA,State of Amazonas,NA,NA,NA,-0.48,-0.02,-0.44
+2020-05-21,BR,Brazil,NA,State of Ceará,NA,NA,NA,-0.68,-0.2,-0.78
+2020-05-21,BR,Brazil,NA,State of Goiás,NA,NA,NA,-0.42,0.03,-0.12
+2020-05-21,BR,Brazil,NA,State of Mato Grosso,NA,NA,NA,-0.26,0.03,-0.21
+2020-05-21,BR,Brazil,NA,State of Minas Gerais,NA,NA,NA,-0.38,0.02,-0.24
+2020-05-21,BR,Brazil,NA,State of Paraíba,NA,NA,NA,-0.65,-0.16,-0.58
+2020-05-21,BR,Brazil,NA,State of Pernambuco,NA,NA,NA,-0.66,-0.2,-0.53
+2020-05-21,BR,Brazil,NA,State of Rio Grande do Norte,NA,NA,NA,-0.56,-0.14,-0.61
+2020-05-21,BR,Brazil,NA,State of Rio de Janeiro,NA,NA,NA,-0.59,-0.12,-0.61
+2020-05-21,BR,Brazil,NA,State of Roraima,NA,NA,NA,-0.45,-0.04,-0.35
+2020-05-21,BR,Brazil,NA,State of Sergipe,NA,NA,NA,-0.5,-0.1,-0.46
+2020-05-21,BR,Brazil,NA,State of Tocantins,NA,NA,NA,-0.41,-0.15,-0.2
+2020-05-21,BG,Bulgaria,NA,Blagoevgrad Province,NA,NA,NA,-0.36,-0.06,-0.08
+2020-05-21,BG,Bulgaria,NA,Dobrich Province,NA,NA,NA,-0.13,0.05,-0.03
+2020-05-21,BG,Bulgaria,NA,Haskovo Province,NA,NA,NA,-0.24,0.06,0.09
+2020-05-21,BG,Bulgaria,NA,Kardzhali Province,NA,NA,NA,-0.26,-0.06,-0.05
+2020-05-21,BG,Bulgaria,NA,Lovec,NA,NA,NA,-0.18,-0.03,1.15
+2020-05-21,BG,Bulgaria,NA,Pazardzhik,NA,NA,NA,-0.17,0.01,-0.1
+2020-05-21,BG,Bulgaria,NA,Pleven Province,NA,NA,NA,-0.21,-0.07,-0.13
+2020-05-21,BG,Bulgaria,NA,Razgrad,NA,NA,NA,-0.05,-0.07,NA
+2020-05-21,BG,Bulgaria,NA,Shumen Province,NA,NA,NA,-0.18,-0.04,0.27
+2020-05-21,BG,Bulgaria,NA,Sliven Province,NA,NA,NA,-0.17,0.02,-0.12
+2020-05-21,BG,Bulgaria,NA,Sofia City Province,NA,NA,NA,-0.33,-0.12,-0.29
+2020-05-21,BG,Bulgaria,NA,Stara Zagora,NA,NA,NA,-0.27,-0.04,-0.14
+2020-05-21,BG,Bulgaria,NA,Varna,NA,NA,NA,-0.22,-0.01,-0.01
+2020-05-21,BG,Bulgaria,NA,Vidin,NA,NA,NA,-0.3,-0.2,NA
+2020-05-21,BF,Burkina Faso,NA,Centre Region,NA,NA,NA,-0.17,-0.09,-0.27
+2020-05-21,BF,Burkina Faso,NA,Centre-Ouest Region,NA,-0.19,NA,NA,NA,NA
+2020-05-21,KH,Cambodia,NA,Banteay Meanchey Province,NA,NA,NA,-0.18,-0.13,-0.2
+2020-05-21,KH,Cambodia,NA,Kampong Cham Province,NA,NA,NA,-0.11,-0.02,-0.22
+2020-05-21,KH,Cambodia,NA,Kampong Speu Province,NA,NA,NA,-0.02,0.01,0
+2020-05-21,KH,Cambodia,NA,Kampot Province,NA,NA,NA,-0.11,0.01,-0.04
+2020-05-21,KH,Cambodia,NA,Kep Province,NA,NA,NA,NA,NA,-0.72
+2020-05-21,KH,Cambodia,NA,Kratié Province,NA,-0.13,NA,NA,NA,NA
+2020-05-21,KH,Cambodia,NA,Pailin Province,NA,-0.35,NA,NA,NA,NA
+2020-05-21,KH,Cambodia,NA,Preah Vihear Province,NA,NA,NA,NA,NA,-0.27
+2020-05-21,KH,Cambodia,NA,Pursat Province,NA,NA,NA,NA,NA,-0.22
+2020-05-21,KH,Cambodia,NA,Siem Reap Province,NA,NA,NA,-0.43,-0.23,-0.41
+2020-05-21,KH,Cambodia,NA,Steung Treng Province,NA,-0.31,NA,NA,NA,NA
+2020-05-21,KH,Cambodia,NA,Takéo Province,NA,NA,NA,0.04,-0.19,-0.01
+2020-05-21,CM,Cameroon,NA,Adamawa,NA,NA,NA,-0.11,NA,NA
+2020-05-21,CM,Cameroon,NA,East,NA,-0.16,NA,NA,NA,NA
+2020-05-21,CM,Cameroon,NA,Littoral,NA,NA,NA,-0.24,-0.14,-0.25
+2020-05-21,CM,Cameroon,NA,Northwest,NA,NA,NA,NA,0.13,NA
+2020-05-21,CM,Cameroon,NA,Southwest,NA,NA,NA,-0.21,0.14,0.02
+2020-05-21,CA,Canada,NA,Alberta,NA,NA,NA,-0.32,-0.03,-0.43
+2020-05-21,CA,Canada,NA,Manitoba,NA,NA,NA,-0.12,0.14,0.79
+2020-05-21,CA,Canada,NA,Newfoundland and Labrador,NA,NA,NA,-0.18,-0.06,1.2
+2020-05-21,CA,Canada,NA,Nova Scotia,NA,NA,NA,-0.21,-0.02,1.87
+2020-05-21,CA,Canada,NA,Ontario,NA,NA,NA,-0.33,-0.02,0.8
+2020-05-21,CA,Canada,NA,Quebec,NA,NA,NA,-0.32,-0.04,1.13
+2020-05-21,CA,Canada,NA,Yukon,NA,NA,NA,-0.33,NA,NA
+2020-05-21,CV,Cape Verde,NA,Praia,NA,NA,NA,-0.71,-0.42,-0.69
+2020-05-21,CV,Cape Verde,NA,São Salvador do Mundo,NA,NA,NA,NA,NA,-0.72
+2020-05-21,CL,Chile,NA,Antofagasta,NA,NA,NA,-0.73,-0.57,-0.74
+2020-05-21,CL,Chile,NA,Arica y Parinacota,NA,NA,NA,-0.64,-0.38,-0.67
+2020-05-21,CL,Chile,NA,Aysén,NA,NA,NA,-0.74,-0.39,-0.66
+2020-05-21,CL,Chile,NA,Coquimbo,NA,NA,NA,-0.76,-0.53,-0.78
+2020-05-21,CL,Chile,NA,Los Ríos,NA,NA,NA,-0.77,-0.56,-0.75
+2020-05-21,CL,Chile,NA,Maule,NA,NA,NA,-0.7,-0.48,-0.66
+2020-05-21,CL,Chile,NA,Santiago Metropolitan Region,NA,NA,NA,-0.83,-0.55,-0.77
+2020-05-21,CL,Chile,NA,Valparaíso,NA,NA,NA,-0.74,-0.53,-0.75
+2020-05-21,CO,Colombia,NA,Amazonas,NA,NA,NA,NA,NA,-0.66
+2020-05-21,CO,Colombia,NA,Arauca,NA,NA,NA,-0.45,-0.12,-0.35
+2020-05-21,CO,Colombia,NA,Bogota,NA,NA,NA,-0.61,-0.31,-0.45
+2020-05-21,CO,Colombia,NA,Boyaca,NA,NA,NA,-0.59,-0.35,-0.53
+2020-05-21,CO,Colombia,NA,Caqueta,NA,NA,NA,-0.54,-0.28,-0.43
+2020-05-21,CO,Colombia,NA,Cauca,NA,NA,NA,-0.59,-0.38,-0.47
+2020-05-21,CO,Colombia,NA,Choco,NA,NA,NA,-0.51,-0.27,-0.25
+2020-05-21,CO,Colombia,NA,Cundinamarca,NA,NA,NA,-0.54,-0.31,-0.46
+2020-05-21,CO,Colombia,NA,Huila,NA,NA,NA,-0.55,-0.37,-0.47
+2020-05-21,CO,Colombia,NA,Magdalena,NA,NA,NA,-0.64,-0.45,-0.64
+2020-05-21,CO,Colombia,NA,Narino,NA,NA,NA,-0.64,-0.41,-0.5
+2020-05-21,CO,Colombia,NA,Putumayo,NA,NA,NA,-0.49,-0.4,-0.31
+2020-05-21,CO,Colombia,NA,Risaralda,NA,NA,NA,-0.61,-0.3,-0.55
+2020-05-21,CO,Colombia,NA,Santander,NA,NA,NA,-0.59,-0.32,-0.48
+2020-05-21,CO,Colombia,NA,Tolima,NA,NA,NA,-0.6,-0.41,-0.44
+2020-05-21,CO,Colombia,NA,Vichada,NA,NA,NA,NA,NA,-0.16
+2020-05-21,CI,Côte d’Ivoire,NA,Abidjan Autonomous District,NA,NA,NA,-0.26,-0.13,-0.32
+2020-05-21,CI,Côte d’Ivoire,NA,Comoé District,NA,NA,NA,-0.14,-0.07,-0.01
+2020-05-21,CI,Côte d’Ivoire,NA,Lacs District,NA,-0.12,NA,NA,NA,NA
+2020-05-21,CI,Côte d’Ivoire,NA,Montagnes District,NA,-0.18,NA,NA,NA,NA
+2020-05-21,CI,Côte d’Ivoire,NA,Savanes District,NA,NA,NA,NA,0.09,NA
+2020-05-21,CI,Côte d’Ivoire,NA,Yamoussoukro District,NA,NA,NA,-0.35,-0.09,NA
+2020-05-21,HR,Croatia,NA,Bjelovar-Bilogora County,NA,NA,NA,0.07,0.03,0.48
+2020-05-21,HR,Croatia,NA,City of Zagreb,NA,NA,NA,-0.13,-0.07,0.62
+2020-05-21,HR,Croatia,NA,Istria County,NA,NA,NA,0.02,-0.01,0.55
+2020-05-21,HR,Croatia,NA,Koprivnica-Križevci County,NA,NA,NA,-0.04,0,NA
+2020-05-21,HR,Croatia,NA,Lika-Senj County,NA,NA,NA,0.13,0.11,NA
+2020-05-21,HR,Croatia,NA,Osijek-Baranja County,NA,NA,NA,-0.04,0.08,-0.12
+2020-05-21,HR,Croatia,NA,Primorje-Gorski Kotar County,NA,NA,NA,-0.08,0.01,0.34
+2020-05-21,HR,Croatia,NA,Split-Dalmatia County,NA,NA,NA,-0.15,-0.05,0.1
+2020-05-21,HR,Croatia,NA,Virovitica-Podravina County,NA,NA,NA,0.02,0.12,NA
+2020-05-21,HR,Croatia,NA,Zadar County,NA,NA,NA,0.03,0.07,0.5
+2020-05-21,HR,Croatia,NA,Šibenik-Knin County,NA,NA,NA,0.02,0.16,0.58
+2020-05-21,CZ,Czechia,NA,Central Bohemian Region,NA,NA,NA,0.02,0.08,0.37
+2020-05-21,CZ,Czechia,NA,Karlovy Vary Region,NA,NA,NA,-0.18,0.1,-0.24
+2020-05-21,CZ,Czechia,NA,Moravian-Silesian Region,NA,NA,NA,-0.12,0.08,-0.12
+2020-05-21,CZ,Czechia,NA,Pardubice Region,NA,NA,NA,-0.14,0.04,-0.15
+2020-05-21,CZ,Czechia,NA,Prague,NA,NA,NA,-0.34,0,-0.1
+2020-05-21,CZ,Czechia,NA,South Moravian Region,NA,NA,NA,-0.19,0.04,-0.04
+2020-05-21,CZ,Czechia,NA,Zlin Region,NA,NA,NA,-0.09,0.02,0.29
+2020-05-21,DK,Denmark,NA,Capital Region of Denmark,NA,NA,NA,-0.45,-0.34,2.32
+2020-05-21,DK,Denmark,NA,North Denmark Region,NA,NA,NA,-0.28,-0.04,3
+2020-05-21,DK,Denmark,NA,Region of Southern Denmark,NA,NA,NA,-0.3,-0.15,3.61
+2020-05-21,DO,Dominican Republic,NA,Azua Province,NA,NA,NA,-0.39,-0.18,-0.31
+2020-05-21,DO,Dominican Republic,NA,Barahona Province,NA,NA,NA,-0.31,-0.26,-0.5
+2020-05-21,DO,Dominican Republic,NA,Distrito Nacional,NA,NA,NA,-0.56,-0.39,-0.59
+2020-05-21,DO,Dominican Republic,NA,El Seibo Province,NA,-0.48,NA,NA,NA,NA
+2020-05-21,DO,Dominican Republic,NA,Hato Mayor Province,NA,NA,NA,NA,-0.38,-0.46
+2020-05-21,DO,Dominican Republic,NA,Independencia Province,NA,-0.28,NA,NA,NA,NA
+2020-05-21,DO,Dominican Republic,NA,La Romana Province,NA,NA,NA,-0.44,-0.22,-0.49
+2020-05-21,DO,Dominican Republic,NA,María Trinidad Sánchez Province,NA,NA,NA,-0.35,-0.23,-0.48
+2020-05-21,DO,Dominican Republic,NA,Monte Cristi Province,NA,NA,NA,-0.47,-0.16,-0.53
+2020-05-21,DO,Dominican Republic,NA,Peravia Province,NA,NA,NA,-0.42,-0.06,-0.37
+2020-05-21,DO,Dominican Republic,NA,Samaná Province,NA,NA,NA,-0.54,-0.39,-0.56
+2020-05-21,DO,Dominican Republic,NA,San José de Ocoa Province,NA,NA,NA,NA,NA,-0.3
+2020-05-21,DO,Dominican Republic,NA,San Pedro de Macorís Province,NA,NA,NA,-0.36,-0.19,-0.51
+2020-05-21,DO,Dominican Republic,NA,Santiago Rodríguez Province,NA,NA,NA,NA,NA,-0.51
+2020-05-21,DO,Dominican Republic,NA,Sánchez Ramírez Province,NA,NA,NA,-0.36,-0.26,-0.42
+2020-05-21,EC,Ecuador,NA,Azuay,NA,NA,NA,-0.56,-0.45,-0.6
+2020-05-21,EC,Ecuador,NA,Carchi Province,NA,NA,NA,-0.53,-0.42,-0.44
+2020-05-21,EC,Ecuador,NA,Chimborazo Province,NA,NA,NA,-0.59,-0.5,-0.6
+2020-05-21,EC,Ecuador,NA,El Oro,NA,NA,NA,-0.55,-0.34,-0.48
+2020-05-21,EC,Ecuador,NA,Galápagos Islands,NA,NA,NA,NA,NA,-0.62
+2020-05-21,EC,Ecuador,NA,Imbabura Province,NA,NA,NA,-0.56,-0.48,-0.5
+2020-05-21,EC,Ecuador,NA,Los Ríos Province,NA,NA,NA,-0.48,-0.31,-0.36
+2020-05-21,EC,Ecuador,NA,Morona-Santiago Province,NA,NA,NA,-0.55,NA,-0.53
+2020-05-21,EC,Ecuador,NA,Pastaza Province,NA,NA,NA,-0.68,-0.71,-0.59
+2020-05-21,EC,Ecuador,NA,Provincia de Napo,NA,NA,NA,-0.62,-0.55,-0.45
+2020-05-21,EC,Ecuador,NA,Santo Domingo de los Tsáchilas Province,NA,NA,NA,-0.46,-0.43,-0.37
+2020-05-21,EC,Ecuador,NA,Tungurahua,NA,NA,NA,-0.51,-0.44,-0.5
+2020-05-21,EG,Egypt,NA,Al Qalyubia Governorate,NA,NA,NA,-0.34,0.16,-0.4
+2020-05-21,EG,Egypt,NA,Ash Sharqia Governorate,NA,NA,NA,-0.38,0.26,-0.14
+2020-05-21,EG,Egypt,NA,Aswan Governorate,NA,NA,NA,-0.62,-0.14,-0.07
+2020-05-21,EG,Egypt,NA,Cairo Governorate,NA,NA,NA,-0.55,-0.07,-0.65
+2020-05-21,EG,Egypt,NA,Damietta Governorate,NA,NA,NA,-0.44,0.18,-0.53
+2020-05-21,EG,Egypt,NA,Faiyum Governorate,NA,NA,NA,-0.51,0.33,-0.21
+2020-05-21,EG,Egypt,NA,Giza Governorate,NA,NA,NA,-0.52,-0.03,-0.45
+2020-05-21,EG,Egypt,NA,Kafr El Sheikh Governorate,NA,NA,NA,-0.27,0.37,0.03
+2020-05-21,EG,Egypt,NA,Matrouh Governorate,NA,NA,NA,-0.3,0.42,0.69
+2020-05-21,EG,Egypt,NA,Menofia Governorate,NA,NA,NA,-0.46,0.42,-0.05
+2020-05-21,EG,Egypt,NA,North Sinai Governorate,NA,-0.05,NA,NA,NA,NA
+2020-05-21,EG,Egypt,NA,Qena Governorate,NA,NA,NA,-0.47,0.39,NA
+2020-05-21,EG,Egypt,NA,Sohag Governorate,NA,NA,NA,-0.42,0.44,-0.17
+2020-05-21,EG,Egypt,NA,Suez Governorate,NA,NA,NA,-0.48,0.4,-0.19
+2020-05-21,SV,El Salvador,NA,Ahuachapán Department,NA,NA,NA,-0.61,-0.59,-0.55
+2020-05-21,SV,El Salvador,NA,Chalatenango Department,NA,NA,NA,-0.61,NA,-0.51
+2020-05-21,SV,El Salvador,NA,La Libertad Department,NA,NA,NA,-0.79,-0.54,-0.71
+2020-05-21,SV,El Salvador,NA,La Unión Department,NA,NA,NA,-0.58,NA,-0.62
+2020-05-21,SV,El Salvador,NA,San Miguel Department,NA,NA,NA,-0.7,-0.5,-0.57
+2020-05-21,SV,El Salvador,NA,San Vicente Department,NA,NA,NA,-0.65,NA,-0.54
+2020-05-21,SV,El Salvador,NA,Sonsonate Department,NA,NA,NA,-0.69,-0.53,-0.49
+2020-05-21,EE,Estonia,NA,Harju County,NA,NA,NA,-0.16,-0.05,0.61
+2020-05-21,EE,Estonia,NA,Järva County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,EE,Estonia,NA,Lääne County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,EE,Estonia,NA,Pärnu County,NA,NA,NA,-0.03,0.06,-0.08
+2020-05-21,EE,Estonia,NA,Rapla County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,EE,Estonia,NA,Tartu County,NA,NA,NA,-0.18,-0.05,0.11
+2020-05-21,EE,Estonia,NA,Viljandi County,NA,NA,NA,-0.09,0.1,NA
+2020-05-21,FI,Finland,NA,Central Finland,NA,NA,NA,-0.43,-0.11,1.71
+2020-05-21,FI,Finland,NA,Kainuu,NA,NA,NA,-0.5,-0.19,0.36
+2020-05-21,FI,Finland,NA,Lapland,NA,NA,NA,-0.58,-0.26,-0.03
+2020-05-21,FI,Finland,NA,Northern Ostrobothnia,NA,NA,NA,-0.4,-0.1,1.58
+2020-05-21,FI,Finland,NA,Ostrobothnia,NA,NA,NA,-0.46,-0.1,-0.09
+2020-05-21,FI,Finland,NA,Päijänne Tavastia,NA,NA,NA,-0.42,-0.12,0.47
+2020-05-21,FI,Finland,NA,South Karelia,NA,NA,NA,-0.48,-0.13,0.65
+2020-05-21,FI,Finland,NA,Southern Savonia,NA,NA,NA,-0.48,-0.03,0.98
+2020-05-21,FI,Finland,NA,Tavastia Proper,NA,NA,NA,-0.33,-0.07,1.04
+2020-05-21,FR,France,NA,Auvergne-Rhône-Alpes,NA,NA,NA,-0.56,-0.35,0.7
+2020-05-21,FR,France,NA,Brittany,NA,NA,NA,-0.58,-0.49,1.91
+2020-05-21,FR,France,NA,Corsica,NA,NA,NA,-0.54,-0.39,0.3
+2020-05-21,FR,France,NA,Hauts-de-France,NA,NA,NA,-0.49,-0.32,1.24
+2020-05-21,FR,France,NA,Nouvelle-Aquitaine,NA,NA,NA,-0.55,-0.4,0.73
+2020-05-21,FR,France,NA,Pays de la Loire,NA,NA,NA,-0.58,-0.49,1.28
+2020-05-21,FR,France,NA,Île-de-France,NA,NA,NA,-0.56,-0.2,0.01
+2020-05-21,GA,Gabon,NA,Estuaire,NA,NA,NA,-0.38,-0.32,-0.39
+2020-05-21,GA,Gabon,NA,Ogooue-Maritime,NA,NA,NA,-0.33,-0.21,NA
+2020-05-21,DE,Germany,NA,Baden-Württemberg,NA,NA,NA,-0.54,-0.87,2.25
+2020-05-21,DE,Germany,NA,Berlin,NA,NA,NA,-0.63,-0.86,0.86
+2020-05-21,DE,Germany,NA,Bremen,NA,NA,NA,-0.66,-0.87,1.85
+2020-05-21,DE,Germany,NA,Hesse,NA,NA,NA,-0.56,-0.87,1.89
+2020-05-21,DE,Germany,NA,Mecklenburg-Vorpommern,NA,NA,NA,-0.49,-0.85,0.89
+2020-05-21,DE,Germany,NA,Rhineland-Palatinate,NA,NA,NA,-0.47,-0.87,2.55
+2020-05-21,DE,Germany,NA,Saxony,NA,NA,NA,-0.46,-0.86,3.53
+2020-05-21,DE,Germany,NA,Schleswig-Holstein,NA,NA,NA,-0.44,-0.8,4.73
+2020-05-21,GR,Greece,NA,Decentralized Administration of Attica,NA,NA,NA,-0.29,0.05,0.48
+2020-05-21,GR,Greece,NA,Decentralized Administration of Epirus and Western Macedonia,NA,NA,NA,-0.42,0.15,0.06
+2020-05-21,GR,Greece,NA,NA,NA,NA,NA,NA,NA,NA
+2020-05-21,GR,Greece,NA,Decentralized Administration of the Aegean,NA,NA,NA,-0.22,0.24,0.6
+2020-05-21,GT,Guatemala,NA,Alta Verapaz Department,NA,NA,NA,-0.5,-0.15,-0.46
+2020-05-21,GT,Guatemala,NA,Chimaltenango Department,NA,NA,NA,-0.46,-0.29,-0.39
+2020-05-21,GT,Guatemala,NA,El Progreso Department,NA,NA,NA,-0.49,NA,-0.43
+2020-05-21,GT,Guatemala,NA,Guatemala Department,NA,NA,NA,-0.5,-0.2,-0.45
+2020-05-21,GT,Guatemala,NA,Izabal Department,NA,NA,NA,-0.41,-0.3,-0.42
+2020-05-21,GT,Guatemala,NA,Jutiapa Department,NA,NA,NA,-0.41,-0.3,-0.38
+2020-05-21,GT,Guatemala,NA,Quetzaltenango Department,NA,NA,NA,-0.56,-0.43,-0.49
+2020-05-21,GT,Guatemala,NA,Retalhuleu Department,NA,NA,NA,-0.45,-0.26,-0.33
+2020-05-21,GT,Guatemala,NA,San Marcos Department,NA,NA,NA,-0.42,-0.43,-0.36
+2020-05-21,GT,Guatemala,NA,Sololá Department,NA,NA,NA,-0.57,-0.8,-0.36
+2020-05-21,GT,Guatemala,NA,Totonicapán Department,NA,NA,NA,-0.44,-0.4,-0.58
+2020-05-21,HT,Haiti,NA,Artibonite Department,NA,NA,NA,NA,NA,-0.02
+2020-05-21,HT,Haiti,NA,Nord Department,NA,NA,NA,NA,NA,-0.13
+2020-05-21,HT,Haiti,NA,Nord-Ouest Department,NA,-0.16,NA,NA,NA,NA
+2020-05-21,HT,Haiti,NA,Sud Department,NA,-0.2,NA,NA,NA,NA
+2020-05-21,HN,Honduras,NA,Atlántida Department,NA,NA,NA,-0.64,-0.39,-0.44
+2020-05-21,HN,Honduras,NA,Choluteca Department,NA,NA,NA,-0.58,-0.38,-0.32
+2020-05-21,HN,Honduras,NA,Comayagua Department,NA,NA,NA,-0.59,-0.47,-0.31
+2020-05-21,HN,Honduras,NA,Cortés Department,NA,NA,NA,-0.68,-0.39,-0.54
+2020-05-21,HN,Honduras,NA,Francisco Morazán Department,NA,NA,NA,-0.69,-0.48,-0.59
+2020-05-21,HN,Honduras,NA,La Paz Department,NA,NA,NA,NA,NA,-0.6
+2020-05-21,HN,Honduras,NA,Ocotepeque Department,NA,NA,NA,NA,NA,-0.54
+2020-05-21,HN,Honduras,NA,Santa Bárbara Department,NA,NA,NA,-0.57,NA,-0.3
+2020-05-21,HN,Honduras,NA,Yoro Department,NA,NA,NA,-0.57,-0.37,-0.47
+2020-05-21,HU,Hungary,NA,Baranya,NA,NA,NA,-0.13,-0.06,0.61
+2020-05-21,HU,Hungary,NA,Budapest,NA,NA,NA,-0.4,-0.17,0.03
+2020-05-21,HU,Hungary,NA,Békés County,NA,NA,NA,-0.06,0,0.04
+2020-05-21,HU,Hungary,NA,Fejér,NA,NA,NA,-0.05,-0.01,0.57
+2020-05-21,HU,Hungary,NA,Hajdú-Bihar,NA,NA,NA,-0.08,0.03,0.37
+2020-05-21,HU,Hungary,NA,Jász-Nagykun-Szolnok,NA,NA,NA,-0.04,0.04,0.59
+2020-05-21,HU,Hungary,NA,Nógrád County,NA,NA,NA,0.04,0.09,NA
+2020-05-21,HU,Hungary,NA,Somogy County,NA,NA,NA,0.14,0.1,1.07
+2020-05-21,HU,Hungary,NA,Tolna County,NA,NA,NA,-0.02,-0.02,NA
+2020-05-21,HU,Hungary,NA,Veszprém,NA,NA,NA,0.09,0.07,1.16
+2020-05-21,IN,India,NA,andaman and Nicobar Islands,NA,NA,NA,-0.82,NA,-0.74
+2020-05-21,IN,India,NA,Arunachal Pradesh,NA,NA,NA,-0.65,-0.13,-0.22
+2020-05-21,IN,India,NA,Bihar,NA,NA,NA,-0.67,0.1,-0.02
+2020-05-21,IN,India,NA,Chhattisgarh,NA,NA,NA,-0.62,0.13,-0.55
+2020-05-21,IN,India,NA,Daman and Diu,NA,NA,NA,-0.74,-0.33,-0.75
+2020-05-21,IN,India,NA,Goa,NA,NA,NA,-0.67,-0.27,-0.71
+2020-05-21,IN,India,NA,Haryana,NA,NA,NA,-0.65,-0.13,-0.84
+2020-05-21,IN,India,NA,Jammu and Kashmir,NA,NA,NA,0.14,1.42,1.82
+2020-05-21,IN,India,NA,Karnataka,NA,NA,NA,-0.65,-0.1,-0.68
+2020-05-21,IN,India,NA,Lakshadweep,NA,NA,NA,NA,NA,0.44
+2020-05-21,IN,India,NA,Maharashtra,NA,NA,NA,-0.8,-0.35,-0.7
+2020-05-21,IN,India,NA,Meghalaya,NA,NA,NA,-0.77,-0.57,-0.24
+2020-05-21,IN,India,NA,Nagaland,NA,NA,NA,-0.71,-0.42,-0.62
+2020-05-21,IN,India,NA,Puducherry,NA,NA,NA,-0.62,-0.12,-0.74
+2020-05-21,IN,India,NA,Rajasthan,NA,NA,NA,-0.69,-0.04,-0.71
+2020-05-21,IN,India,NA,Tamil Nadu,NA,NA,NA,-0.68,-0.12,-0.39
+2020-05-21,IN,India,NA,Tripura,NA,NA,NA,-0.72,-0.18,-0.11
+2020-05-21,IN,India,NA,Uttarakhand,NA,NA,NA,-0.61,-0.05,-0.5
+2020-05-21,ID,Indonesia,NA,Aceh,NA,NA,NA,0.07,0.47,0
+2020-05-21,ID,Indonesia,NA,Bangka Belitung Islands,NA,NA,NA,-0.02,0.37,-0.19
+2020-05-21,ID,Indonesia,NA,Bengkulu,NA,NA,NA,0.05,0.22,-0.08
+2020-05-21,ID,Indonesia,NA,Central Kalimantan,NA,NA,NA,-0.21,0.04,-0.15
+2020-05-21,ID,Indonesia,NA,East Java,NA,NA,NA,-0.19,0.04,-0.22
+2020-05-21,ID,Indonesia,NA,East Nusa Tenggara,NA,NA,NA,-0.34,-0.11,-0.2
+2020-05-21,ID,Indonesia,NA,Jakarta,NA,NA,NA,-0.46,-0.01,-0.9
+2020-05-21,ID,Indonesia,NA,Lampung,NA,NA,NA,0,0.31,-0.11
+2020-05-21,ID,Indonesia,NA,North Kalimantan,NA,NA,NA,-0.12,0.27,-0.12
+2020-05-21,ID,Indonesia,NA,North Sulawesi,NA,NA,NA,-0.48,-0.23,-0.33
+2020-05-21,ID,Indonesia,NA,Papua,NA,NA,NA,-0.38,-0.16,-0.26
+2020-05-21,ID,Indonesia,NA,Riau Islands,NA,NA,NA,-0.2,0.01,-0.27
+2020-05-21,ID,Indonesia,NA,South Kalimantan,NA,NA,NA,-0.27,-0.02,-0.29
+2020-05-21,ID,Indonesia,NA,South Sumatra,NA,NA,NA,-0.2,0.06,-0.13
+2020-05-21,ID,Indonesia,NA,West Java,NA,NA,NA,-0.3,0.34,0.05
+2020-05-21,ID,Indonesia,NA,West Nusa Tenggara,NA,NA,NA,-0.25,-0.03,-0.37
+2020-05-21,ID,Indonesia,NA,West Sulawesi,NA,NA,NA,-0.14,0.03,-0.48
+2020-05-21,IE,Ireland,NA,County Carlow,NA,NA,NA,-0.53,-0.04,-0.22
+2020-05-21,IE,Ireland,NA,County Clare,NA,NA,NA,-0.57,0.02,-0.39
+2020-05-21,IE,Ireland,NA,County Donegal,NA,NA,NA,-0.58,-0.03,-0.33
+2020-05-21,IE,Ireland,NA,County Galway,NA,NA,NA,-0.62,-0.07,-0.69
+2020-05-21,IE,Ireland,NA,County Kildare,NA,NA,NA,-0.56,-0.02,-0.65
+2020-05-21,IE,Ireland,NA,County Laois,NA,NA,NA,-0.48,-0.02,-0.75
+2020-05-21,IE,Ireland,NA,County Limerick,NA,NA,NA,-0.6,-0.15,-0.78
+2020-05-21,IE,Ireland,NA,County Louth,NA,NA,NA,-0.5,-0.04,-0.73
+2020-05-21,IE,Ireland,NA,County Meath,NA,NA,NA,-0.5,0.01,-0.34
+2020-05-21,IE,Ireland,NA,County Offaly,NA,NA,NA,-0.51,0.04,0.58
+2020-05-21,IE,Ireland,NA,County Sligo,NA,NA,NA,-0.62,-0.09,-0.44
+2020-05-21,IE,Ireland,NA,County Waterford,NA,NA,NA,-0.53,-0.02,-0.43
+2020-05-21,IE,Ireland,NA,County Wexford,NA,NA,NA,-0.5,-0.02,-0.48
+2020-05-21,IL,Israel,NA,Center District,NA,NA,NA,-0.3,0.08,-0.18
+2020-05-21,IL,Israel,NA,Jerusalem District,NA,NA,NA,-0.39,-0.11,-0.53
+2020-05-21,IL,Israel,NA,South District,NA,NA,NA,-0.32,0.06,-0.22
+2020-05-21,IT,Italy,NA,Abruzzo,NA,NA,NA,-0.36,-0.14,-0.03
+2020-05-21,IT,Italy,NA,Apulia,NA,NA,NA,-0.33,-0.12,-0.18
+2020-05-21,IT,Italy,NA,Calabria,NA,NA,NA,-0.41,-0.13,-0.28
+2020-05-21,IT,Italy,NA,Emilia-Romagna,NA,NA,NA,-0.35,-0.16,0.23
+2020-05-21,IT,Italy,NA,Lazio,NA,NA,NA,-0.39,-0.14,-0.2
+2020-05-21,IT,Italy,NA,Lombardy,NA,NA,NA,-0.4,-0.18,0.19
+2020-05-21,IT,Italy,NA,Molise,NA,NA,NA,-0.39,-0.18,-0.21
+2020-05-21,IT,Italy,NA,Sardinia,NA,NA,NA,-0.36,-0.16,0.27
+2020-05-21,IT,Italy,NA,Trentino-South Tyrol,NA,NA,NA,-0.4,-0.2,-0.28
+2020-05-21,IT,Italy,NA,Umbria,NA,NA,NA,-0.37,-0.19,0.02
+2020-05-21,JM,Jamaica,NA,Clarendon,NA,NA,NA,-0.29,-0.21,-0.15
+2020-05-21,JM,Jamaica,NA,Kingston Parish,NA,NA,NA,-0.56,-0.51,-0.89
+2020-05-21,JM,Jamaica,NA,Portland Parish,NA,NA,NA,NA,NA,-0.24
+2020-05-21,JM,Jamaica,NA,St. Ann Parish,NA,NA,NA,-0.47,-0.32,-0.49
+2020-05-21,JM,Jamaica,NA,St. Elizabeth Parish,NA,NA,NA,-0.32,-0.2,NA
+2020-05-21,JM,Jamaica,NA,St. Mary Parish,NA,NA,NA,NA,NA,-0.43
+2020-05-21,JM,Jamaica,NA,Trelawny Parish,NA,NA,NA,-0.44,NA,-0.64
+2020-05-21,JP,Japan,NA,Aichi,NA,NA,NA,-0.19,0,0.12
+2020-05-21,JP,Japan,NA,Aomori,NA,NA,NA,-0.1,0.02,0.07
+2020-05-21,JP,Japan,NA,Ehime,NA,NA,NA,-0.17,0,0.12
+2020-05-21,JP,Japan,NA,Fukuoka,NA,NA,NA,-0.2,0,0.15
+2020-05-21,JP,Japan,NA,Gifu,NA,NA,NA,-0.17,0,0.01
+2020-05-21,JP,Japan,NA,Hiroshima,NA,NA,NA,-0.18,0,0.12
+2020-05-21,JP,Japan,NA,Hyogo,NA,NA,NA,-0.24,0.04,0.12
+2020-05-21,JP,Japan,NA,Ishikawa,NA,NA,NA,-0.2,0.01,-0.08
+2020-05-21,JP,Japan,NA,Kagawa,NA,NA,NA,-0.16,-0.01,-0.04
+2020-05-21,JP,Japan,NA,Kanagawa,NA,NA,NA,-0.38,-0.03,-0.19
+2020-05-21,JP,Japan,NA,Kumamoto,NA,NA,NA,-0.14,0.01,0.07
+2020-05-21,JP,Japan,NA,Mie,NA,NA,NA,-0.15,-0.01,-0.06
+2020-05-21,JP,Japan,NA,Miyazaki,NA,NA,NA,-0.15,0.01,-0.04
+2020-05-21,JP,Japan,NA,Nagasaki,NA,NA,NA,-0.14,0.01,-0.06
+2020-05-21,JP,Japan,NA,Niigata,NA,NA,NA,-0.12,0.02,0
+2020-05-21,JP,Japan,NA,Okayama,NA,NA,NA,-0.17,-0.01,0.05
+2020-05-21,JP,Japan,NA,Osaka,NA,NA,NA,-0.3,0,0.1
+2020-05-21,JP,Japan,NA,Saitama,NA,NA,NA,-0.28,-0.02,-0.22
+2020-05-21,JP,Japan,NA,Shimane,NA,NA,NA,-0.17,-0.02,-0.05
+2020-05-21,JP,Japan,NA,Tochigi,NA,NA,NA,-0.19,-0.02,-0.06
+2020-05-21,JP,Japan,NA,Tokyo,NA,NA,NA,-0.54,-0.09,-0.32
+2020-05-21,JP,Japan,NA,Toyama,NA,NA,NA,-0.18,-0.01,0.1
+2020-05-21,JP,Japan,NA,Yamagata,NA,NA,NA,-0.14,0,0.11
+2020-05-21,JP,Japan,NA,Yamanashi,NA,NA,NA,-0.21,-0.02,-0.29
+2020-05-21,JO,Jordan,NA,Ajloun Governorate,NA,NA,NA,-0.25,NA,NA
+2020-05-21,JO,Jordan,NA,Aqaba Governorate,NA,NA,NA,-0.26,0.17,-0.49
+2020-05-21,JO,Jordan,NA,Irbid Governorate,NA,NA,NA,0.04,0.28,0.06
+2020-05-21,JO,Jordan,NA,Karak Governorate,NA,NA,NA,0.22,0.39,NA
+2020-05-21,JO,Jordan,NA,Madaba Governorate,NA,NA,NA,0.19,0.51,NA
+2020-05-21,JO,Jordan,NA,Tafilah Governorate,NA,-0.27,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Baringo County,NA,-0.11,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Bungoma County,NA,NA,NA,NA,NA,0.02
+2020-05-21,KE,Kenya,NA,Embu County,NA,NA,NA,-0.35,NA,NA
+2020-05-21,KE,Kenya,NA,Homa Bay County,0.02,-0.06,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Kakamega County,NA,NA,NA,-0.29,-0.19,-0.53
+2020-05-21,KE,Kenya,NA,Kiambu County,NA,NA,NA,-0.21,-0.28,-0.12
+2020-05-21,KE,Kenya,NA,Kirinyaga County,NA,NA,NA,NA,NA,0.09
+2020-05-21,KE,Kenya,NA,Kisumu County,NA,NA,NA,-0.37,-0.21,-0.47
+2020-05-21,KE,Kenya,NA,Kwale County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Machakos County,NA,NA,NA,-0.28,-0.05,-0.21
+2020-05-21,KE,Kenya,NA,Meru County,NA,NA,NA,-0.08,-0.14,NA
+2020-05-21,KE,Kenya,NA,Mombasa County,NA,NA,NA,-0.38,-0.33,-0.36
+2020-05-21,KE,Kenya,NA,Nairobi County,NA,NA,NA,-0.43,-0.33,-0.37
+2020-05-21,KE,Kenya,NA,Nandi County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Nyandarua County,NA,-0.09,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Siaya,-0.09,-0.1,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Tharaka-Nithi County,-0.32,-0.44,NA,NA,NA,NA
+2020-05-21,KE,Kenya,NA,Turkana County,NA,NA,NA,NA,NA,-0.01
+2020-05-21,KE,Kenya,NA,Vihiga County,-0.22,-0.29,NA,NA,NA,NA
+2020-05-21,KW,Kuwait,NA,Al Ahmadi Governorate,NA,NA,NA,-0.82,-0.72,-0.63
+2020-05-21,KW,Kuwait,NA,Al Farwaniyah Governorate,NA,NA,NA,-0.86,-0.73,-0.82
+2020-05-21,KW,Kuwait,NA,Hawalli Governorate,NA,NA,NA,-0.88,-0.71,-0.82
+2020-05-21,KG,Kyrgyzstan,NA,Batken Province,NA,NA,NA,-0.13,NA,NA
+2020-05-21,KG,Kyrgyzstan,NA,Issyk-Kul Region,NA,NA,NA,-0.17,0.08,0.18
+2020-05-21,KG,Kyrgyzstan,NA,Naryn Region,NA,NA,NA,-0.35,NA,0.04
+2020-05-21,KG,Kyrgyzstan,NA,Talas Region,NA,NA,NA,0.13,-0.26,0.13
+2020-05-21,LV,Latvia,NA,Aizkraukle Municipality,NA,-0.67,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Alūksne Municipality,NA,-0.25,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Baldone Municipality,NA,-0.82,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Bauska Municipality,NA,-0.25,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Carnikava Municipality,NA,-0.33,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Cēsis Municipality,NA,-0.25,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Daugavpils Municipality,NA,-0.16,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Engure Municipality,NA,-0.26,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Grobiņa Municipality,NA,-0.79,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Iecava Municipality,NA,-0.73,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Inčukalns Municipality,NA,-0.79,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Jelgava Municipality,NA,-0.28,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Jēkabpils Municipality,NA,NA,NA,-1,NA,NA
+2020-05-21,LV,Latvia,NA,Kocēni Municipality,NA,-0.3,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Kuldīga Municipality,NA,-0.3,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Limbaži Municipality,NA,-0.2,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Mārupe Municipality,NA,NA,NA,-0.12,-0.18,NA
+2020-05-21,LV,Latvia,NA,Olaine Municipality,NA,-0.26,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Priekuļi Municipality,NA,-0.78,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Ropaži Municipality,NA,-0.34,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Rēzekne Municipality,NA,-0.29,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Saldus Municipality,NA,-0.26,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Sigulda Municipality,NA,NA,NA,-0.22,NA,-0.18
+2020-05-21,LV,Latvia,NA,Stopiņi Municipality,NA,-0.41,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Tukums Municipality,NA,NA,NA,-0.02,NA,NA
+2020-05-21,LV,Latvia,NA,Ventspils,NA,NA,NA,-0.14,-0.02,NA
+2020-05-21,LV,Latvia,NA,Ādaži Municipality,NA,-0.34,NA,NA,NA,NA
+2020-05-21,LV,Latvia,NA,Ķekava Municipality,NA,NA,NA,-1,NA,NA
+2020-05-21,LB,Lebanon,NA,Akkar Governorate,NA,NA,NA,-0.16,-0.12,NA
+2020-05-21,LB,Lebanon,NA,Beirut Governorate,NA,NA,NA,-0.52,-0.19,-0.49
+2020-05-21,LB,Lebanon,NA,Mount Lebanon Governorate,NA,NA,NA,-0.28,-0.1,0.18
+2020-05-21,LB,Lebanon,NA,North Governorate,NA,NA,NA,-0.03,0.22,0.36
+2020-05-21,LY,Libya,NA,Al Wahat District,NA,0.08,NA,NA,NA,NA
+2020-05-21,LY,Libya,NA,Butnan District,NA,0.03,NA,NA,NA,NA
+2020-05-21,LY,Libya,NA,Jabal al Gharbi District,NA,-0.01,NA,NA,NA,NA
+2020-05-21,LY,Libya,NA,Murqub District,NA,-0.15,NA,NA,NA,NA
+2020-05-21,LY,Libya,NA,Tripoli District,NA,NA,NA,-0.3,0.06,-0.06
+2020-05-21,LT,Lithuania,NA,Alytus County,NA,NA,NA,-0.29,0.27,0.58
+2020-05-21,LT,Lithuania,NA,Klaipėda County,NA,NA,NA,-0.22,0.17,0.56
+2020-05-21,LT,Lithuania,NA,Panevėžys County,NA,NA,NA,-0.25,0.1,0.21
+2020-05-21,LT,Lithuania,NA,Telšiai County,NA,NA,NA,-0.23,0.23,0.31
+2020-05-21,LT,Lithuania,NA,Vilnius County,NA,NA,NA,-0.35,-0.03,0.2
+2020-05-21,MY,Malaysia,NA,Federal Territory of Kuala Lumpur,NA,NA,NA,-0.54,-0.08,-0.62
+2020-05-21,MY,Malaysia,NA,Kedah,NA,NA,NA,-0.42,0.1,-0.21
+2020-05-21,MY,Malaysia,NA,Labuan Federal Territory,NA,NA,NA,-0.56,-0.02,-0.35
+2020-05-21,MY,Malaysia,NA,Negeri Sembilan,NA,NA,NA,-0.48,-0.03,-0.44
+2020-05-21,MY,Malaysia,NA,Penang,NA,NA,NA,-0.49,-0.03,-0.76
+2020-05-21,MY,Malaysia,NA,Perlis,NA,NA,NA,-0.42,0.05,-0.41
+2020-05-21,MY,Malaysia,NA,Sabah,NA,NA,NA,-0.43,-0.02,-0.33
+2020-05-21,MY,Malaysia,NA,Selangor,NA,NA,NA,-0.48,0.04,-0.37
+2020-05-21,MU,Mauritius,NA,Flacq District,NA,NA,NA,-0.5,-0.27,-0.54
+2020-05-21,MU,Mauritius,NA,Moka District,NA,NA,NA,-0.68,NA,NA
+2020-05-21,MU,Mauritius,NA,Plaines Wilhems District,NA,NA,NA,-0.56,-0.47,-0.65
+2020-05-21,MU,Mauritius,NA,Rivière Noire District,NA,NA,NA,-0.53,-0.33,-0.75
+2020-05-21,MU,Mauritius,NA,Rodrigues District,NA,NA,NA,NA,NA,-0.1
+2020-05-21,MX,Mexico,NA,Aguascalientes,NA,NA,NA,-0.48,-0.13,-0.3
+2020-05-21,MX,Mexico,NA,Baja California Sur,NA,NA,NA,-0.64,-0.31,-0.6
+2020-05-21,MX,Mexico,NA,Chiapas,NA,NA,NA,-0.53,-0.23,-0.45
+2020-05-21,MX,Mexico,NA,Coahuila,NA,NA,NA,-0.46,-0.14,-0.38
+2020-05-21,MX,Mexico,NA,Durango,NA,NA,NA,-0.44,-0.19,-0.42
+2020-05-21,MX,Mexico,NA,Guerrero,NA,NA,NA,-0.59,-0.28,-0.5
+2020-05-21,MX,Mexico,NA,Jalisco,NA,NA,NA,-0.44,-0.12,-0.34
+2020-05-21,MX,Mexico,NA,Michoacán,NA,NA,NA,-0.43,-0.13,-0.22
+2020-05-21,MX,Mexico,NA,Nayarit,NA,NA,NA,-0.55,-0.22,-0.54
+2020-05-21,MX,Mexico,NA,Oaxaca,NA,NA,NA,-0.55,-0.37,-0.53
+2020-05-21,MX,Mexico,NA,Querétaro,NA,NA,NA,-0.57,-0.19,-0.46
+2020-05-21,MX,Mexico,NA,San Luis Potosi,NA,NA,NA,-0.46,-0.16,-0.44
+2020-05-21,MX,Mexico,NA,Sonora,NA,NA,NA,-0.52,-0.18,-0.37
+2020-05-21,MX,Mexico,NA,Tabasco,NA,NA,NA,-0.64,-0.34,-0.54
+2020-05-21,MX,Mexico,NA,Tlaxcala,NA,NA,NA,-0.42,-0.15,-0.34
+2020-05-21,MX,Mexico,NA,Yucatan,NA,NA,NA,-0.67,-0.37,-0.62
+2020-05-21,MN,Mongolia,NA,Ulaanbaatar,NA,NA,NA,0.07,0.32,0.27
+2020-05-21,MZ,Mozambique,NA,Cabo Delgado Province,NA,NA,NA,NA,NA,-0.59
+2020-05-21,MZ,Mozambique,NA,Inhambane Province,NA,NA,NA,NA,NA,-0.13
+2020-05-21,MZ,Mozambique,NA,Maputo,NA,NA,NA,-0.24,-0.1,-0.46
+2020-05-21,MZ,Mozambique,NA,Nampula Province,NA,NA,NA,-0.18,0.02,NA
+2020-05-21,MZ,Mozambique,NA,Sofala Province,NA,NA,NA,-0.17,0.02,-0.1
+2020-05-21,MZ,Mozambique,NA,Zambezia Province,NA,0.07,NA,NA,NA,NA
+2020-05-21,"NA",Namibia,NA,Erongo Region,NA,NA,NA,-0.25,-0.06,-0.09
+2020-05-21,"NA",Namibia,NA,Karas Region,NA,-0.65,NA,NA,NA,NA
+2020-05-21,"NA",Namibia,NA,Khomas Region,NA,NA,NA,-0.43,-0.28,-0.57
+2020-05-21,"NA",Namibia,NA,Omusati Region,NA,-0.6,NA,NA,NA,NA
+2020-05-21,"NA",Namibia,NA,Oshikoto Region,NA,-0.57,NA,NA,NA,NA
+2020-05-21,"NA",Namibia,NA,Zambezi Region,NA,-0.59,NA,NA,NA,NA
+2020-05-21,NL,Netherlands,NA,Drenthe,NA,NA,NA,-0.3,-0.12,3.23
+2020-05-21,NL,Netherlands,NA,Friesland,NA,NA,NA,-0.2,-0.07,1.42
+2020-05-21,NL,Netherlands,NA,Groningen,NA,NA,NA,-0.41,-0.18,2.59
+2020-05-21,NL,Netherlands,NA,North Brabant,NA,NA,NA,-0.36,-0.09,2.29
+2020-05-21,NL,Netherlands,NA,Overijssel,NA,NA,NA,-0.37,-0.21,3.93
+2020-05-21,NL,Netherlands,NA,Utrecht,NA,NA,NA,-0.4,-0.2,2.12
+2020-05-21,NZ,New Zealand,NA,Auckland,NA,NA,NA,-0.25,-0.09,-0.28
+2020-05-21,NZ,New Zealand,NA,Canterbury,NA,NA,NA,-0.27,-0.1,-0.42
+2020-05-21,NZ,New Zealand,NA,Hawke's Bay,NA,NA,NA,-0.26,-0.14,-0.38
+2020-05-21,NZ,New Zealand,NA,Marlborough,NA,NA,NA,-0.33,-0.13,-0.44
+2020-05-21,NZ,New Zealand,NA,Northland,NA,NA,NA,-0.34,-0.17,-0.59
+2020-05-21,NZ,New Zealand,NA,Southland,NA,NA,NA,-0.25,-0.17,-0.55
+2020-05-21,NZ,New Zealand,NA,Tasman,NA,NA,NA,-0.41,-0.29,-0.64
+2020-05-21,NZ,New Zealand,NA,Wellington,NA,NA,NA,-0.32,-0.13,-0.36
+2020-05-21,NI,Nicaragua,NA,Boaco,NA,-0.19,NA,NA,NA,NA
+2020-05-21,NI,Nicaragua,NA,Chinandega,NA,NA,NA,-0.4,-0.28,-0.38
+2020-05-21,NI,Nicaragua,NA,Esteli,NA,NA,NA,-0.37,-0.27,-0.19
+2020-05-21,NI,Nicaragua,NA,Jinotega,NA,NA,NA,NA,NA,-0.21
+2020-05-21,NI,Nicaragua,NA,Madriz,NA,-0.01,NA,NA,NA,NA
+2020-05-21,NI,Nicaragua,NA,Masaya,NA,NA,NA,-0.43,-0.36,-0.43
+2020-05-21,NI,Nicaragua,NA,North Caribbean Coast Autonomous Region,NA,-0.02,NA,NA,NA,NA
+2020-05-21,NI,Nicaragua,NA,Rivas,NA,NA,NA,-0.35,-0.29,-0.43
+2020-05-21,NE,Niger,NA,Agadez Region,NA,0.12,NA,NA,NA,NA
+2020-05-21,NE,Niger,NA,Niamey Urban Community,NA,NA,NA,-0.05,0.15,-0.06
+2020-05-21,NE,Niger,NA,Zinder Region,NA,-0.05,NA,NA,NA,NA
+2020-05-21,NG,Nigeria,NA,Abia,NA,NA,NA,-0.43,-0.4,-0.04
+2020-05-21,NG,Nigeria,NA,Akwa Ibom,NA,NA,NA,-0.41,-0.32,-0.43
+2020-05-21,NG,Nigeria,NA,Bauchi,NA,NA,NA,-0.27,0.07,-0.13
+2020-05-21,NG,Nigeria,NA,Benue,NA,NA,NA,-0.24,-0.14,-0.46
+2020-05-21,NG,Nigeria,NA,Cross River,NA,NA,NA,-0.16,-0.22,-0.01
+2020-05-21,NG,Nigeria,NA,Ebonyi,NA,-0.22,NA,NA,NA,NA
+2020-05-21,NG,Nigeria,NA,Ekiti,NA,NA,NA,-0.66,-0.51,NA
+2020-05-21,NG,Nigeria,NA,Federal Capital Territory,NA,NA,NA,-0.42,-0.39,-0.41
+2020-05-21,NG,Nigeria,NA,Imo,NA,NA,NA,-0.24,-0.23,-0.5
+2020-05-21,NG,Nigeria,NA,Kaduna,NA,NA,NA,-0.26,-0.04,-0.31
+2020-05-21,NG,Nigeria,NA,Katsina,NA,NA,NA,-0.17,-0.18,-0.2
+2020-05-21,NG,Nigeria,NA,Kogi,NA,-0.09,NA,NA,NA,NA
+2020-05-21,NG,Nigeria,NA,Lagos,NA,NA,NA,-0.43,-0.27,-0.66
+2020-05-21,NG,Nigeria,NA,Niger,NA,NA,NA,-0.37,-0.26,-0.38
+2020-05-21,NG,Nigeria,NA,Ondo,NA,NA,NA,-0.25,-0.29,-0.14
+2020-05-21,NG,Nigeria,NA,Oyo,NA,NA,NA,-0.29,-0.21,-0.27
+2020-05-21,NG,Nigeria,NA,Rivers,NA,NA,NA,-0.33,-0.19,-0.19
+2020-05-21,NG,Nigeria,NA,Taraba,NA,-0.24,NA,NA,NA,NA
+2020-05-21,NG,Nigeria,NA,Zamfara,NA,NA,NA,NA,NA,-0.23
+2020-05-21,NO,Norway,NA,Agder,NA,NA,NA,-0.53,-0.62,2.52
+2020-05-21,NO,Norway,NA,Møre og Romsdal,NA,NA,NA,-0.64,-0.69,1.15
+2020-05-21,NO,Norway,NA,Oslo,NA,NA,NA,-0.57,-0.66,1.4
+2020-05-21,NO,Norway,NA,Troms og Finnmark,NA,NA,NA,-0.73,-0.77,1.03
+2020-05-21,NO,Norway,NA,Vestfold og Telemark,NA,NA,NA,-0.52,-0.65,2.97
+2020-05-21,NO,Norway,NA,Viken,NA,NA,NA,-0.61,-0.71,3.79
+2020-05-21,OM,Oman,NA,Ad Dakhiliyah ​Governorate,NA,NA,NA,-0.3,-0.21,-0.34
+2020-05-21,OM,Oman,NA,Al Batinah North Governorate,NA,NA,NA,-0.37,-0.2,-0.33
+2020-05-21,OM,Oman,NA,Al Buraymi Governorate,NA,NA,NA,-0.5,-0.25,-0.56
+2020-05-21,OM,Oman,NA,Ash Sharqiyah North Governorate,NA,NA,NA,-0.26,-0.19,-0.26
+2020-05-21,OM,Oman,NA,Dhofar Governorate,NA,NA,NA,-0.3,-0.16,-0.32
+2020-05-21,OM,Oman,NA,Muscat Governorate,NA,NA,NA,-0.58,-0.37,-0.63
+2020-05-21,PK,Pakistan,NA,Azad Jammu and Kashmir,NA,NA,NA,-0.14,0.14,0.42
+2020-05-21,PK,Pakistan,NA,Federally Administered Tribal Area,NA,NA,NA,NA,NA,0.07
+2020-05-21,PK,Pakistan,NA,Islamabad Capital Territory,NA,NA,NA,-0.42,-0.27,-0.39
+2020-05-21,PK,Pakistan,NA,Punjab,NA,NA,NA,-0.22,-0.06,-0.1
+2020-05-21,PY,Paraguay,NA,Alto Paraná Department,NA,NA,NA,-0.39,-0.24,-0.48
+2020-05-21,PY,Paraguay,NA,Asunción,NA,NA,NA,-0.52,-0.32,-0.55
+2020-05-21,PY,Paraguay,NA,Caaguazú Department,NA,NA,NA,-0.3,-0.33,-0.31
+2020-05-21,PY,Paraguay,NA,Canindeyú Department,NA,NA,NA,-0.39,-0.2,-0.35
+2020-05-21,PY,Paraguay,NA,Concepción Department,NA,NA,NA,-0.26,-0.19,-0.37
+2020-05-21,PY,Paraguay,NA,Guairá Department,NA,NA,NA,-0.36,-0.31,-0.55
+2020-05-21,PY,Paraguay,NA,Misiones Department,NA,NA,NA,-0.41,-0.34,-0.52
+2020-05-21,PY,Paraguay,NA,Presidente Hayes Department,NA,NA,NA,-0.42,-0.23,-0.62
+2020-05-21,PY,Paraguay,NA,Ñeembucú Department,NA,NA,NA,-0.36,-0.25,-0.4
+2020-05-21,PE,Peru,NA,Amazonas,NA,NA,NA,-0.84,NA,-0.47
+2020-05-21,PE,Peru,NA,Apurimac,NA,NA,NA,-0.83,-0.59,-0.51
+2020-05-21,PE,Peru,NA,Ayacucho,NA,NA,NA,-0.8,-0.49,-0.57
+2020-05-21,PE,Peru,NA,Callao Region,NA,NA,NA,-0.74,-0.44,-0.56
+2020-05-21,PE,Peru,NA,Huancavelica,NA,NA,NA,NA,NA,-0.34
+2020-05-21,PE,Peru,NA,Ica,NA,NA,NA,-0.79,-0.5,-0.63
+2020-05-21,PE,Peru,NA,La Libertad,NA,NA,NA,-0.81,-0.47,-0.58
+2020-05-21,PE,Peru,NA,Lima Region,NA,NA,NA,-0.75,-0.48,-0.57
+2020-05-21,PE,Peru,NA,Madre de Dios,NA,NA,NA,-0.79,-0.43,-0.55
+2020-05-21,PE,Peru,NA,Moquegua,NA,NA,NA,-0.73,-0.61,-0.65
+2020-05-21,PE,Peru,NA,Piura,NA,NA,NA,-0.83,-0.61,-0.59
+2020-05-21,PE,Peru,NA,San Martin,NA,NA,NA,-0.84,-0.41,-0.46
+2020-05-21,PE,Peru,NA,Tumbes,NA,NA,NA,-0.75,-0.43,-0.58
+2020-05-21,PH,Philippines,NA,Autonomous Region in Muslim Mindanao,NA,NA,NA,-0.34,-0.16,-0.13
+2020-05-21,PH,Philippines,NA,Cagayan Valley,NA,NA,NA,-0.61,-0.27,0.25
+2020-05-21,PH,Philippines,NA,Caraga,NA,NA,NA,-0.48,-0.27,-0.23
+2020-05-21,PH,Philippines,NA,Central Visayas,NA,NA,NA,-0.71,-0.4,-0.49
+2020-05-21,PH,Philippines,NA,Davao Region,NA,NA,NA,-0.58,-0.3,-0.37
+2020-05-21,PH,Philippines,NA,Ilocos Region,NA,NA,NA,-0.66,-0.4,-0.39
+2020-05-21,PH,Philippines,NA,Metro Manila,NA,NA,NA,-0.79,-0.38,-0.88
+2020-05-21,PH,Philippines,NA,SOCCSKSARGEN,NA,NA,NA,-0.4,-0.28,-0.23
+2020-05-21,PH,Philippines,NA,Zamboanga Peninsula,NA,NA,NA,-0.45,-0.28,-0.23
+2020-05-21,PL,Poland,NA,Greater Poland Voivodeship,NA,NA,NA,-0.13,-0.03,0.77
+2020-05-21,PL,Poland,NA,Lesser Poland Voivodeship,NA,NA,NA,-0.26,-0.12,-0.12
+2020-05-21,PL,Poland,NA,Lublin Voivodeship,NA,NA,NA,-0.16,-0.06,0.09
+2020-05-21,PL,Poland,NA,Masovian Voivodeship,NA,NA,NA,-0.22,-0.07,0.3
+2020-05-21,PL,Poland,NA,Podkarpackie Voivodeship,NA,NA,NA,-0.14,-0.01,0.44
+2020-05-21,PL,Poland,NA,Pomeranian Voivodeship,NA,NA,NA,-0.13,-0.05,0.8
+2020-05-21,PL,Poland,NA,Swietokrzyskie,NA,NA,NA,-0.15,0.01,0.28
+2020-05-21,PL,Poland,NA,West Pomeranian Voivodeship,NA,NA,NA,-0.07,-0.03,0.82
+2020-05-21,PT,Portugal,NA,Aveiro District,NA,NA,NA,-0.35,-0.1,0.58
+2020-05-21,PT,Portugal,NA,Beja District,NA,NA,NA,-0.38,-0.17,0.07
+2020-05-21,PT,Portugal,NA,Bragança District,NA,NA,NA,-0.45,-0.15,0.18
+2020-05-21,PT,Portugal,NA,Coimbra District,NA,NA,NA,-0.41,-0.17,-0.35
+2020-05-21,PT,Portugal,NA,Guarda District,NA,NA,NA,-0.36,-0.1,-0.01
+2020-05-21,PT,Portugal,NA,Lisbon,NA,NA,NA,-0.48,-0.22,-0.01
+2020-05-21,PT,Portugal,NA,Portalegre District,NA,NA,NA,-0.37,-0.08,0.03
+2020-05-21,PT,Portugal,NA,Santarém District,NA,NA,NA,-0.35,-0.11,0.16
+2020-05-21,PT,Portugal,NA,Viana do Castelo District,NA,NA,NA,-0.37,-0.1,0.4
+2020-05-21,PT,Portugal,NA,Viseu District,NA,NA,NA,-0.38,-0.15,0.1
+2020-05-21,PR,Puerto Rico,NA,Adjuntas,NA,-0.3,NA,NA,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Aguadilla,NA,NA,NA,-0.47,-0.24,-0.47
+2020-05-21,PR,Puerto Rico,NA,Aibonito,NA,NA,NA,NA,-0.18,NA
+2020-05-21,PR,Puerto Rico,NA,Arroyo,NA,NA,NA,NA,-0.26,-0.67
+2020-05-21,PR,Puerto Rico,NA,Barceloneta,NA,NA,NA,-0.47,-0.15,NA
+2020-05-21,PR,Puerto Rico,NA,Bayamón,NA,NA,NA,-0.44,-0.14,-0.49
+2020-05-21,PR,Puerto Rico,NA,Caguas,NA,NA,NA,-0.43,-0.2,-0.25
+2020-05-21,PR,Puerto Rico,NA,Canóvanas,NA,NA,NA,-0.37,-0.05,NA
+2020-05-21,PR,Puerto Rico,NA,Cataño,NA,NA,NA,-0.79,-0.33,-0.79
+2020-05-21,PR,Puerto Rico,NA,Ceiba,NA,-0.35,NA,NA,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Cidra,NA,NA,NA,-0.29,-0.2,-0.59
+2020-05-21,PR,Puerto Rico,NA,Comerío,NA,-0.25,NA,NA,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Dorado,NA,NA,NA,-0.36,NA,-0.42
+2020-05-21,PR,Puerto Rico,NA,Florida,NA,-0.37,NA,NA,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Guayanilla,NA,NA,NA,NA,NA,-0.68
+2020-05-21,PR,Puerto Rico,NA,Gurabo,NA,NA,NA,-0.33,-0.34,-0.62
+2020-05-21,PR,Puerto Rico,NA,Hatillo,NA,NA,NA,-0.41,-0.29,NA
+2020-05-21,PR,Puerto Rico,NA,Humacao,NA,NA,NA,-0.37,-0.25,-0.44
+2020-05-21,PR,Puerto Rico,NA,Jayuya,NA,-0.45,NA,NA,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Juncos,NA,NA,NA,-0.32,-0.21,NA
+2020-05-21,PR,Puerto Rico,NA,Lares,NA,NA,NA,-0.34,-0.28,-0.59
+2020-05-21,PR,Puerto Rico,NA,Loíza,NA,NA,NA,-0.21,NA,-0.54
+2020-05-21,PR,Puerto Rico,NA,Manatí,NA,NA,NA,-0.41,-0.2,NA
+2020-05-21,PR,Puerto Rico,NA,Moca,NA,NA,NA,-0.28,-0.17,NA
+2020-05-21,PR,Puerto Rico,NA,Naguabo,NA,NA,NA,NA,NA,-0.07
+2020-05-21,PR,Puerto Rico,NA,Orocovis,NA,NA,NA,NA,NA,-0.65
+2020-05-21,PR,Puerto Rico,NA,Peñuelas,NA,NA,NA,NA,-0.34,-0.81
+2020-05-21,PR,Puerto Rico,NA,Quebradillas,NA,NA,NA,-0.58,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Río Grande,NA,NA,NA,-0.21,-0.28,-0.62
+2020-05-21,PR,Puerto Rico,NA,Salinas,NA,NA,NA,-0.34,-0.24,-0.67
+2020-05-21,PR,Puerto Rico,NA,San Juan,NA,NA,NA,-0.53,-0.29,-0.46
+2020-05-21,PR,Puerto Rico,NA,San Sebastián,NA,NA,NA,-0.25,-0.24,-0.45
+2020-05-21,PR,Puerto Rico,NA,Toa Alta,NA,NA,NA,-0.25,-0.09,NA
+2020-05-21,PR,Puerto Rico,NA,Trujillo Alto,NA,NA,NA,-0.26,-0.15,NA
+2020-05-21,PR,Puerto Rico,NA,Vega Alta,NA,NA,NA,-0.41,-0.14,-0.69
+2020-05-21,PR,Puerto Rico,NA,Villalba,NA,-0.34,NA,NA,NA,NA
+2020-05-21,PR,Puerto Rico,NA,Yauco,NA,NA,NA,-0.45,-0.12,-0.57
+2020-05-21,RE,Réunion,NA,Saint-Denis,-0.74,NA,NA,NA,NA,NA
+2020-05-21,RE,Réunion,NA,Saint-Pierre,NA,NA,NA,NA,NA,-0.79
+2020-05-21,RO,Romania,NA,Alba County,NA,NA,NA,-0.21,0.08,-0.03
+2020-05-21,RO,Romania,NA,Argeș County,NA,NA,NA,-0.21,0.01,-0.22
+2020-05-21,RO,Romania,NA,Bihor County,NA,NA,NA,-0.21,0.05,-0.37
+2020-05-21,RO,Romania,NA,Botoșani County,NA,NA,NA,-0.24,-0.02,0.26
+2020-05-21,RO,Romania,NA,Brăila County,NA,NA,NA,-0.17,-0.01,-0.68
+2020-05-21,RO,Romania,NA,Buzău County,NA,NA,NA,-0.13,-0.08,-0.11
+2020-05-21,RO,Romania,NA,Cluj County,NA,NA,NA,-0.42,-0.15,-0.67
+2020-05-21,RO,Romania,NA,Covasna County,NA,NA,NA,-0.26,-0.07,-0.48
+2020-05-21,RO,Romania,NA,Dolj County,NA,NA,NA,-0.32,-0.13,-0.52
+2020-05-21,RO,Romania,NA,Galați,NA,NA,NA,-0.27,0,-0.52
+2020-05-21,RO,Romania,NA,Gorj County,NA,NA,NA,-0.29,-0.02,-0.54
+2020-05-21,RO,Romania,NA,Hunedoara County,NA,NA,NA,-0.25,0.04,-0.48
+2020-05-21,RO,Romania,NA,Iași County,NA,NA,NA,-0.36,-0.11,-0.35
+2020-05-21,RO,Romania,NA,Maramureș County,NA,NA,NA,-0.28,-0.03,-0.29
+2020-05-21,RO,Romania,NA,Mureș County,NA,NA,NA,-0.23,-0.03,-0.54
+2020-05-21,RO,Romania,NA,Olt County,NA,NA,NA,-0.15,0.06,-0.56
+2020-05-21,RO,Romania,NA,Satu Mare County,NA,NA,NA,-0.24,0.02,-0.21
+2020-05-21,RO,Romania,NA,Suceava County,NA,NA,NA,-0.27,-0.08,0.05
+2020-05-21,RO,Romania,NA,Teleorman County,NA,NA,NA,-0.14,0.01,0.06
+2020-05-21,RO,Romania,NA,Tulcea County,NA,NA,NA,-0.05,-0.05,-0.54
+2020-05-21,RO,Romania,NA,Vrancea County,NA,NA,NA,-0.13,0.03,0.06
+2020-05-21,RW,Rwanda,NA,Eastern Province,NA,-0.23,NA,NA,NA,NA
+2020-05-21,RW,Rwanda,NA,Northern Province,NA,-0.26,NA,NA,NA,NA
+2020-05-21,RW,Rwanda,NA,Western Province,-0.51,-0.2,NA,NA,NA,NA
+2020-05-21,SA,Saudi Arabia,NA,Al Bahah Province,NA,NA,NA,-0.11,0.34,-0.31
+2020-05-21,SA,Saudi Arabia,NA,Al Madinah Province,NA,NA,NA,-0.52,-0.19,-0.65
+2020-05-21,SA,Saudi Arabia,NA,Aseer Province,NA,NA,NA,-0.28,0.18,-0.38
+2020-05-21,SA,Saudi Arabia,NA,Hail Province,NA,NA,NA,-0.38,-0.07,-0.62
+2020-05-21,SA,Saudi Arabia,NA,Makkah Province,NA,NA,NA,-0.53,-0.16,-0.69
+2020-05-21,SA,Saudi Arabia,NA,Northern Borders Province,NA,NA,NA,-0.33,0.1,NA
+2020-05-21,SA,Saudi Arabia,NA,Tabuk Province,NA,NA,NA,-0.41,-0.1,-0.5
+2020-05-21,SN,Senegal,NA,Dakar Region,NA,NA,NA,-0.45,-0.24,-0.53
+2020-05-21,SN,Senegal,NA,Fatick Region,NA,NA,NA,NA,NA,-0.12
+2020-05-21,SN,Senegal,NA,Kolda Region,NA,-0.08,NA,NA,NA,NA
+2020-05-21,SN,Senegal,NA,Matam Region,NA,NA,NA,NA,NA,-0.16
+2020-05-21,SN,Senegal,NA,Sédhiou Region,NA,NA,NA,NA,NA,-0.24
+2020-05-21,SN,Senegal,NA,Thiès Region,NA,NA,NA,-0.33,-0.17,NA
+2020-05-21,SK,Slovakia,NA,Banská Bystrica Region,NA,NA,NA,-0.22,0.04,0.49
+2020-05-21,SK,Slovakia,NA,Košice Region,NA,NA,NA,-0.21,0,0.15
+2020-05-21,SK,Slovakia,NA,Prešov Region,NA,NA,NA,-0.19,0.03,-0.08
+2020-05-21,SK,Slovakia,NA,Trnava Region,NA,NA,NA,-0.19,0.08,1.05
+2020-05-21,SI,Slovenia,NA,Administrative unit Maribor,NA,NA,NA,-0.03,-0.07,0.38
+2020-05-21,SI,Slovenia,NA,Brežice,-0.66,-0.24,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Cerknica,NA,-0.24,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Dravograd,NA,-0.27,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Grosuplje,NA,NA,NA,NA,-0.18,NA
+2020-05-21,SI,Slovenia,NA,Ilirska Bistrica,NA,-0.27,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Jesenice,NA,NA,NA,-0.1,-0.19,-0.61
+2020-05-21,SI,Slovenia,NA,Koper,NA,NA,NA,-0.08,-0.09,0.29
+2020-05-21,SI,Slovenia,NA,Kranj,NA,NA,NA,-0.03,-0.07,NA
+2020-05-21,SI,Slovenia,NA,Laško,NA,-0.23,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Lendava,NA,-0.21,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Ljubljana,NA,NA,NA,-0.14,-0.13,0.34
+2020-05-21,SI,Slovenia,NA,Logatec,-0.52,-0.23,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Municipality of Hrastnik,NA,-0.2,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Nova Gorica,NA,NA,NA,-0.18,-0.16,NA
+2020-05-21,SI,Slovenia,NA,Ormož,NA,-0.23,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Piran,NA,NA,NA,NA,NA,-0.44
+2020-05-21,SI,Slovenia,NA,Ptuj,NA,NA,NA,0.03,-0.01,NA
+2020-05-21,SI,Slovenia,NA,Radovljica,NA,NA,NA,-0.11,-0.11,-0.14
+2020-05-21,SI,Slovenia,NA,Ribnica,NA,-0.25,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Sevnica,NA,-0.21,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Slovenj Gradec,NA,NA,NA,NA,-0.11,NA
+2020-05-21,SI,Slovenia,NA,Slovenske Konjice,NA,-0.26,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Trbovlje,NA,-0.22,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Tržič,NA,-0.21,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Vrhnika,NA,-0.27,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Črnomelj,NA,-0.22,NA,NA,NA,NA
+2020-05-21,SI,Slovenia,NA,Škofja Loka,NA,NA,NA,NA,-0.94,NA
+2020-05-21,SI,Slovenia,NA,Žalec,NA,NA,NA,NA,-0.07,NA
+2020-05-21,ZA,South Africa,NA,Eastern Cape,NA,NA,NA,-0.45,-0.21,-0.12
+2020-05-21,ZA,South Africa,NA,Gauteng,NA,NA,NA,-0.47,-0.22,-0.45
+2020-05-21,ZA,South Africa,NA,Limpopo,NA,NA,NA,-0.38,-0.27,-0.02
+2020-05-21,ZA,South Africa,NA,North West,NA,NA,NA,-0.45,-0.27,-0.11
+2020-05-21,ZA,South Africa,NA,Western Cape,NA,NA,NA,-0.58,-0.32,-0.64
+2020-05-21,ES,Spain,NA,andalusia,NA,NA,NA,-0.53,-0.21,-0.18
+2020-05-21,ES,Spain,NA,Asturias,NA,NA,NA,-0.48,-0.12,0.51
+2020-05-21,ES,Spain,NA,Basque Country,NA,NA,NA,-0.52,-0.09,0.34
+2020-05-21,ES,Spain,NA,Cantabria,NA,NA,NA,-0.5,-0.13,0.5
+2020-05-21,ES,Spain,NA,Castile-La Mancha,NA,NA,NA,-0.53,-0.2,-0.14
+2020-05-21,ES,Spain,NA,Ceuta,NA,NA,NA,-0.59,-0.29,-0.42
+2020-05-21,ES,Spain,NA,Extremadura,NA,NA,NA,-0.54,-0.2,-0.1
+2020-05-21,ES,Spain,NA,La Rioja,NA,NA,NA,-0.47,-0.16,0.14
+2020-05-21,ES,Spain,NA,Navarre,NA,NA,NA,-0.47,-0.07,0.22
+2020-05-21,ES,Spain,NA,Valencian Community,NA,NA,NA,-0.51,-0.2,-0.09
+2020-05-21,SE,Sweden,NA,Blekinge County,NA,NA,NA,-0.11,0.02,0.16
+2020-05-21,SE,Sweden,NA,Gavleborg County,NA,NA,NA,-0.25,-0.01,0.27
+2020-05-21,SE,Sweden,NA,Halland County,NA,NA,NA,0.08,0.12,0.61
+2020-05-21,SE,Sweden,NA,Jonkoping County,NA,NA,NA,-0.19,0.01,0.71
+2020-05-21,SE,Sweden,NA,Kronoberg County,NA,NA,NA,-0.27,0.03,NA
+2020-05-21,SE,Sweden,NA,Skåne County,NA,NA,NA,-0.1,0.01,3.38
+2020-05-21,SE,Sweden,NA,Södermanland County,NA,NA,NA,-0.03,0.07,0.63
+2020-05-21,SE,Sweden,NA,Varmland County,NA,NA,NA,-0.29,-0.05,1.19
+2020-05-21,SE,Sweden,NA,Västernorrland County,NA,NA,NA,-0.32,-0.02,0.03
+2020-05-21,SE,Sweden,NA,Västra Götaland County,NA,NA,NA,-0.21,0.03,4.13
+2020-05-21,SE,Sweden,NA,Östergötland County,NA,NA,NA,-0.12,0.04,1.3
+2020-05-21,CH,Switzerland,NA,Aargau,NA,NA,NA,-0.58,-0.72,1.69
+2020-05-21,CH,Switzerland,NA,Appenzell Innerrhoden,NA,-0.77,NA,NA,NA,NA
+2020-05-21,CH,Switzerland,NA,Basel-Landschaft,NA,NA,NA,-0.62,-0.74,-0.17
+2020-05-21,CH,Switzerland,NA,Canton of Zug,NA,NA,NA,-0.63,-0.74,NA
+2020-05-21,CH,Switzerland,NA,Geneva,NA,NA,NA,-0.69,-0.75,0.26
+2020-05-21,CH,Switzerland,NA,Grisons,NA,NA,NA,-0.51,-0.7,1.63
+2020-05-21,CH,Switzerland,NA,Lucerne,NA,NA,NA,-0.52,-0.7,0.9
+2020-05-21,CH,Switzerland,NA,Nidwalden,NA,NA,NA,NA,NA,0.15
+2020-05-21,CH,Switzerland,NA,Schaffhausen,NA,NA,NA,-0.5,-0.66,NA
+2020-05-21,CH,Switzerland,NA,Solothurn,NA,NA,NA,-0.47,-0.76,-0.08
+2020-05-21,CH,Switzerland,NA,Thurgau,NA,NA,NA,-0.48,-0.81,0.71
+2020-05-21,CH,Switzerland,NA,Uri,0.41,-0.81,NA,NA,NA,NA
+2020-05-21,CH,Switzerland,NA,Vaud,NA,NA,NA,-0.52,-0.69,1.79
+2020-05-21,TZ,Tanzania,NA,Arusha Region,NA,NA,NA,-0.2,-0.21,-0.28
+2020-05-21,TZ,Tanzania,NA,Dodoma Region,NA,NA,NA,-0.13,NA,NA
+2020-05-21,TZ,Tanzania,NA,Iringa Region,-0.05,-0.3,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Kigoma Region,NA,0.02,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Mara Region,-0.05,0.03,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Mjini Magharibi Region,NA,NA,NA,-0.33,0.17,-0.39
+2020-05-21,TZ,Tanzania,NA,Mtwara Region,NA,-0.04,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Njombe Region,NA,0.1,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Ruvuma Region,NA,0.09,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Singida Region,NA,-0.08,NA,NA,NA,NA
+2020-05-21,TZ,Tanzania,NA,Tanga Region,0.01,-0.05,NA,NA,NA,NA
+2020-05-21,BS,Bahamas,NA,Freeport,NA,NA,NA,-0.44,-0.09,NA
+2020-05-21,BS,Bahamas,NA,West Grand Bahama,NA,NA,NA,NA,NA,-0.12
+2020-05-21,TG,Togo,NA,Kara Region,NA,NA,NA,NA,NA,-0.4
+2020-05-21,TG,Togo,NA,Plateaux Region,NA,-0.19,NA,NA,NA,NA
+2020-05-21,TR,Turkey,NA,Adana,NA,NA,NA,-0.26,0.25,0.06
+2020-05-21,TR,Turkey,NA,Afyonkarahisar,NA,NA,NA,-0.35,0.27,0.2
+2020-05-21,TR,Turkey,NA,Amasya,NA,NA,NA,-0.27,0.33,0.44
+2020-05-21,TR,Turkey,NA,Antalya,NA,NA,NA,-0.42,0.1,-0.3
+2020-05-21,TR,Turkey,NA,Artvin,NA,NA,NA,-0.37,-0.2,0.01
+2020-05-21,TR,Turkey,NA,Ağrı,NA,NA,NA,-0.26,0.98,NA
+2020-05-21,TR,Turkey,NA,Bartın,NA,NA,NA,-0.43,0.13,0.01
+2020-05-21,TR,Turkey,NA,Bayburt,NA,NA,NA,NA,NA,-0.16
+2020-05-21,TR,Turkey,NA,Bingöl,NA,NA,NA,-0.26,-0.19,0.13
+2020-05-21,TR,Turkey,NA,Bolu,NA,NA,NA,-0.44,0.17,-0.27
+2020-05-21,TR,Turkey,NA,Bursa,NA,NA,NA,-0.31,0.43,0.02
+2020-05-21,TR,Turkey,NA,Diyarbakır,NA,NA,NA,-0.34,0.31,0.13
+2020-05-21,TR,Turkey,NA,Edirne,NA,NA,NA,-0.49,0.17,0.01
+2020-05-21,TR,Turkey,NA,Erzincan,NA,NA,NA,-0.26,0.43,-0.42
+2020-05-21,TR,Turkey,NA,Eskişehir,NA,NA,NA,-0.35,0.34,0.03
+2020-05-21,TR,Turkey,NA,Giresun,NA,NA,NA,-0.34,0.2,0.21
+2020-05-21,TR,Turkey,NA,Hakkari,NA,NA,NA,-0.53,NA,NA
+2020-05-21,TR,Turkey,NA,Isparta,NA,NA,NA,-0.41,0.08,0.11
+2020-05-21,TR,Turkey,NA,Kahramanmaraş,NA,NA,NA,-0.2,0.31,0.14
+2020-05-21,TR,Turkey,NA,Karaman,NA,NA,NA,-0.05,0.37,0.3
+2020-05-21,TR,Turkey,NA,Kastamonu,NA,NA,NA,-0.35,0.26,-0.02
+2020-05-21,TR,Turkey,NA,Kilis,NA,NA,NA,-0.32,0.16,-0.11
+2020-05-21,TR,Turkey,NA,Konya,NA,NA,NA,-0.13,0.41,-0.01
+2020-05-21,TR,Turkey,NA,Kırklareli,NA,NA,NA,-0.41,0.19,-0.09
+2020-05-21,TR,Turkey,NA,Kırşehir,NA,NA,NA,-0.29,0.4,0.33
+2020-05-21,TR,Turkey,NA,Manisa,NA,NA,NA,-0.28,0.27,0.08
+2020-05-21,TR,Turkey,NA,Mersin,NA,NA,NA,-0.23,0.18,-0.07
+2020-05-21,TR,Turkey,NA,Muş,NA,NA,NA,-0.09,0.22,0
+2020-05-21,TR,Turkey,NA,Niğde,NA,NA,NA,-0.19,0.25,-0.02
+2020-05-21,TR,Turkey,NA,Osmaniye,NA,NA,NA,-0.25,0.23,0.15
+2020-05-21,TR,Turkey,NA,Sakarya,NA,NA,NA,-0.28,0.28,0.04
+2020-05-21,TR,Turkey,NA,Siirt,NA,NA,NA,-0.27,0.21,0.15
+2020-05-21,TR,Turkey,NA,Sivas,NA,NA,NA,-0.17,0.58,0.22
+2020-05-21,TR,Turkey,NA,Tokat,NA,NA,NA,-0.17,0.25,0.36
+2020-05-21,TR,Turkey,NA,Tunceli,NA,-0.23,NA,NA,NA,NA
+2020-05-21,TR,Turkey,NA,Van,NA,NA,NA,-0.23,0.4,0.26
+2020-05-21,TR,Turkey,NA,Yozgat,NA,NA,NA,-0.15,0.38,0.42
+2020-05-21,TR,Turkey,NA,Çanakkale,NA,NA,NA,-0.43,0.27,-0.21
+2020-05-21,TR,Turkey,NA,Çorum,NA,NA,NA,-0.24,0.3,-0.26
+2020-05-21,TR,Turkey,NA,İzmir,NA,NA,NA,-0.35,0.33,0.02
+2020-05-21,TR,Turkey,NA,Şırnak,NA,NA,NA,-0.23,0.51,NA
+2020-05-21,UG,Uganda,NA,Central Region,NA,NA,NA,-0.63,-0.47,-0.36
+2020-05-21,UG,Uganda,NA,Northern Region,NA,NA,NA,-0.41,NA,0.02
+2020-05-21,AE,United Arab Emirates,NA,Abu Dhabi,NA,NA,NA,-0.51,-0.24,-0.58
+2020-05-21,AE,United Arab Emirates,NA,Dubai,NA,NA,NA,-0.58,-0.2,-0.71
+2020-05-21,AE,United Arab Emirates,NA,Ras al Khaimah,NA,NA,NA,-0.44,-0.2,-0.48
+2020-05-21,AE,United Arab Emirates,NA,Umm Al Quawain,NA,NA,NA,-0.42,-0.16,NA
+2020-05-21,GB,United Kingdom,NA,Aberdeen City,NA,NA,NA,-0.74,-0.2,0.52
+2020-05-21,GB,United Kingdom,NA,Angus Council,NA,NA,NA,-0.64,-0.12,0.34
+2020-05-21,GB,United Kingdom,NA,Ards and North Down,NA,NA,NA,-0.5,-0.09,0.16
+2020-05-21,GB,United Kingdom,NA,"Armagh City, Banbridge and Craigavon",NA,NA,NA,-0.49,-0.12,0.5
+2020-05-21,GB,United Kingdom,NA,Bedford,NA,NA,NA,-0.61,-0.12,0.58
+2020-05-21,GB,United Kingdom,NA,Blackburn with Darwen,NA,NA,NA,-0.57,-0.13,-0.42
+2020-05-21,GB,United Kingdom,NA,Blaenau Gwent,NA,NA,NA,-0.52,-0.11,NA
+2020-05-21,GB,United Kingdom,NA,Bracknell Forest,NA,NA,NA,-0.61,-0.2,0.25
+2020-05-21,GB,United Kingdom,NA,Brighton and Hove,NA,NA,NA,-0.68,-0.22,1.33
+2020-05-21,GB,United Kingdom,NA,Buckinghamshire,NA,NA,NA,-0.6,-0.16,0.55
+2020-05-21,GB,United Kingdom,NA,Cambridgeshire,NA,NA,NA,-0.69,-0.17,0.42
+2020-05-21,GB,United Kingdom,NA,Carmarthenshire,NA,NA,NA,-0.59,-0.05,0.02
+2020-05-21,GB,United Kingdom,NA,Central Bedfordshire,NA,NA,NA,-0.54,-0.08,0.78
+2020-05-21,GB,United Kingdom,NA,Cheshire East,NA,NA,NA,-0.62,-0.16,0.57
+2020-05-21,GB,United Kingdom,NA,Clackmannanshire,NA,NA,NA,-0.66,-0.13,NA
+2020-05-21,GB,United Kingdom,NA,Cornwall,NA,NA,NA,-0.58,-0.2,0.39
+2020-05-21,GB,United Kingdom,NA,Cumbria,NA,NA,NA,-0.6,-0.18,0.18
+2020-05-21,GB,United Kingdom,NA,Denbighshire,NA,NA,NA,-0.54,-0.15,-0.05
+2020-05-21,GB,United Kingdom,NA,Derbyshire,NA,NA,NA,-0.63,-0.11,0.76
+2020-05-21,GB,United Kingdom,NA,Devon,NA,NA,NA,-0.62,-0.16,0.57
+2020-05-21,GB,United Kingdom,NA,Dumfries and Galloway,NA,NA,NA,-0.58,-0.18,-0.13
+2020-05-21,GB,United Kingdom,NA,East Ayrshire Council,NA,NA,NA,-0.53,-0.13,NA
+2020-05-21,GB,United Kingdom,NA,East Lothian Council,NA,NA,NA,-0.64,-0.14,-0.42
+2020-05-21,GB,United Kingdom,NA,East Riding of Yorkshire,NA,NA,NA,-0.58,-0.08,0.59
+2020-05-21,GB,United Kingdom,NA,Edinburgh,NA,NA,NA,-0.77,-0.29,0.18
+2020-05-21,GB,United Kingdom,NA,Falkirk,NA,NA,NA,-0.58,-0.19,-0.38
+2020-05-21,GB,United Kingdom,NA,Fife,NA,NA,NA,-0.61,-0.13,0.29
+2020-05-21,GB,United Kingdom,NA,Glasgow City,NA,NA,NA,-0.71,-0.23,0.03
+2020-05-21,GB,United Kingdom,NA,Greater London,NA,NA,NA,-0.72,-0.19,0.54
+2020-05-21,GB,United Kingdom,NA,Gwynedd,NA,NA,NA,-0.68,-0.27,-0.26
+2020-05-21,GB,United Kingdom,NA,Hartlepool,NA,NA,NA,-0.57,-0.14,-0.28
+2020-05-21,GB,United Kingdom,NA,Hertfordshire,NA,NA,NA,-0.61,-0.18,0.62
+2020-05-21,GB,United Kingdom,NA,Inverclyde,NA,NA,NA,-0.64,-0.13,-0.64
+2020-05-21,GB,United Kingdom,NA,Isle of Wight,NA,NA,NA,-0.56,-0.13,0.73
+2020-05-21,GB,United Kingdom,NA,Kingston upon Hull,NA,NA,NA,-0.55,-0.13,0.32
+2020-05-21,GB,United Kingdom,NA,Leicester,NA,NA,NA,-0.59,-0.12,0.71
+2020-05-21,GB,United Kingdom,NA,Lincolnshire,NA,NA,NA,-0.59,-0.09,0.38
+2020-05-21,GB,United Kingdom,NA,Luton,NA,NA,NA,-0.55,-0.04,-0.24
+2020-05-21,GB,United Kingdom,NA,Merseyside,NA,NA,NA,-0.62,-0.14,0.42
+2020-05-21,GB,United Kingdom,NA,Mid Ulster,NA,NA,NA,-0.53,-0.09,-0.59
+2020-05-21,GB,United Kingdom,NA,Middlesbrough,NA,NA,NA,-0.62,-0.14,-0.08
+2020-05-21,GB,United Kingdom,NA,Milton Keynes,NA,NA,NA,-0.62,-0.16,0.78
+2020-05-21,GB,United Kingdom,NA,Moray,NA,NA,NA,-0.63,-0.21,-0.02
+2020-05-21,GB,United Kingdom,NA,Neath Port Talbot Principle Area,NA,NA,NA,-0.53,0.04,0.12
+2020-05-21,GB,United Kingdom,NA,"Newry, Mourne and Down",NA,NA,NA,-0.52,-0.06,0.19
+2020-05-21,GB,United Kingdom,NA,North Ayrshire Council,NA,NA,NA,-0.53,-0.07,-0.56
+2020-05-21,GB,United Kingdom,NA,North Lanarkshire,NA,NA,NA,-0.52,-0.14,NA
+2020-05-21,GB,United Kingdom,NA,North Somerset,NA,NA,NA,-0.58,-0.17,1.06
+2020-05-21,GB,United Kingdom,NA,Northamptonshire,NA,NA,NA,-0.59,-0.09,0.41
+2020-05-21,GB,United Kingdom,NA,Nottingham,NA,NA,NA,-0.74,-0.21,0.64
+2020-05-21,GB,United Kingdom,NA,Orkney,NA,-0.55,NA,NA,NA,NA
+2020-05-21,GB,United Kingdom,NA,Pembrokeshire,NA,NA,NA,-0.63,-0.18,-0.23
+2020-05-21,GB,United Kingdom,NA,Peterborough,NA,NA,NA,-0.53,-0.12,-0.39
+2020-05-21,GB,United Kingdom,NA,Portsmouth,NA,NA,NA,-0.62,-0.16,0.88
+2020-05-21,GB,United Kingdom,NA,Reading,NA,NA,NA,-0.75,-0.18,0.72
+2020-05-21,GB,United Kingdom,NA,Renfrewshire,NA,NA,NA,-0.65,-0.13,0.09
+2020-05-21,GB,United Kingdom,NA,Rutland,NA,NA,NA,NA,NA,-0.46
+2020-05-21,GB,United Kingdom,NA,Shetland Islands,-0.49,-0.53,NA,NA,NA,NA
+2020-05-21,GB,United Kingdom,NA,Slough,NA,NA,NA,-0.48,-0.14,0.38
+2020-05-21,GB,United Kingdom,NA,South Ayrshire Council,NA,NA,NA,-0.66,-0.21,0.04
+2020-05-21,GB,United Kingdom,NA,South Lanarkshire,NA,NA,NA,-0.55,-0.13,0.38
+2020-05-21,GB,United Kingdom,NA,Southampton,NA,NA,NA,-0.7,-0.14,0.51
+2020-05-21,GB,United Kingdom,NA,Staffordshire,NA,NA,NA,-0.58,-0.12,0.56
+2020-05-21,GB,United Kingdom,NA,Stockton-on-Tees,NA,NA,NA,-0.59,-0.17,0.4
+2020-05-21,GB,United Kingdom,NA,Suffolk,NA,NA,NA,-0.61,-0.15,0.44
+2020-05-21,GB,United Kingdom,NA,Swansea,NA,NA,NA,-0.62,-0.24,0.41
+2020-05-21,GB,United Kingdom,NA,Thurrock,NA,NA,NA,-0.63,-0.14,0.13
+2020-05-21,GB,United Kingdom,NA,Torfaen Principal Area,NA,NA,NA,-0.59,-0.21,NA
+2020-05-21,GB,United Kingdom,NA,Vale of Glamorgan,NA,NA,NA,-0.51,-0.12,0.44
+2020-05-21,GB,United Kingdom,NA,Warwickshire,NA,NA,NA,-0.62,-0.09,0.67
+2020-05-21,GB,United Kingdom,NA,West Dunbartonshire Council,NA,NA,NA,-0.52,-0.1,-0.69
+2020-05-21,GB,United Kingdom,NA,West Midlands,NA,NA,NA,-0.62,-0.13,0.64
+2020-05-21,GB,United Kingdom,NA,West Yorkshire,NA,NA,NA,-0.62,-0.14,0.71
+2020-05-21,GB,United Kingdom,NA,Windsor and Maidenhead,NA,NA,NA,-0.68,-0.09,0.23
+2020-05-21,GB,United Kingdom,NA,Worcestershire,NA,NA,NA,-0.62,-0.13,0.95
+2020-05-21,GB,United Kingdom,NA,York,NA,NA,NA,-0.68,-0.23,0.26
+2020-05-21,UY,Uruguay,NA,Artigas Department,NA,NA,NA,-0.44,-0.37,-0.59
+2020-05-21,UY,Uruguay,NA,Cerro Largo Department,NA,NA,NA,-0.52,-0.3,-0.55
+2020-05-21,UY,Uruguay,NA,Durazno Department,NA,NA,NA,-0.36,-0.35,-0.62
+2020-05-21,UY,Uruguay,NA,Florida Department,NA,NA,NA,-0.37,-0.28,-0.7
+2020-05-21,UY,Uruguay,NA,Maldonado Department,NA,NA,NA,-0.73,-0.54,-0.88
+2020-05-21,UY,Uruguay,NA,Paysandú Department,NA,NA,NA,-0.42,-0.05,-0.59
+2020-05-21,UY,Uruguay,NA,Rocha Department,NA,NA,NA,-0.72,-0.65,-0.89
+2020-05-21,UY,Uruguay,NA,Salto Department,NA,NA,NA,-0.43,-0.36,-0.57
+2020-05-21,UY,Uruguay,NA,Soriano Department,NA,NA,NA,-0.41,-0.18,-0.66
+2020-05-21,UY,Uruguay,NA,Treinta y Tres Department,NA,NA,NA,-0.41,-0.14,-0.75
+2020-05-21,VN,Vietnam,NA,An Giang Province,NA,NA,NA,-0.12,0.02,-0.05
+2020-05-21,VN,Vietnam,NA,Bac Giang,NA,NA,NA,-0.14,0.24,0.05
+2020-05-21,VN,Vietnam,NA,Bac Ninh Province,NA,NA,NA,-0.15,0.31,-0.04
+2020-05-21,VN,Vietnam,NA,Binh Dinh Province,NA,NA,NA,-0.18,-0.09,-0.35
+2020-05-21,VN,Vietnam,NA,Binh Phuoc,NA,NA,NA,-0.1,0.09,-0.22
+2020-05-21,VN,Vietnam,NA,Bắc Kạn Province,NA,NA,NA,-0.2,NA,-0.1
+2020-05-21,VN,Vietnam,NA,Cao Bang,NA,NA,NA,-0.28,-0.05,-0.07
+2020-05-21,VN,Vietnam,NA,Da Nang,NA,NA,NA,-0.17,-0.15,-0.54
+2020-05-21,VN,Vietnam,NA,Dien Bien,NA,NA,NA,-0.22,0.04,-0.3
+2020-05-21,VN,Vietnam,NA,Gia Lai,NA,NA,NA,-0.15,0.02,-0.33
+2020-05-21,VN,Vietnam,NA,Ha Tinh,NA,NA,NA,-0.23,-0.2,-0.17
+2020-05-21,VN,Vietnam,NA,Hai Phong,NA,NA,NA,-0.21,0.08,-0.25
+2020-05-21,VN,Vietnam,NA,Hau Giang,NA,NA,NA,-0.12,0.05,-0.13
+2020-05-21,VN,Vietnam,NA,Hoa Binh,NA,NA,NA,-0.27,-0.03,-0.08
+2020-05-21,VN,Vietnam,NA,Hà Nam,NA,NA,NA,-0.23,0.11,0.07
+2020-05-21,VN,Vietnam,NA,Kien Giang,NA,NA,NA,-0.23,-0.05,-0.29
+2020-05-21,VN,Vietnam,NA,Lai Chau,NA,NA,NA,-0.32,0.03,-0.53
+2020-05-21,VN,Vietnam,NA,Long An Province,NA,NA,NA,-0.1,0.05,-0.15
+2020-05-21,VN,Vietnam,NA,Lạng Sơn,NA,NA,NA,-0.26,-0.11,-0.17
+2020-05-21,VN,Vietnam,NA,Nghe An,NA,NA,NA,-0.29,-0.16,-0.26
+2020-05-21,VN,Vietnam,NA,Ninh Thuan Province,NA,NA,NA,-0.18,0.08,-0.36
+2020-05-21,VN,Vietnam,NA,Phú Yên Province,NA,NA,NA,-0.15,-0.16,-0.39
+2020-05-21,VN,Vietnam,NA,Quang Nam Province,NA,NA,NA,-0.29,-0.1,-0.37
+2020-05-21,VN,Vietnam,NA,Quảng Ninh,NA,NA,NA,-0.21,0.02,-0.34
+2020-05-21,VN,Vietnam,NA,Soc Trang,NA,NA,NA,-0.15,0.07,-0.1
+2020-05-21,VN,Vietnam,NA,Thai Binh,NA,NA,NA,-0.23,-0.12,-0.19
+2020-05-21,VN,Vietnam,NA,Thanh Hoa,NA,NA,NA,-0.29,-0.13,-0.11
+2020-05-21,VN,Vietnam,NA,Tien Giang,NA,NA,NA,-0.16,-0.05,-0.24
+2020-05-21,VN,Vietnam,NA,Tuyên Quang,NA,NA,NA,-0.33,0,-0.04
+2020-05-21,VN,Vietnam,NA,Vinh Long,NA,NA,NA,-0.15,0.05,0.05
+2020-05-21,VN,Vietnam,NA,Yên Bái,NA,NA,NA,-0.3,-0.07,-0.21
+2020-05-21,VN,Vietnam,NA,Đồng Tháp Province,NA,NA,NA,-0.12,0.04,-0.05
+2020-05-21,ZW,Zimbabwe,NA,Bulawayo Province,NA,NA,NA,-0.26,-0.11,-0.8
+2020-05-21,ZW,Zimbabwe,NA,Manicaland Province,NA,-0.16,NA,NA,NA,NA
+2020-05-21,ZW,Zimbabwe,NA,Mashonaland East Province,NA,-0.21,NA,NA,NA,NA
+2020-05-21,ZW,Zimbabwe,NA,Masvingo Province,NA,-0.05,NA,NA,NA,NA
+2020-05-21,ZW,Zimbabwe,NA,Matabeleland South Province,NA,-0.04,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Autauga County,NA,NA,NA,0.02,0.17,-0.65
+2020-05-21,US,United States,Alabama,Barbour County,NA,NA,NA,0.12,-0.02,NA
+2020-05-21,US,United States,Alabama,Blount County,NA,NA,NA,0.06,0.13,NA
+2020-05-21,US,United States,Alabama,Butler County,NA,NA,NA,-0.12,0.14,NA
+2020-05-21,US,United States,Alabama,Chambers County,NA,NA,NA,0.15,0.15,NA
+2020-05-21,US,United States,Alabama,Chilton County,NA,NA,NA,0.09,0.18,-0.23
+2020-05-21,US,United States,Alabama,Clarke County,NA,NA,NA,0,-0.03,NA
+2020-05-21,US,United States,Alabama,Cleburne County,-0.16,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Colbert County,NA,NA,NA,-0.04,0.05,-0.23
+2020-05-21,US,United States,Alabama,Coosa County,NA,-0.09,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Crenshaw County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Dale County,NA,NA,NA,-0.18,0.12,NA
+2020-05-21,US,United States,Alabama,DeKalb County,NA,NA,NA,0.02,0.08,0.17
+2020-05-21,US,United States,Alabama,Escambia County,NA,NA,NA,-0.05,0.03,NA
+2020-05-21,US,United States,Alabama,Fayette County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Geneva County,NA,NA,NA,NA,0.1,NA
+2020-05-21,US,United States,Alabama,Hale County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Houston County,NA,NA,NA,-0.03,0.08,-0.03
+2020-05-21,US,United States,Alabama,Jefferson County,NA,NA,NA,-0.15,0.05,0.17
+2020-05-21,US,United States,Alabama,Lauderdale County,NA,NA,NA,0,0.08,-0.27
+2020-05-21,US,United States,Alabama,Lee County,NA,NA,NA,-0.1,0.12,0.06
+2020-05-21,US,United States,Alabama,Lowndes County,0.1,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Madison County,NA,NA,NA,-0.13,0.05,0.44
+2020-05-21,US,United States,Alabama,Marion County,NA,NA,NA,0.04,0.03,NA
+2020-05-21,US,United States,Alabama,Mobile County,NA,NA,NA,-0.03,0.05,0.18
+2020-05-21,US,United States,Alabama,Montgomery County,NA,NA,NA,-0.14,0.06,-0.06
+2020-05-21,US,United States,Alabama,Perry County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Pike County,NA,NA,NA,0,0,NA
+2020-05-21,US,United States,Alabama,Russell County,NA,NA,NA,0.06,0.38,NA
+2020-05-21,US,United States,Alabama,St. Clair County,NA,NA,NA,0.08,0.13,-0.3
+2020-05-21,US,United States,Alabama,Talladega County,NA,NA,NA,0.07,0.16,-0.06
+2020-05-21,US,United States,Alabama,Tuscaloosa County,NA,NA,NA,-0.09,0.05,-0.06
+2020-05-21,US,United States,Alabama,Washington County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Alabama,Winston County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Alaska,Anchorage,NA,NA,NA,-0.09,0.09,0.54
+2020-05-21,US,United States,Alaska,Fairbanks North Star,NA,NA,NA,0.01,0.1,NA
+2020-05-21,US,United States,Alaska,Kenai Peninsula Borough,NA,NA,NA,0.1,0.17,NA
+2020-05-21,US,United States,Alaska,Kodiak Island,NA,-0.13,NA,NA,NA,NA
+2020-05-21,US,United States,Alaska,North Slope,NA,NA,NA,NA,NA,-0.48
+2020-05-21,US,United States,Alaska,Southeast Fairbanks,NA,-0.35,NA,NA,NA,NA
+2020-05-21,US,United States,Arizona,Apache County,NA,NA,NA,-0.16,0.19,0.2
+2020-05-21,US,United States,Arizona,Coconino County,NA,NA,NA,-0.07,0.21,0.85
+2020-05-21,US,United States,Arizona,Graham County,NA,NA,NA,0.06,0.17,NA
+2020-05-21,US,United States,Arizona,La Paz County,NA,NA,NA,-0.43,-0.34,-0.54
+2020-05-21,US,United States,Arizona,Mohave County,NA,NA,NA,-0.01,0.09,0.23
+2020-05-21,US,United States,Arizona,Pima County,NA,NA,NA,-0.18,-0.03,-0.16
+2020-05-21,US,United States,Arizona,Santa Cruz County,NA,NA,NA,-0.33,-0.08,-0.07
+2020-05-21,US,United States,Arizona,Yuma County,NA,NA,NA,-0.29,-0.2,-0.43
+2020-05-21,US,United States,Arkansas,Arkansas County,NA,NA,NA,-0.11,0.13,NA
+2020-05-21,US,United States,Arkansas,Baxter County,NA,NA,NA,0.11,0.26,NA
+2020-05-21,US,United States,Arkansas,Boone County,NA,NA,NA,0.06,0.17,NA
+2020-05-21,US,United States,Arkansas,Carroll County,NA,NA,NA,0.1,NA,NA
+2020-05-21,US,United States,Arkansas,Clark County,NA,NA,NA,0.01,0.1,NA
+2020-05-21,US,United States,Arkansas,Cleburne County,NA,NA,NA,-0.08,0.27,NA
+2020-05-21,US,United States,Arkansas,Columbia County,NA,NA,NA,-0.03,0.02,NA
+2020-05-21,US,United States,Arkansas,Craighead County,NA,NA,NA,-0.04,0.13,-0.22
+2020-05-21,US,United States,Arkansas,Crittenden County,NA,NA,NA,0.1,0.13,NA
+2020-05-21,US,United States,Arkansas,Dallas County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Drew County,NA,NA,NA,-0.16,0.12,NA
+2020-05-21,US,United States,Arkansas,Franklin County,0.16,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Garland County,NA,NA,NA,0.04,0.1,1.17
+2020-05-21,US,United States,Arkansas,Greene County,NA,NA,NA,0.08,0.15,NA
+2020-05-21,US,United States,Arkansas,Hot Spring County,NA,NA,NA,0.04,0.05,NA
+2020-05-21,US,United States,Arkansas,Independence County,NA,NA,NA,-0.01,0.22,NA
+2020-05-21,US,United States,Arkansas,Jackson County,NA,-0.16,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Johnson County,NA,NA,NA,0.05,NA,NA
+2020-05-21,US,United States,Arkansas,Lawrence County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Little River County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Lonoke County,NA,NA,NA,0.06,0.23,NA
+2020-05-21,US,United States,Arkansas,Marion County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Mississippi County,NA,NA,NA,0,0.13,NA
+2020-05-21,US,United States,Arkansas,Montgomery County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Newton County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Perry County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Pike County,NA,-0.16,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Polk County,NA,NA,NA,-0.29,NA,NA
+2020-05-21,US,United States,Arkansas,Prairie County,NA,-0.16,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Randolph County,NA,NA,NA,-0.22,NA,NA
+2020-05-21,US,United States,Arkansas,Scott County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Sebastian County,NA,NA,NA,-0.02,0.16,0.71
+2020-05-21,US,United States,Arkansas,Sharp County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Stone County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,Van Buren County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Arkansas,White County,NA,NA,NA,0.04,0.17,-0.14
+2020-05-21,US,United States,California,Alameda County,NA,NA,NA,-0.49,-0.11,0.26
+2020-05-21,US,United States,California,Butte County,NA,NA,NA,-0.26,0.02,0.04
+2020-05-21,US,United States,California,Colusa County,NA,NA,NA,-0.29,NA,NA
+2020-05-21,US,United States,California,Del Norte County,NA,NA,NA,-0.05,0.27,0.01
+2020-05-21,US,United States,California,Fresno County,NA,NA,NA,-0.33,0.06,-0.16
+2020-05-21,US,United States,California,Humboldt County,NA,NA,NA,-0.41,-0.03,0.26
+2020-05-21,US,United States,California,Inyo County,NA,NA,NA,-0.29,NA,-0.2
+2020-05-21,US,United States,California,Kings County,NA,NA,NA,-0.17,0.06,0.02
+2020-05-21,US,United States,California,Lassen County,NA,NA,NA,-0.2,0.25,NA
+2020-05-21,US,United States,California,Madera County,NA,NA,NA,-0.33,0.09,0.16
+2020-05-21,US,United States,California,Mariposa County,NA,NA,NA,NA,-0.16,-0.31
+2020-05-21,US,United States,California,Merced County,NA,NA,NA,-0.19,-0.03,0.29
+2020-05-21,US,United States,California,Mono County,NA,NA,NA,-0.74,-0.53,-0.17
+2020-05-21,US,United States,California,Napa County,NA,NA,NA,-0.39,-0.1,0.54
+2020-05-21,US,United States,California,Orange County,NA,NA,NA,-0.44,-0.05,0.01
+2020-05-21,US,United States,California,Plumas County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,California,Sacramento County,NA,NA,NA,-0.35,-0.01,0.29
+2020-05-21,US,United States,California,San Bernardino County,NA,NA,NA,-0.33,0.03,-0.02
+2020-05-21,US,United States,California,San Francisco County,NA,NA,NA,-0.67,-0.28,-0.21
+2020-05-21,US,United States,California,San Luis Obispo County,NA,NA,NA,-0.41,-0.02,0.14
+2020-05-21,US,United States,California,Santa Barbara County,NA,NA,NA,-0.41,-0.04,0.05
+2020-05-21,US,United States,California,Santa Cruz County,NA,NA,NA,-0.45,-0.1,0.22
+2020-05-21,US,United States,California,Siskiyou County,NA,NA,NA,-0.08,0.22,0.27
+2020-05-21,US,United States,California,Sonoma County,NA,NA,NA,-0.41,-0.05,0.04
+2020-05-21,US,United States,California,Sutter County,NA,NA,NA,-0.08,0.04,-0.1
+2020-05-21,US,United States,California,Trinity County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,California,Tuolumne County,NA,NA,NA,-0.14,0.23,-0.43
+2020-05-21,US,United States,California,Yolo County,NA,NA,NA,-0.41,-0.02,0.2
+2020-05-21,US,United States,Colorado,Adams County,NA,NA,NA,-0.11,0.01,0.51
+2020-05-21,US,United States,Colorado,Arapahoe County,NA,NA,NA,-0.2,-0.02,0.79
+2020-05-21,US,United States,Colorado,Bent County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Broomfield County,NA,NA,NA,-0.28,NA,0.5
+2020-05-21,US,United States,Colorado,Clear Creek County,NA,NA,NA,-0.5,NA,0.34
+2020-05-21,US,United States,Colorado,Delta County,NA,NA,NA,0.09,0.06,-0.14
+2020-05-21,US,United States,Colorado,Douglas County,NA,NA,NA,-0.15,0.05,0.95
+2020-05-21,US,United States,Colorado,El Paso County,NA,NA,NA,-0.11,0.07,1.15
+2020-05-21,US,United States,Colorado,Fremont County,NA,NA,NA,0.02,0.24,0.74
+2020-05-21,US,United States,Colorado,Gilpin County,NA,-0.55,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Gunnison County,NA,NA,NA,NA,NA,0.16
+2020-05-21,US,United States,Colorado,Jefferson County,NA,NA,NA,-0.18,-0.06,0.75
+2020-05-21,US,United States,Colorado,Kit Carson County,0.31,-0.14,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Lake County,NA,-0.38,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Las Animas County,NA,NA,NA,-0.01,NA,NA
+2020-05-21,US,United States,Colorado,Logan County,NA,NA,NA,0.03,NA,NA
+2020-05-21,US,United States,Colorado,Moffat County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Montrose County,NA,NA,NA,0.02,0.05,NA
+2020-05-21,US,United States,Colorado,Otero County,NA,NA,NA,-0.05,NA,NA
+2020-05-21,US,United States,Colorado,Park County,NA,NA,NA,NA,NA,0.6
+2020-05-21,US,United States,Colorado,Pitkin County,NA,NA,NA,-0.77,NA,NA
+2020-05-21,US,United States,Colorado,Pueblo County,NA,NA,NA,-0.07,0.13,0.3
+2020-05-21,US,United States,Colorado,Rio Grande County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Saguache County,NA,-0.38,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Summit County,NA,NA,NA,-0.57,-0.32,-0.15
+2020-05-21,US,United States,Colorado,Washington County,NA,-0.44,NA,NA,NA,NA
+2020-05-21,US,United States,Colorado,Yuma County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Connecticut,Fairfield County,NA,NA,NA,-0.25,-0.09,0.96
+2020-05-21,US,United States,Connecticut,Litchfield County,NA,NA,NA,-0.08,-0.07,1.57
+2020-05-21,US,United States,Connecticut,New Haven County,NA,NA,NA,-0.18,-0.07,0.49
+2020-05-21,US,United States,Connecticut,Tolland County,NA,NA,NA,-0.25,0.04,1.5
+2020-05-21,US,United States,Delaware,Kent County,NA,NA,NA,-0.15,-0.06,0.11
+2020-05-21,US,United States,Delaware,Sussex County,NA,NA,NA,-0.12,0.12,0.87
+2020-05-21,US,United States,Florida,Alachua County,NA,NA,NA,-0.27,-0.11,-0.24
+2020-05-21,US,United States,Florida,Bay County,NA,NA,NA,0.06,0.15,0.29
+2020-05-21,US,United States,Florida,Brevard County,NA,NA,NA,-0.2,-0.1,-0.07
+2020-05-21,US,United States,Florida,Calhoun County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Florida,Citrus County,NA,NA,NA,-0.12,-0.03,0.07
+2020-05-21,US,United States,Florida,Collier County,NA,NA,NA,-0.35,-0.21,-0.42
+2020-05-21,US,United States,Florida,DeSoto County,NA,NA,NA,-0.28,-0.12,-0.35
+2020-05-21,US,United States,Florida,Duval County,NA,NA,NA,-0.15,-0.01,0.31
+2020-05-21,US,United States,Florida,Flagler County,NA,NA,NA,-0.15,-0.02,0.07
+2020-05-21,US,United States,Florida,Gadsden County,NA,NA,NA,-0.1,0.02,NA
+2020-05-21,US,United States,Florida,Glades County,NA,NA,NA,NA,NA,-0.61
+2020-05-21,US,United States,Florida,Hamilton County,0.07,-0.15,NA,NA,NA,NA
+2020-05-21,US,United States,Florida,Hendry County,NA,NA,NA,-0.21,-0.15,-0.54
+2020-05-21,US,United States,Florida,Highlands County,NA,NA,NA,-0.27,-0.12,-0.48
+2020-05-21,US,United States,Florida,Holmes County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Florida,Jackson County,NA,NA,NA,0.01,0.07,NA
+2020-05-21,US,United States,Florida,Lafayette County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Florida,Lee County,NA,NA,NA,-0.3,-0.14,-0.34
+2020-05-21,US,United States,Florida,Levy County,NA,NA,NA,0.08,0.06,-0.14
+2020-05-21,US,United States,Florida,Madison County,0.05,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Florida,Marion County,NA,NA,NA,-0.12,-0.01,0
+2020-05-21,US,United States,Florida,Miami-Dade County,NA,NA,NA,-0.36,-0.17,-0.53
+2020-05-21,US,United States,Florida,Nassau County,NA,NA,NA,-0.06,0.06,0.15
+2020-05-21,US,United States,Florida,Okeechobee County,NA,NA,NA,-0.21,-0.12,-0.46
+2020-05-21,US,United States,Florida,Osceola County,NA,NA,NA,-0.31,-0.16,-0.28
+2020-05-21,US,United States,Florida,Pasco County,NA,NA,NA,-0.14,-0.05,-0.08
+2020-05-21,US,United States,Florida,Polk County,NA,NA,NA,-0.17,-0.09,-0.22
+2020-05-21,US,United States,Florida,Santa Rosa County,NA,NA,NA,0.12,0.11,0.45
+2020-05-21,US,United States,Florida,Seminole County,NA,NA,NA,-0.21,-0.08,-0.15
+2020-05-21,US,United States,Florida,St. Lucie County,NA,NA,NA,-0.2,-0.08,-0.17
+2020-05-21,US,United States,Florida,Suwannee County,NA,NA,NA,-0.03,0.08,0.53
+2020-05-21,US,United States,Florida,Union County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Florida,Wakulla County,NA,NA,NA,0.06,-0.02,0.72
+2020-05-21,US,United States,Florida,Washington County,NA,NA,NA,-0.01,0.25,NA
+2020-05-21,US,United States,Georgia,Appling County,NA,NA,NA,-0.08,0.16,NA
+2020-05-21,US,United States,Georgia,Bacon County,NA,-0.14,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Banks County,NA,NA,NA,0.07,NA,NA
+2020-05-21,US,United States,Georgia,Bartow County,NA,NA,NA,0,0.16,0.61
+2020-05-21,US,United States,Georgia,Berrien County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Bleckley County,NA,NA,NA,NA,NA,-0.53
+2020-05-21,US,United States,Georgia,Brooks County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Bulloch County,NA,NA,NA,-0.09,0.04,-0.16
+2020-05-21,US,United States,Georgia,Butts County,NA,NA,NA,0.05,0.05,NA
+2020-05-21,US,United States,Georgia,Candler County,NA,NA,NA,NA,0.01,NA
+2020-05-21,US,United States,Georgia,Catoosa County,NA,NA,NA,0.04,0.17,-0.14
+2020-05-21,US,United States,Georgia,Chatham County,NA,NA,NA,-0.13,-0.02,0.08
+2020-05-21,US,United States,Georgia,Chattooga County,NA,NA,NA,0.11,0.13,NA
+2020-05-21,US,United States,Georgia,Clarke County,NA,NA,NA,-0.27,-0.06,-0.32
+2020-05-21,US,United States,Georgia,Clinch County,NA,-0.11,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Coffee County,NA,NA,NA,0.07,0.23,NA
+2020-05-21,US,United States,Georgia,Columbia County,NA,NA,NA,-0.01,0.16,0.39
+2020-05-21,US,United States,Georgia,Coweta County,NA,NA,NA,-0.03,0.08,-0.51
+2020-05-21,US,United States,Georgia,Crisp County,NA,NA,NA,0.04,0.24,NA
+2020-05-21,US,United States,Georgia,Dawson County,NA,NA,NA,0.06,0.14,-0.48
+2020-05-21,US,United States,Georgia,Decatur County,NA,NA,NA,-0.02,0.05,NA
+2020-05-21,US,United States,Georgia,Dooly County,0.15,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Douglas County,NA,NA,NA,-0.01,0.06,0.38
+2020-05-21,US,United States,Georgia,Effingham County,NA,NA,NA,0.03,-0.03,NA
+2020-05-21,US,United States,Georgia,Emanuel County,NA,NA,NA,-0.03,NA,NA
+2020-05-21,US,United States,Georgia,Fannin County,NA,NA,NA,0.1,0.11,1.12
+2020-05-21,US,United States,Georgia,Floyd County,NA,NA,NA,-0.02,0.09,0.15
+2020-05-21,US,United States,Georgia,Franklin County,NA,NA,NA,-0.02,0.06,-0.27
+2020-05-21,US,United States,Georgia,Gilmer County,NA,NA,NA,0,0.08,NA
+2020-05-21,US,United States,Georgia,Gordon County,NA,NA,NA,0.02,0.08,NA
+2020-05-21,US,United States,Georgia,Greene County,NA,NA,NA,NA,0.02,NA
+2020-05-21,US,United States,Georgia,Habersham County,NA,NA,NA,-0.07,0.02,NA
+2020-05-21,US,United States,Georgia,Hancock County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Harris County,NA,NA,NA,NA,NA,-0.5
+2020-05-21,US,United States,Georgia,Heard County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Houston County,NA,NA,NA,-0.07,-0.04,-0.04
+2020-05-21,US,United States,Georgia,Jackson County,NA,NA,NA,0.14,0.06,NA
+2020-05-21,US,United States,Georgia,Jeff Davis County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Jenkins County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Jones County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Lanier County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Lee County,NA,NA,NA,-0.04,NA,NA
+2020-05-21,US,United States,Georgia,Lincoln County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Lowndes County,NA,NA,NA,-0.05,0.06,-0.07
+2020-05-21,US,United States,Georgia,Macon County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Marion County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,McIntosh County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Miller County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Monroe County,NA,NA,NA,-0.1,NA,-0.48
+2020-05-21,US,United States,Georgia,Morgan County,NA,NA,NA,0.07,NA,NA
+2020-05-21,US,United States,Georgia,Muscogee County,NA,NA,NA,-0.06,0.07,0.25
+2020-05-21,US,United States,Georgia,Oconee County,NA,NA,NA,-0.02,-0.12,NA
+2020-05-21,US,United States,Georgia,Paulding County,NA,NA,NA,0.02,-0.01,0.56
+2020-05-21,US,United States,Georgia,Pickens County,NA,NA,NA,0.05,0.22,NA
+2020-05-21,US,United States,Georgia,Pike County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Pulaski County,NA,NA,NA,NA,0.09,NA
+2020-05-21,US,United States,Georgia,Rabun County,NA,NA,NA,0.2,0.17,-0.35
+2020-05-21,US,United States,Georgia,Richmond County,NA,NA,NA,-0.11,0.08,0.14
+2020-05-21,US,United States,Georgia,Schley County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Seminole County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Stephens County,NA,NA,NA,-0.01,0.12,NA
+2020-05-21,US,United States,Georgia,Talbot County,NA,NA,NA,NA,NA,0.2
+2020-05-21,US,United States,Georgia,Taylor County,NA,-0.16,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Terrell County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Tift County,NA,NA,NA,-0.03,0.08,NA
+2020-05-21,US,United States,Georgia,Towns County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Troup County,NA,NA,NA,0.03,0.14,NA
+2020-05-21,US,United States,Georgia,Twiggs County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Upson County,NA,NA,NA,0.01,0.05,NA
+2020-05-21,US,United States,Georgia,Walton County,NA,NA,NA,0.02,0.11,NA
+2020-05-21,US,United States,Georgia,Warren County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Georgia,Wayne County,NA,NA,NA,-0.08,0.04,NA
+2020-05-21,US,United States,Georgia,Whitfield County,NA,NA,NA,-0.08,0.11,-0.21
+2020-05-21,US,United States,Georgia,Wilkes County,NA,NA,NA,NA,0.02,NA
+2020-05-21,US,United States,Georgia,Worth County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Hawaii,Hawaii County,NA,NA,NA,-0.44,-0.25,-0.52
+2020-05-21,US,United States,Hawaii,Kauai County,NA,NA,NA,-0.58,-0.4,-0.72
+2020-05-21,US,United States,Idaho,Ada County,NA,NA,NA,-0.13,0.04,0.82
+2020-05-21,US,United States,Idaho,Bear Lake County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Bingham County,NA,NA,NA,0.04,0.18,NA
+2020-05-21,US,United States,Idaho,Boise County,NA,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Bonneville County,NA,NA,NA,0.05,0.21,0.85
+2020-05-21,US,United States,Idaho,Canyon County,NA,NA,NA,0.02,0.11,0.51
+2020-05-21,US,United States,Idaho,Cassia County,NA,NA,NA,0.22,NA,NA
+2020-05-21,US,United States,Idaho,Elmore County,NA,NA,NA,0,NA,NA
+2020-05-21,US,United States,Idaho,Fremont County,NA,NA,NA,NA,NA,-0.38
+2020-05-21,US,United States,Idaho,Gooding County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Jefferson County,NA,NA,NA,NA,-0.06,-0.62
+2020-05-21,US,United States,Idaho,Kootenai County,NA,NA,NA,0.08,0.17,1.79
+2020-05-21,US,United States,Idaho,Lemhi County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Madison County,NA,NA,NA,-0.19,0.15,NA
+2020-05-21,US,United States,Idaho,Nez Perce County,NA,NA,NA,0.03,0.09,NA
+2020-05-21,US,United States,Idaho,Owyhee County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Power County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Teton County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Idaho,Valley County,NA,NA,NA,NA,NA,0.61
+2020-05-21,US,United States,Illinois,Adams County,NA,NA,NA,-0.22,0.03,NA
+2020-05-21,US,United States,Illinois,Bond County,-0.02,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Bureau County,NA,NA,NA,-0.22,NA,NA
+2020-05-21,US,United States,Illinois,Cass County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Christian County,NA,NA,NA,-0.12,0.08,NA
+2020-05-21,US,United States,Illinois,Clay County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Coles County,NA,NA,NA,-0.15,0.05,NA
+2020-05-21,US,United States,Illinois,Crawford County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,De Witt County,NA,NA,NA,NA,-0.1,NA
+2020-05-21,US,United States,Illinois,Douglas County,NA,NA,NA,-0.14,NA,NA
+2020-05-21,US,United States,Illinois,Edgar County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Effingham County,NA,NA,NA,-0.16,0.18,NA
+2020-05-21,US,United States,Illinois,Ford County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Fulton County,NA,NA,NA,-0.11,0.01,NA
+2020-05-21,US,United States,Illinois,Greene County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Hamilton County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Henderson County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Iroquois County,-0.03,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Jasper County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Jersey County,NA,NA,NA,-0.17,NA,NA
+2020-05-21,US,United States,Illinois,Johnson County,NA,NA,NA,NA,NA,-0.62
+2020-05-21,US,United States,Illinois,Kankakee County,NA,NA,NA,-0.18,0.04,NA
+2020-05-21,US,United States,Illinois,Knox County,NA,NA,NA,-0.16,0.02,NA
+2020-05-21,US,United States,Illinois,Lake County,NA,NA,NA,-0.3,0.01,0.71
+2020-05-21,US,United States,Illinois,Lee County,NA,NA,NA,-0.21,0.26,NA
+2020-05-21,US,United States,Illinois,Logan County,NA,NA,NA,-0.18,0.18,-0.31
+2020-05-21,US,United States,Illinois,Macoupin County,NA,NA,NA,-0.28,-0.05,NA
+2020-05-21,US,United States,Illinois,Marion County,NA,NA,NA,-0.22,0.07,NA
+2020-05-21,US,United States,Illinois,Mason County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,McDonough County,NA,NA,NA,-0.26,-0.19,NA
+2020-05-21,US,United States,Illinois,McLean County,NA,NA,NA,-0.31,-0.01,0.35
+2020-05-21,US,United States,Illinois,Mercer County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Montgomery County,NA,NA,NA,-0.14,0.22,NA
+2020-05-21,US,United States,Illinois,Moultrie County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Peoria County,NA,NA,NA,-0.27,0.09,0.49
+2020-05-21,US,United States,Illinois,Piatt County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Pulaski County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Randolph County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Illinois,Rock Island County,NA,NA,NA,-0.36,0.09,-0.16
+2020-05-21,US,United States,Illinois,Sangamon County,NA,NA,NA,-0.27,0.08,0.54
+2020-05-21,US,United States,Illinois,Scott County,NA,-0.45,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,St. Clair County,NA,NA,NA,-0.22,0.06,0.62
+2020-05-21,US,United States,Illinois,Stephenson County,NA,NA,NA,-0.24,0,NA
+2020-05-21,US,United States,Illinois,Union County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Wabash County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Washington County,NA,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,White County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Illinois,Will County,NA,NA,NA,-0.24,0.05,0.68
+2020-05-21,US,United States,Illinois,Winnebago County,NA,NA,NA,-0.22,0.03,1.38
+2020-05-21,US,United States,Indiana,Adams County,NA,NA,NA,0,0.03,NA
+2020-05-21,US,United States,Indiana,Bartholomew County,NA,NA,NA,-0.08,0.06,0.15
+2020-05-21,US,United States,Indiana,Blackford County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Brown County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Cass County,NA,NA,NA,-0.18,0.08,NA
+2020-05-21,US,United States,Indiana,Clay County,NA,NA,NA,0.01,0.21,NA
+2020-05-21,US,United States,Indiana,Crawford County,-0.11,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,DeKalb County,NA,NA,NA,-0.05,0.07,NA
+2020-05-21,US,United States,Indiana,Decatur County,NA,NA,NA,-0.14,0.14,NA
+2020-05-21,US,United States,Indiana,Dubois County,NA,NA,NA,-0.12,0.03,NA
+2020-05-21,US,United States,Indiana,Fayette County,NA,NA,NA,0.15,0.12,NA
+2020-05-21,US,United States,Indiana,Fountain County,NA,NA,NA,NA,0.07,NA
+2020-05-21,US,United States,Indiana,Fulton County,NA,NA,NA,0.15,NA,NA
+2020-05-21,US,United States,Indiana,Grant County,NA,NA,NA,-0.01,0.11,NA
+2020-05-21,US,United States,Indiana,Hamilton County,NA,NA,NA,-0.15,0,0.71
+2020-05-21,US,United States,Indiana,Harrison County,NA,NA,NA,-0.06,0.16,NA
+2020-05-21,US,United States,Indiana,Henry County,NA,NA,NA,-0.02,0.04,NA
+2020-05-21,US,United States,Indiana,Huntington County,NA,NA,NA,-0.02,0.09,NA
+2020-05-21,US,United States,Indiana,Jasper County,NA,NA,NA,0.04,0.11,NA
+2020-05-21,US,United States,Indiana,Jefferson County,NA,NA,NA,-0.06,0.09,NA
+2020-05-21,US,United States,Indiana,Johnson County,NA,NA,NA,-0.02,0.16,0.27
+2020-05-21,US,United States,Indiana,Kosciusko County,NA,NA,NA,0.08,0.1,NA
+2020-05-21,US,United States,Indiana,LaPorte County,NA,NA,NA,0.08,0.13,0.44
+2020-05-21,US,United States,Indiana,Lawrence County,NA,NA,NA,-0.04,0.07,NA
+2020-05-21,US,United States,Indiana,Marion County,NA,NA,NA,-0.24,-0.02,0.02
+2020-05-21,US,United States,Indiana,Martin County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Monroe County,NA,NA,NA,-0.29,-0.08,0.48
+2020-05-21,US,United States,Indiana,Morgan County,NA,NA,NA,0.02,0.09,NA
+2020-05-21,US,United States,Indiana,Noble County,NA,NA,NA,0.04,0.12,NA
+2020-05-21,US,United States,Indiana,Orange County,NA,NA,NA,-0.23,NA,-0.53
+2020-05-21,US,United States,Indiana,Parke County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Pike County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Posey County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Putnam County,NA,NA,NA,-0.06,-0.06,NA
+2020-05-21,US,United States,Indiana,Ripley County,NA,NA,NA,-0.12,0.11,NA
+2020-05-21,US,United States,Indiana,Scott County,NA,NA,NA,0.03,0.05,NA
+2020-05-21,US,United States,Indiana,Spencer County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Starke County,NA,NA,NA,NA,0.22,NA
+2020-05-21,US,United States,Indiana,Sullivan County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Tippecanoe County,NA,NA,NA,-0.19,0.02,0.4
+2020-05-21,US,United States,Indiana,Union County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Vermillion County,0.11,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Indiana,Wabash County,NA,NA,NA,-0.06,0.02,NA
+2020-05-21,US,United States,Indiana,Warrick County,NA,NA,NA,0.01,0.14,NA
+2020-05-21,US,United States,Indiana,Wayne County,NA,NA,NA,-0.02,0.03,NA
+2020-05-21,US,United States,Indiana,White County,NA,NA,NA,0.09,NA,NA
+2020-05-21,US,United States,Iowa,Adair County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Appanoose County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Benton County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Boone County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Iowa,Buchanan County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Butler County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Carroll County,NA,NA,NA,-0.08,NA,NA
+2020-05-21,US,United States,Iowa,Cedar County,-0.01,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Cherokee County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Clarke County,-0.04,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Clayton County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Crawford County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Davis County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Delaware County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Dickinson County,NA,NA,NA,0.42,NA,0.44
+2020-05-21,US,United States,Iowa,Emmet County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Floyd County,0.11,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Fremont County,0.3,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Grundy County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Hamilton County,0.15,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Hardin County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Henry County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Iowa,Humboldt County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Iowa County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Jasper County,NA,NA,NA,-0.18,0.31,NA
+2020-05-21,US,United States,Iowa,Johnson County,NA,NA,NA,-0.26,-0.12,0.22
+2020-05-21,US,United States,Iowa,Keokuk County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Lee County,NA,NA,NA,-0.03,0.15,NA
+2020-05-21,US,United States,Iowa,Louisa County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Lyon County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Mahaska County,NA,NA,NA,-0.17,NA,NA
+2020-05-21,US,United States,Iowa,Marshall County,NA,NA,NA,-0.16,0.23,NA
+2020-05-21,US,United States,Iowa,Mitchell County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Monroe County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Muscatine County,NA,NA,NA,-0.13,0.41,NA
+2020-05-21,US,United States,Iowa,Osceola County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Palo Alto County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Pocahontas County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Pottawattamie County,NA,NA,NA,-0.14,0.14,0.58
+2020-05-21,US,United States,Iowa,Sac County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Shelby County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Story County,NA,NA,NA,-0.26,-0.04,-0.58
+2020-05-21,US,United States,Iowa,Taylor County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Van Buren County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Warren County,NA,NA,NA,-0.11,0.15,NA
+2020-05-21,US,United States,Iowa,Wayne County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Winnebago County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Iowa,Woodbury County,NA,NA,NA,-0.11,0.07,-0.12
+2020-05-21,US,United States,Iowa,Wright County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Allen County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Atchison County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Bourbon County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Butler County,NA,NA,NA,0.02,0.04,NA
+2020-05-21,US,United States,Kansas,Clay County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Coffey County,0.11,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Crawford County,NA,NA,NA,0.02,0.04,NA
+2020-05-21,US,United States,Kansas,Doniphan County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Ellis County,NA,NA,NA,-0.02,NA,NA
+2020-05-21,US,United States,Kansas,Finney County,NA,NA,NA,-0.05,-0.06,NA
+2020-05-21,US,United States,Kansas,Franklin County,NA,NA,NA,-0.01,-0.02,NA
+2020-05-21,US,United States,Kansas,Grant County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Harper County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Jackson County,NA,-0.38,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Johnson County,NA,NA,NA,-0.23,-0.12,1.59
+2020-05-21,US,United States,Kansas,Labette County,NA,NA,NA,-0.13,-0.02,NA
+2020-05-21,US,United States,Kansas,Linn County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Marion County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,McPherson County,NA,NA,NA,-0.12,NA,NA
+2020-05-21,US,United States,Kansas,Mitchell County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Morris County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Neosho County,NA,NA,NA,-0.03,NA,NA
+2020-05-21,US,United States,Kansas,Ottawa County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Pottawatomie County,NA,NA,NA,0.01,-0.11,NA
+2020-05-21,US,United States,Kansas,Reno County,NA,NA,NA,0.01,0.14,NA
+2020-05-21,US,United States,Kansas,Riley County,NA,NA,NA,-0.2,0.01,NA
+2020-05-21,US,United States,Kansas,Saline County,NA,NA,NA,-0.02,0.02,-0.51
+2020-05-21,US,United States,Kansas,Sedgwick County,NA,NA,NA,-0.08,-0.01,0.4
+2020-05-21,US,United States,Kansas,Shawnee County,NA,NA,NA,-0.06,0.08,0.9
+2020-05-21,US,United States,Kansas,Stevens County,NA,-0.39,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Thomas County,0.12,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Washington County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Kansas,Wyandotte County,NA,NA,NA,-0.12,-0.06,0.81
+2020-05-21,US,United States,Kentucky,Adair County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,anderson County,NA,NA,NA,0.08,NA,NA
+2020-05-21,US,United States,Kentucky,Barren County,NA,NA,NA,-0.09,0.18,NA
+2020-05-21,US,United States,Kentucky,Bell County,NA,NA,NA,-0.11,0.21,NA
+2020-05-21,US,United States,Kentucky,Bourbon County,NA,NA,NA,-0.16,NA,NA
+2020-05-21,US,United States,Kentucky,Boyle County,NA,NA,NA,-0.1,0.29,NA
+2020-05-21,US,United States,Kentucky,Breathitt County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Bullitt County,NA,NA,NA,-0.07,0.09,NA
+2020-05-21,US,United States,Kentucky,Caldwell County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Campbell County,NA,NA,NA,-0.27,0.04,-0.4
+2020-05-21,US,United States,Kentucky,Carroll County,NA,NA,NA,-0.11,NA,NA
+2020-05-21,US,United States,Kentucky,Casey County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Clark County,NA,NA,NA,-0.2,0.12,NA
+2020-05-21,US,United States,Kentucky,Clinton County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Daviess County,NA,NA,NA,-0.17,0.08,0.3
+2020-05-21,US,United States,Kentucky,Estill County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Fleming County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Franklin County,NA,NA,NA,-0.09,-0.15,NA
+2020-05-21,US,United States,Kentucky,Gallatin County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Grant County,NA,NA,NA,-0.11,NA,NA
+2020-05-21,US,United States,Kentucky,Grayson County,NA,NA,NA,0.02,0.24,NA
+2020-05-21,US,United States,Kentucky,Greenup County,NA,NA,NA,-0.08,0.06,NA
+2020-05-21,US,United States,Kentucky,Hardin County,NA,NA,NA,-0.17,0.01,-0.43
+2020-05-21,US,United States,Kentucky,Harrison County,NA,NA,NA,NA,-0.23,NA
+2020-05-21,US,United States,Kentucky,Henderson County,NA,NA,NA,-0.16,0.54,NA
+2020-05-21,US,United States,Kentucky,Hopkins County,NA,NA,NA,-0.07,0.04,NA
+2020-05-21,US,United States,Kentucky,Jefferson County,NA,NA,NA,-0.22,0.1,0.76
+2020-05-21,US,United States,Kentucky,Johnson County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Knott County,NA,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Larue County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Lawrence County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Lewis County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Livingston County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Lyon County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Marion County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Mason County,NA,NA,NA,-0.05,NA,NA
+2020-05-21,US,United States,Kentucky,McCreary County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Meade County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Kentucky,Mercer County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Monroe County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Morgan County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Nelson County,NA,NA,NA,-0.15,0.03,NA
+2020-05-21,US,United States,Kentucky,Ohio County,NA,NA,NA,-0.16,NA,NA
+2020-05-21,US,United States,Kentucky,Owen County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Perry County,NA,NA,NA,-0.1,-0.01,NA
+2020-05-21,US,United States,Kentucky,Powell County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Rockcastle County,NA,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Russell County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Shelby County,NA,NA,NA,-0.21,0.1,NA
+2020-05-21,US,United States,Kentucky,Spencer County,NA,-0.39,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Todd County,NA,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Trimble County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Kentucky,Warren County,NA,NA,NA,-0.18,0.07,-0.09
+2020-05-21,US,United States,Kentucky,Wayne County,NA,NA,NA,NA,-0.14,NA
+2020-05-21,US,United States,Kentucky,Whitley County,NA,NA,NA,-0.12,0.16,NA
+2020-05-21,US,United States,Kentucky,Woodford County,NA,NA,NA,-0.13,0.04,NA
+2020-05-21,US,United States,Louisiana,Acadia Parish,NA,NA,NA,0.05,0.37,NA
+2020-05-21,US,United States,Louisiana,Ascension Parish,NA,NA,NA,-0.06,0.05,-0.58
+2020-05-21,US,United States,Louisiana,Avoyelles Parish,NA,NA,NA,-0.06,0.18,NA
+2020-05-21,US,United States,Louisiana,Bienville Parish,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,Caddo Parish,NA,NA,NA,-0.05,0.08,0.39
+2020-05-21,US,United States,Louisiana,Caldwell Parish,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,Catahoula Parish,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,Concordia Parish,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,East Baton Rouge Parish,NA,NA,NA,-0.16,0.02,0.06
+2020-05-21,US,United States,Louisiana,Evangeline Parish,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,Grant Parish,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,Iberville Parish,NA,NA,NA,NA,0.11,NA
+2020-05-21,US,United States,Louisiana,Jefferson Davis Parish,NA,NA,NA,-0.01,0.06,NA
+2020-05-21,US,United States,Louisiana,La Salle Parish,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,Lafourche Parish,NA,NA,NA,-0.04,0.1,-0.31
+2020-05-21,US,United States,Louisiana,Livingston Parish,NA,NA,NA,0.07,0.17,-0.22
+2020-05-21,US,United States,Louisiana,Morehouse Parish,NA,NA,NA,NA,0.12,NA
+2020-05-21,US,United States,Louisiana,Orleans Parish,NA,NA,NA,-0.45,-0.11,-0.33
+2020-05-21,US,United States,Louisiana,Plaquemines Parish,NA,NA,NA,NA,NA,-0.33
+2020-05-21,US,United States,Louisiana,Rapides Parish,NA,NA,NA,-0.01,0.17,-0.38
+2020-05-21,US,United States,Louisiana,Richland Parish,0.03,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,St. Bernard Parish,NA,NA,NA,-0.03,0.1,-0.1
+2020-05-21,US,United States,Louisiana,St. Helena Parish,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Louisiana,St. John the Baptist Parish,NA,NA,NA,-0.13,0,-0.41
+2020-05-21,US,United States,Louisiana,St. Martin Parish,NA,NA,NA,-0.03,0.15,-0.01
+2020-05-21,US,United States,Louisiana,St. Tammany Parish,NA,NA,NA,-0.07,0.13,0.19
+2020-05-21,US,United States,Louisiana,Terrebonne Parish,NA,NA,NA,-0.08,0.11,0.32
+2020-05-21,US,United States,Louisiana,Vermilion Parish,NA,NA,NA,0.06,0.13,NA
+2020-05-21,US,United States,Louisiana,Washington Parish,NA,NA,NA,-0.04,0.14,NA
+2020-05-21,US,United States,Louisiana,West Baton Rouge Parish,NA,NA,NA,-0.07,0.07,NA
+2020-05-21,US,United States,Louisiana,West Feliciana Parish,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Maine,androscoggin County,NA,NA,NA,-0.12,0.16,-0.31
+2020-05-21,US,United States,Maine,Cumberland County,NA,NA,NA,-0.27,-0.03,1.36
+2020-05-21,US,United States,Maine,Hancock County,NA,NA,NA,0.04,0.16,-0.27
+2020-05-21,US,United States,Maine,Knox County,NA,NA,NA,-0.04,NA,NA
+2020-05-21,US,United States,Maine,Oxford County,NA,NA,NA,0,0.12,0.26
+2020-05-21,US,United States,Maine,Piscataquis County,NA,NA,NA,NA,0.26,NA
+2020-05-21,US,United States,Maine,Somerset County,NA,NA,NA,0.06,0.19,-0.22
+2020-05-21,US,United States,Maine,Washington County,NA,NA,NA,0.02,0.01,NA
+2020-05-21,US,United States,Maryland,Allegany County,NA,NA,NA,-0.15,0.01,-0.03
+2020-05-21,US,United States,Maryland,Baltimore,NA,NA,NA,-0.31,-0.13,0.26
+2020-05-21,US,United States,Maryland,Calvert County,NA,NA,NA,-0.17,0.11,0.7
+2020-05-21,US,United States,Maryland,Carroll County,NA,NA,NA,-0.15,-0.17,0.75
+2020-05-21,US,United States,Maryland,Charles County,NA,NA,NA,-0.19,-0.01,-0.45
+2020-05-21,US,United States,Maryland,Frederick County,NA,NA,NA,-0.27,-0.09,0.77
+2020-05-21,US,United States,Maryland,Harford County,NA,NA,NA,-0.19,-0.06,0.99
+2020-05-21,US,United States,Maryland,Kent County,NA,NA,NA,-0.2,NA,NA
+2020-05-21,US,United States,Maryland,Prince George's County,NA,NA,NA,-0.23,-0.08,0.64
+2020-05-21,US,United States,Maryland,Somerset County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Maryland,Talbot County,NA,NA,NA,-0.08,0.01,NA
+2020-05-21,US,United States,Maryland,Wicomico County,NA,NA,NA,-0.19,0.01,NA
+2020-05-21,US,United States,Massachusetts,Barnstable County,NA,NA,NA,-0.14,0.04,1.78
+2020-05-21,US,United States,Massachusetts,Bristol County,NA,NA,NA,-0.17,0.03,0.89
+2020-05-21,US,United States,Massachusetts,Essex County,NA,NA,NA,-0.24,-0.1,1.53
+2020-05-21,US,United States,Massachusetts,Hampden County,NA,NA,NA,-0.19,0.01,1
+2020-05-21,US,United States,Massachusetts,Middlesex County,NA,NA,NA,-0.4,-0.14,0.47
+2020-05-21,US,United States,Massachusetts,Norfolk County,NA,NA,NA,-0.31,-0.07,1.15
+2020-05-21,US,United States,Massachusetts,Suffolk County,NA,NA,NA,-0.54,-0.18,0.24
+2020-05-21,US,United States,Michigan,Alcona County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Allegan County,NA,NA,NA,0,0.17,NA
+2020-05-21,US,United States,Michigan,Antrim County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Baraga County,NA,-0.45,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Bay County,NA,NA,NA,-0.1,0.09,NA
+2020-05-21,US,United States,Michigan,Berrien County,NA,NA,NA,-0.12,0.11,0.61
+2020-05-21,US,United States,Michigan,Calhoun County,NA,NA,NA,-0.19,0.13,0.68
+2020-05-21,US,United States,Michigan,Charlevoix County,NA,NA,NA,NA,0.06,0.13
+2020-05-21,US,United States,Michigan,Chippewa County,NA,NA,NA,-0.25,0.21,-0.31
+2020-05-21,US,United States,Michigan,Clinton County,NA,NA,NA,-0.12,0.04,NA
+2020-05-21,US,United States,Michigan,Delta County,NA,NA,NA,-0.02,0.23,NA
+2020-05-21,US,United States,Michigan,Eaton County,NA,NA,NA,-0.17,0.06,NA
+2020-05-21,US,United States,Michigan,Genesee County,NA,NA,NA,-0.09,0,1.72
+2020-05-21,US,United States,Michigan,Gogebic County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Gratiot County,NA,NA,NA,-0.04,0.18,NA
+2020-05-21,US,United States,Michigan,Houghton County,NA,NA,NA,-0.29,0.03,0.14
+2020-05-21,US,United States,Michigan,Ingham County,NA,NA,NA,-0.37,-0.05,1.23
+2020-05-21,US,United States,Michigan,Iosco County,NA,NA,NA,0.11,0.47,NA
+2020-05-21,US,United States,Michigan,Isabella County,NA,NA,NA,-0.15,0.17,NA
+2020-05-21,US,United States,Michigan,Kalamazoo County,NA,NA,NA,-0.26,-0.02,1.45
+2020-05-21,US,United States,Michigan,Kent County,NA,NA,NA,-0.28,-0.03,1.72
+2020-05-21,US,United States,Michigan,Lapeer County,NA,NA,NA,-0.07,0.06,0.37
+2020-05-21,US,United States,Michigan,Lenawee County,NA,NA,NA,-0.2,0.05,NA
+2020-05-21,US,United States,Michigan,Mackinac County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Manistee County,NA,-0.37,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Mason County,NA,NA,NA,0.18,0.49,NA
+2020-05-21,US,United States,Michigan,Menominee County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Missaukee County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Montcalm County,NA,NA,NA,0.18,0.27,NA
+2020-05-21,US,United States,Michigan,Muskegon County,NA,NA,NA,-0.07,0.13,0.58
+2020-05-21,US,United States,Michigan,Oakland County,NA,NA,NA,-0.34,-0.09,1.35
+2020-05-21,US,United States,Michigan,Ogemaw County,NA,NA,NA,0.38,0.52,NA
+2020-05-21,US,United States,Michigan,Osceola County,NA,NA,NA,NA,0.25,NA
+2020-05-21,US,United States,Michigan,Otsego County,NA,NA,NA,0.04,0.35,NA
+2020-05-21,US,United States,Michigan,Presque Isle County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Michigan,Saginaw County,NA,NA,NA,-0.2,0.01,-0.22
+2020-05-21,US,United States,Michigan,Schoolcraft County,NA,NA,NA,NA,NA,-0.23
+2020-05-21,US,United States,Michigan,St. Clair County,NA,NA,NA,-0.09,0,1.36
+2020-05-21,US,United States,Michigan,Tuscola County,NA,NA,NA,-0.13,0.13,NA
+2020-05-21,US,United States,Michigan,Washtenaw County,NA,NA,NA,-0.44,-0.2,1.22
+2020-05-21,US,United States,Michigan,Wexford County,NA,NA,NA,0.14,0.43,NA
+2020-05-21,US,United States,Minnesota,Aitkin County,NA,NA,NA,NA,NA,0.31
+2020-05-21,US,United States,Minnesota,Becker County,NA,NA,NA,0.01,0.27,NA
+2020-05-21,US,United States,Minnesota,Benton County,NA,NA,NA,-0.06,0.07,NA
+2020-05-21,US,United States,Minnesota,Blue Earth County,NA,NA,NA,-0.25,0.03,-0.09
+2020-05-21,US,United States,Minnesota,Carlton County,NA,NA,NA,0.18,0.16,NA
+2020-05-21,US,United States,Minnesota,Cass County,NA,NA,NA,NA,NA,-0.11
+2020-05-21,US,United States,Minnesota,Chisago County,NA,NA,NA,-0.08,0.44,-0.16
+2020-05-21,US,United States,Minnesota,Clearwater County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Cottonwood County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Dakota County,NA,NA,NA,-0.18,0.05,1.33
+2020-05-21,US,United States,Minnesota,Douglas County,NA,NA,NA,-0.06,0.25,NA
+2020-05-21,US,United States,Minnesota,Fillmore County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Goodhue County,NA,NA,NA,-0.08,0.03,-0.57
+2020-05-21,US,United States,Minnesota,Hennepin County,NA,NA,NA,-0.36,-0.07,0.91
+2020-05-21,US,United States,Minnesota,Hubbard County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Itasca County,NA,NA,NA,0.03,0.31,NA
+2020-05-21,US,United States,Minnesota,Kanabec County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Koochiching County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Lake County,NA,NA,NA,NA,NA,0.27
+2020-05-21,US,United States,Minnesota,Lincoln County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Mahnomen County,NA,-0.55,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Martin County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Minnesota,Meeker County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Morrison County,NA,NA,NA,-0.03,NA,NA
+2020-05-21,US,United States,Minnesota,Murray County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Nobles County,NA,NA,NA,-0.39,NA,NA
+2020-05-21,US,United States,Minnesota,Olmsted County,NA,NA,NA,-0.27,0.17,1.32
+2020-05-21,US,United States,Minnesota,Pennington County,NA,NA,NA,-0.26,NA,NA
+2020-05-21,US,United States,Minnesota,Pipestone County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Pope County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Red Lake County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Renville County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Rock County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Scott County,NA,NA,NA,-0.29,0.07,1.31
+2020-05-21,US,United States,Minnesota,Sibley County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Stearns County,NA,NA,NA,-0.21,0.04,0.49
+2020-05-21,US,United States,Minnesota,Stevens County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Todd County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Wadena County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Washington County,NA,NA,NA,-0.16,0.07,1.9
+2020-05-21,US,United States,Minnesota,Wilkin County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Minnesota,Wright County,NA,NA,NA,-0.09,0.2,-0.25
+2020-05-21,US,United States,Mississippi,Adams County,NA,NA,NA,-0.02,0.03,NA
+2020-05-21,US,United States,Mississippi,Amite County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Benton County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Calhoun County,NA,-0.16,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Chickasaw County,NA,-0.15,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Clarke County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Coahoma County,NA,NA,NA,-0.07,NA,NA
+2020-05-21,US,United States,Mississippi,Covington County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Forrest County,NA,NA,NA,-0.12,0.07,-0.57
+2020-05-21,US,United States,Mississippi,Greene County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Hancock County,NA,NA,NA,0.13,0.18,NA
+2020-05-21,US,United States,Mississippi,Hinds County,NA,NA,NA,-0.08,0.05,0.18
+2020-05-21,US,United States,Mississippi,Humphreys County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Jackson County,NA,NA,NA,0,0.02,0.27
+2020-05-21,US,United States,Mississippi,Jefferson County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Jones County,NA,NA,NA,-0.01,0.08,NA
+2020-05-21,US,United States,Mississippi,Lafayette County,NA,NA,NA,-0.2,-0.02,NA
+2020-05-21,US,United States,Mississippi,Lauderdale County,NA,NA,NA,-0.04,0.06,0.15
+2020-05-21,US,United States,Mississippi,Leake County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Leflore County,NA,NA,NA,-0.04,NA,NA
+2020-05-21,US,United States,Mississippi,Lowndes County,NA,NA,NA,-0.07,0.24,NA
+2020-05-21,US,United States,Mississippi,Marion County,NA,NA,NA,-0.02,0.12,NA
+2020-05-21,US,United States,Mississippi,Monroe County,NA,NA,NA,0.09,0.3,NA
+2020-05-21,US,United States,Mississippi,Neshoba County,NA,NA,NA,-0.03,0.04,NA
+2020-05-21,US,United States,Mississippi,Noxubee County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Panola County,NA,NA,NA,0.11,0.02,NA
+2020-05-21,US,United States,Mississippi,Perry County,NA,NA,NA,NA,NA,-0.25
+2020-05-21,US,United States,Mississippi,Pontotoc County,NA,NA,NA,0.06,0.07,NA
+2020-05-21,US,United States,Mississippi,Quitman County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Scott County,NA,NA,NA,-0.14,-0.01,NA
+2020-05-21,US,United States,Mississippi,Smith County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Sunflower County,NA,NA,NA,NA,-0.03,NA
+2020-05-21,US,United States,Mississippi,Tate County,NA,NA,NA,-0.02,0.07,NA
+2020-05-21,US,United States,Mississippi,Tishomingo County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Union County,NA,NA,NA,0.02,NA,NA
+2020-05-21,US,United States,Mississippi,Warren County,NA,NA,NA,-0.01,0.1,-0.12
+2020-05-21,US,United States,Mississippi,Wayne County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Wilkinson County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Mississippi,Yalobusha County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Adair County,NA,NA,NA,-0.25,NA,NA
+2020-05-21,US,United States,Missouri,Audrain County,NA,NA,NA,0.09,0.06,NA
+2020-05-21,US,United States,Missouri,Barton County,NA,-0.15,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Benton County,NA,NA,NA,0.2,NA,NA
+2020-05-21,US,United States,Missouri,Boone County,NA,NA,NA,-0.2,0.07,0.76
+2020-05-21,US,United States,Missouri,Butler County,NA,NA,NA,0.15,0.26,NA
+2020-05-21,US,United States,Missouri,Callaway County,NA,NA,NA,-0.03,0.16,NA
+2020-05-21,US,United States,Missouri,Cape Girardeau County,NA,NA,NA,0.09,0.28,0.36
+2020-05-21,US,United States,Missouri,Cass County,NA,NA,NA,0.06,0.08,-0.02
+2020-05-21,US,United States,Missouri,Chariton County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Clark County,-0.56,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Clinton County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Cooper County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Missouri,Dade County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Daviess County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Dent County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Dunklin County,NA,NA,NA,0.16,0.02,NA
+2020-05-21,US,United States,Missouri,Gasconade County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Greene County,NA,NA,NA,-0.02,0.06,0.69
+2020-05-21,US,United States,Missouri,Harrison County,0.04,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Hickory County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Howell County,NA,NA,NA,0.08,0.25,NA
+2020-05-21,US,United States,Missouri,Jackson County,NA,NA,NA,-0.16,0,0.26
+2020-05-21,US,United States,Missouri,Jefferson County,NA,NA,NA,0.05,0.13,0.74
+2020-05-21,US,United States,Missouri,Laclede County,NA,NA,NA,0.2,0.24,NA
+2020-05-21,US,United States,Missouri,Lawrence County,NA,NA,NA,0.19,NA,NA
+2020-05-21,US,United States,Missouri,Lincoln County,NA,NA,NA,-0.01,0.19,NA
+2020-05-21,US,United States,Missouri,Livingston County,NA,NA,NA,-0.04,NA,NA
+2020-05-21,US,United States,Missouri,Madison County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Marion County,NA,NA,NA,0.23,0.09,NA
+2020-05-21,US,United States,Missouri,Miller County,NA,NA,NA,0.44,NA,NA
+2020-05-21,US,United States,Missouri,Moniteau County,NA,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Montgomery County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,New Madrid County,NA,NA,NA,0.1,NA,NA
+2020-05-21,US,United States,Missouri,Nodaway County,NA,NA,NA,-0.06,NA,NA
+2020-05-21,US,United States,Missouri,Osage County,NA,-0.35,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Pemiscot County,-0.05,-0.13,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Pettis County,NA,NA,NA,0.03,0.1,NA
+2020-05-21,US,United States,Missouri,Pike County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Polk County,NA,NA,NA,0.07,0.23,-0.47
+2020-05-21,US,United States,Missouri,Putnam County,NA,-0.35,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Randolph County,NA,NA,NA,0.09,0.24,NA
+2020-05-21,US,United States,Missouri,Ripley County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Schuyler County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Shannon County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,St. Charles County,NA,NA,NA,-0.09,0.01,0.78
+2020-05-21,US,United States,Missouri,St. Francois County,NA,NA,NA,0.15,0.33,NA
+2020-05-21,US,United States,Missouri,St. Louis County,NA,NA,NA,-0.21,0.02,0.76
+2020-05-21,US,United States,Missouri,Stoddard County,NA,NA,NA,0.01,0.32,NA
+2020-05-21,US,United States,Missouri,Sullivan County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Texas County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Warren County,NA,NA,NA,0.14,0.16,NA
+2020-05-21,US,United States,Missouri,Wayne County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Missouri,Wright County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Beaverhead County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Blaine County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Carbon County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Custer County,NA,NA,NA,-0.08,NA,NA
+2020-05-21,US,United States,Montana,Deer Lodge County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Flathead County,NA,NA,NA,-0.04,0.23,0.11
+2020-05-21,US,United States,Montana,Glacier County,NA,-0.38,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Jefferson County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Lewis and Clark County,NA,NA,NA,0.05,0.13,0.32
+2020-05-21,US,United States,Montana,Madison County,NA,NA,NA,NA,NA,-0.36
+2020-05-21,US,United States,Montana,Missoula County,NA,NA,NA,-0.16,0.19,0.69
+2020-05-21,US,United States,Montana,Powell County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Richland County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Rosebud County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Silver Bow County,NA,NA,NA,0.09,NA,NA
+2020-05-21,US,United States,Montana,Teton County,NA,-0.35,NA,NA,NA,NA
+2020-05-21,US,United States,Montana,Yellowstone County,NA,NA,NA,0.08,0.21,1.54
+2020-05-21,US,United States,Nebraska,Adams County,NA,NA,NA,-0.15,0.02,NA
+2020-05-21,US,United States,Nebraska,Box Butte County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Burt County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Cass County,NA,NA,NA,-0.27,NA,NA
+2020-05-21,US,United States,Nebraska,Cherry County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Clay County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Cuming County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Dakota County,NA,NA,NA,-0.19,NA,NA
+2020-05-21,US,United States,Nebraska,Dawson County,NA,NA,NA,-0.17,NA,NA
+2020-05-21,US,United States,Nebraska,Dixon County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Douglas County,NA,NA,NA,-0.18,0.04,0.55
+2020-05-21,US,United States,Nebraska,Furnas County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Hall County,NA,NA,NA,-0.23,-0.11,NA
+2020-05-21,US,United States,Nebraska,Holt County,NA,-0.09,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Jefferson County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Kearney County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Kimball County,NA,-0.35,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Lancaster County,NA,NA,NA,-0.12,0,1.06
+2020-05-21,US,United States,Nebraska,Madison County,NA,NA,NA,-0.1,0.07,NA
+2020-05-21,US,United States,Nebraska,Morrill County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Otoe County,-0.17,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Pierce County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Polk County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Richardson County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Sarpy County,NA,NA,NA,-0.1,0.02,0.69
+2020-05-21,US,United States,Nebraska,Scotts Bluff County,NA,NA,NA,0.1,0.12,NA
+2020-05-21,US,United States,Nebraska,Stanton County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Thurston County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Nebraska,Wayne County,NA,-0.38,NA,NA,NA,NA
+2020-05-21,US,United States,Nevada,Carson City,NA,NA,NA,-0.04,0.05,0.65
+2020-05-21,US,United States,Nevada,Clark County,NA,NA,NA,-0.27,-0.07,-0.3
+2020-05-21,US,United States,Nevada,Elko County,NA,NA,NA,-0.05,0.37,NA
+2020-05-21,US,United States,Nevada,Lander County,NA,-0.37,NA,NA,NA,NA
+2020-05-21,US,United States,Nevada,Mineral County,-0.05,NA,NA,NA,NA,NA
+2020-05-21,US,United States,Nevada,Pershing County,0.5,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Nevada,Washoe County,NA,NA,NA,-0.16,0.07,0.6
+2020-05-21,US,United States,New Hampshire,Belknap County,NA,NA,NA,0.15,0.26,0.05
+2020-05-21,US,United States,New Hampshire,Cheshire County,NA,NA,NA,-0.01,0.04,NA
+2020-05-21,US,United States,New Hampshire,Grafton County,NA,NA,NA,-0.12,0.07,1.06
+2020-05-21,US,United States,New Hampshire,Merrimack County,NA,NA,NA,-0.11,0.01,0.85
+2020-05-21,US,United States,New Hampshire,Strafford County,NA,NA,NA,0.02,0,0.24
+2020-05-21,US,United States,New Jersey,Atlantic County,NA,NA,NA,-0.4,0.01,1.43
+2020-05-21,US,United States,New Jersey,Burlington County,NA,NA,NA,-0.43,-0.01,1.12
+2020-05-21,US,United States,New Jersey,Cape May County,NA,NA,NA,0.09,0.35,1.12
+2020-05-21,US,United States,New Jersey,Essex County,NA,NA,NA,-0.43,-0.1,0.66
+2020-05-21,US,United States,New Jersey,Hudson County,NA,NA,NA,-0.37,-0.06,0.36
+2020-05-21,US,United States,New Jersey,Mercer County,NA,NA,NA,-0.46,-0.09,0.37
+2020-05-21,US,United States,New Jersey,Monmouth County,NA,NA,NA,-0.42,-0.01,1.76
+2020-05-21,US,United States,New Jersey,Ocean County,NA,NA,NA,-0.33,0.02,0.89
+2020-05-21,US,United States,New Jersey,Salem County,NA,NA,NA,-0.28,0.03,0.42
+2020-05-21,US,United States,New Jersey,Sussex County,NA,NA,NA,-0.17,0.01,1.32
+2020-05-21,US,United States,New Jersey,Warren County,NA,NA,NA,-0.16,-0.06,0.08
+2020-05-21,US,United States,New Mexico,Bernalillo County,NA,NA,NA,-0.2,0.03,0.5
+2020-05-21,US,United States,New Mexico,Cibola County,NA,NA,NA,-0.17,0.49,NA
+2020-05-21,US,United States,New Mexico,Curry County,NA,NA,NA,-0.09,0.05,0.17
+2020-05-21,US,United States,New Mexico,Eddy County,NA,NA,NA,-0.23,-0.01,0.16
+2020-05-21,US,United States,New Mexico,Guadalupe County,0.05,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,New Mexico,Lea County,NA,NA,NA,-0.18,-0.03,-0.17
+2020-05-21,US,United States,New Mexico,Los Alamos County,NA,NA,NA,-0.41,NA,NA
+2020-05-21,US,United States,New Mexico,McKinley County,NA,NA,NA,-0.19,-0.21,NA
+2020-05-21,US,United States,New Mexico,Quay County,-0.1,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,New Mexico,Roosevelt County,NA,NA,NA,-0.23,NA,NA
+2020-05-21,US,United States,New Mexico,San Miguel County,NA,NA,NA,-0.13,0.29,NA
+2020-05-21,US,United States,New Mexico,Santa Fe County,NA,NA,NA,-0.26,0.11,0.31
+2020-05-21,US,United States,New Mexico,Socorro County,NA,NA,NA,-0.28,NA,NA
+2020-05-21,US,United States,New Mexico,Torrance County,0.06,-0.34,NA,NA,NA,NA
+2020-05-21,US,United States,New Mexico,Valencia County,NA,NA,NA,0,0.31,0.2
+2020-05-21,US,United States,New York,Albany County,NA,NA,NA,-0.45,-0.03,0.89
+2020-05-21,US,United States,New York,Bronx County,NA,NA,NA,-0.39,-0.04,-0.07
+2020-05-21,US,United States,New York,Cattaraugus County,NA,NA,NA,-0.09,0.12,0.05
+2020-05-21,US,United States,New York,Chautauqua County,NA,NA,NA,-0.1,0.19,NA
+2020-05-21,US,United States,New York,Chenango County,NA,NA,NA,-0.11,0.21,NA
+2020-05-21,US,United States,New York,Columbia County,NA,NA,NA,-0.27,0.22,NA
+2020-05-21,US,United States,New York,Delaware County,NA,NA,NA,-0.17,0.17,NA
+2020-05-21,US,United States,New York,Erie County,NA,NA,NA,-0.31,0.03,1.46
+2020-05-21,US,United States,New York,Franklin County,NA,NA,NA,-0.2,0.28,NA
+2020-05-21,US,United States,New York,Genesee County,NA,NA,NA,-0.19,0.16,NA
+2020-05-21,US,United States,New York,Herkimer County,NA,NA,NA,0.02,0.21,NA
+2020-05-21,US,United States,New York,Kings County,NA,NA,NA,-0.42,-0.06,0.39
+2020-05-21,US,United States,New York,Livingston County,NA,NA,NA,-0.13,0.25,NA
+2020-05-21,US,United States,New York,Monroe County,NA,NA,NA,-0.32,0.03,1.57
+2020-05-21,US,United States,New York,Nassau County,NA,NA,NA,-0.42,-0.05,1.21
+2020-05-21,US,United States,New York,Niagara County,NA,NA,NA,-0.17,0.19,1.58
+2020-05-21,US,United States,New York,Onondaga County,NA,NA,NA,-0.31,0.06,1.8
+2020-05-21,US,United States,New York,Orange County,NA,NA,NA,-0.33,0.02,1.69
+2020-05-21,US,United States,New York,Oswego County,NA,NA,NA,0.01,0.25,-0.07
+2020-05-21,US,United States,New York,Putnam County,NA,NA,NA,-0.43,0.11,-0.56
+2020-05-21,US,United States,New York,Rensselaer County,NA,NA,NA,-0.21,-0.17,0.36
+2020-05-21,US,United States,New York,Rockland County,NA,NA,NA,-0.4,-0.07,1.5
+2020-05-21,US,United States,New York,Schenectady County,NA,NA,NA,-0.21,0.08,-0.03
+2020-05-21,US,United States,New York,Schuyler County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,New York,St. Lawrence County,NA,NA,NA,-0.1,0.19,0.23
+2020-05-21,US,United States,New York,Suffolk County,NA,NA,NA,-0.34,-0.02,1.76
+2020-05-21,US,United States,New York,Tioga County,NA,NA,NA,-0.07,0.17,NA
+2020-05-21,US,United States,New York,Ulster County,NA,NA,NA,-0.25,0.05,1.77
+2020-05-21,US,United States,New York,Washington County,NA,NA,NA,0.04,0.08,NA
+2020-05-21,US,United States,New York,Westchester County,NA,NA,NA,-0.43,-0.05,0.44
+2020-05-21,US,United States,New York,Yates County,NA,NA,NA,NA,0.27,NA
+2020-05-21,US,United States,North Carolina,Alamance County,NA,NA,NA,-0.24,0,-0.17
+2020-05-21,US,United States,North Carolina,Alleghany County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Ashe County,NA,NA,NA,0.07,-0.07,NA
+2020-05-21,US,United States,North Carolina,Beaufort County,NA,NA,NA,-0.21,0.01,-0.05
+2020-05-21,US,United States,North Carolina,Bladen County,NA,NA,NA,-0.08,0.12,NA
+2020-05-21,US,United States,North Carolina,Buncombe County,NA,NA,NA,-0.27,-0.08,0.14
+2020-05-21,US,United States,North Carolina,Cabarrus County,NA,NA,NA,-0.22,-0.04,-0.24
+2020-05-21,US,United States,North Carolina,Camden County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Caswell County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Chatham County,NA,NA,NA,-0.27,-0.13,-0.06
+2020-05-21,US,United States,North Carolina,Chowan County,NA,NA,NA,NA,-0.01,NA
+2020-05-21,US,United States,North Carolina,Cleveland County,NA,NA,NA,-0.11,0.06,0.26
+2020-05-21,US,United States,North Carolina,Craven County,NA,NA,NA,-0.29,-0.06,-0.33
+2020-05-21,US,United States,North Carolina,Currituck County,NA,NA,NA,0.31,NA,NA
+2020-05-21,US,United States,North Carolina,Davidson County,NA,NA,NA,-0.2,-0.04,-0.06
+2020-05-21,US,United States,North Carolina,Duplin County,NA,NA,NA,-0.24,-0.02,NA
+2020-05-21,US,United States,North Carolina,Edgecombe County,NA,NA,NA,-0.18,0.03,NA
+2020-05-21,US,United States,North Carolina,Franklin County,NA,NA,NA,-0.2,0.01,NA
+2020-05-21,US,United States,North Carolina,Gates County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Granville County,NA,NA,NA,-0.21,-0.01,NA
+2020-05-21,US,United States,North Carolina,Guilford County,NA,NA,NA,-0.31,-0.12,-0.59
+2020-05-21,US,United States,North Carolina,Harnett County,NA,NA,NA,-0.12,0,-0.37
+2020-05-21,US,United States,North Carolina,Henderson County,NA,NA,NA,-0.14,0.02,0.26
+2020-05-21,US,United States,North Carolina,Hoke County,NA,NA,NA,-0.16,0.14,NA
+2020-05-21,US,United States,North Carolina,Jackson County,NA,NA,NA,-0.19,0.11,-0.07
+2020-05-21,US,United States,North Carolina,Jones County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Lenoir County,NA,NA,NA,-0.22,-0.02,NA
+2020-05-21,US,United States,North Carolina,Macon County,NA,NA,NA,-0.09,0.2,0.4
+2020-05-21,US,United States,North Carolina,Martin County,NA,NA,NA,-0.16,-0.1,NA
+2020-05-21,US,United States,North Carolina,Mecklenburg County,NA,NA,NA,-0.34,-0.09,-0.42
+2020-05-21,US,United States,North Carolina,Montgomery County,NA,NA,NA,-0.14,NA,-0.08
+2020-05-21,US,United States,North Carolina,Nash County,NA,NA,NA,-0.18,-0.01,NA
+2020-05-21,US,United States,North Carolina,Northampton County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Orange County,NA,NA,NA,-0.44,-0.28,-0.36
+2020-05-21,US,United States,North Carolina,Pasquotank County,NA,NA,NA,-0.15,-0.03,NA
+2020-05-21,US,United States,North Carolina,Perquimans County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Pitt County,NA,NA,NA,-0.26,-0.07,-0.45
+2020-05-21,US,United States,North Carolina,Randolph County,NA,NA,NA,-0.21,-0.01,-0.15
+2020-05-21,US,United States,North Carolina,Robeson County,NA,NA,NA,-0.12,0.09,-0.16
+2020-05-21,US,United States,North Carolina,Rowan County,NA,NA,NA,-0.22,0,-0.19
+2020-05-21,US,United States,North Carolina,Sampson County,NA,NA,NA,-0.1,0.06,NA
+2020-05-21,US,United States,North Carolina,Stanly County,NA,NA,NA,-0.16,0.06,NA
+2020-05-21,US,United States,North Carolina,Surry County,NA,NA,NA,-0.16,0.02,-0.01
+2020-05-21,US,United States,North Carolina,Transylvania County,NA,NA,NA,-0.11,-0.02,-0.15
+2020-05-21,US,United States,North Carolina,Vance County,NA,NA,NA,-0.16,-0.02,NA
+2020-05-21,US,United States,North Carolina,Warren County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,North Carolina,Watauga County,NA,NA,NA,-0.37,-0.07,0.02
+2020-05-21,US,United States,North Carolina,Wilkes County,NA,NA,NA,-0.24,0.02,-0.56
+2020-05-21,US,United States,North Carolina,Yadkin County,NA,NA,NA,-0.18,-0.03,NA
+2020-05-21,US,United States,North Dakota,Barnes County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Burleigh County,NA,NA,NA,0.03,0.18,-0.02
+2020-05-21,US,United States,North Dakota,Dunn County,NA,NA,NA,NA,NA,-0.34
+2020-05-21,US,United States,North Dakota,McKenzie County,NA,NA,NA,-0.19,NA,NA
+2020-05-21,US,United States,North Dakota,Mercer County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Mountrail County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Ramsey County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Richland County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Sargent County,NA,-0.4,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Stutsman County,NA,NA,NA,0.03,NA,NA
+2020-05-21,US,United States,North Dakota,Walsh County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,North Dakota,Williams County,NA,NA,NA,-0.03,0.04,NA
+2020-05-21,US,United States,Ohio,Adams County,NA,NA,NA,-0.14,NA,NA
+2020-05-21,US,United States,Ohio,Ashland County,NA,NA,NA,0.04,0.03,NA
+2020-05-21,US,United States,Ohio,Athens County,NA,NA,NA,-0.35,-0.12,NA
+2020-05-21,US,United States,Ohio,Belmont County,NA,NA,NA,-0.04,0.04,NA
+2020-05-21,US,United States,Ohio,Butler County,NA,NA,NA,-0.13,0.01,0.39
+2020-05-21,US,United States,Ohio,Champaign County,NA,NA,NA,-0.13,0.04,NA
+2020-05-21,US,United States,Ohio,Clermont County,NA,NA,NA,-0.08,0.04,0.62
+2020-05-21,US,United States,Ohio,Columbiana County,NA,NA,NA,0.05,0.23,NA
+2020-05-21,US,United States,Ohio,Crawford County,NA,NA,NA,0.02,0.03,NA
+2020-05-21,US,United States,Ohio,Darke County,NA,NA,NA,-0.02,0.09,NA
+2020-05-21,US,United States,Ohio,Delaware County,NA,NA,NA,-0.2,0,0.61
+2020-05-21,US,United States,Ohio,Fairfield County,NA,NA,NA,-0.1,0.1,0.26
+2020-05-21,US,United States,Ohio,Franklin County,NA,NA,NA,-0.25,-0.07,-0.13
+2020-05-21,US,United States,Ohio,Gallia County,NA,NA,NA,0,-0.04,NA
+2020-05-21,US,United States,Ohio,Greene County,NA,NA,NA,-0.18,0.02,0.17
+2020-05-21,US,United States,Ohio,Hamilton County,NA,NA,NA,-0.2,-0.02,0.12
+2020-05-21,US,United States,Ohio,Hardin County,NA,NA,NA,0.01,NA,NA
+2020-05-21,US,United States,Ohio,Henry County,NA,NA,NA,-0.14,0.02,NA
+2020-05-21,US,United States,Ohio,Hocking County,NA,NA,NA,0.02,NA,-0.19
+2020-05-21,US,United States,Ohio,Huron County,NA,NA,NA,-0.1,0.13,NA
+2020-05-21,US,United States,Ohio,Jefferson County,NA,NA,NA,-0.05,0.1,NA
+2020-05-21,US,United States,Ohio,Lake County,NA,NA,NA,-0.06,0.11,1.81
+2020-05-21,US,United States,Ohio,Licking County,NA,NA,NA,-0.11,0.03,0.05
+2020-05-21,US,United States,Ohio,Lorain County,NA,NA,NA,-0.03,0.06,1.79
+2020-05-21,US,United States,Ohio,Madison County,NA,NA,NA,-0.18,0.16,NA
+2020-05-21,US,United States,Ohio,Marion County,NA,NA,NA,-0.03,0.03,NA
+2020-05-21,US,United States,Ohio,Meigs County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Ohio,Miami County,NA,NA,NA,0,0.09,-0.05
+2020-05-21,US,United States,Ohio,Montgomery County,NA,NA,NA,-0.14,0.01,0.16
+2020-05-21,US,United States,Ohio,Morrow County,0.02,-0.32,0.1,NA,NA,NA
+2020-05-21,US,United States,Ohio,Noble County,0,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Ohio,Paulding County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Ohio,Pickaway County,NA,NA,NA,-0.04,-0.03,NA
+2020-05-21,US,United States,Ohio,Portage County,NA,NA,NA,-0.02,0.07,0.14
+2020-05-21,US,United States,Ohio,Putnam County,NA,NA,NA,-0.1,-0.05,NA
+2020-05-21,US,United States,Ohio,Ross County,NA,NA,NA,-0.04,0.15,NA
+2020-05-21,US,United States,Ohio,Scioto County,NA,NA,NA,-0.1,0.03,NA
+2020-05-21,US,United States,Ohio,Shelby County,NA,NA,NA,0.15,0.06,NA
+2020-05-21,US,United States,Ohio,Summit County,NA,NA,NA,-0.1,0.05,1.27
+2020-05-21,US,United States,Ohio,Tuscarawas County,NA,NA,NA,-0.05,0.04,NA
+2020-05-21,US,United States,Ohio,Van Wert County,NA,NA,NA,-0.08,0.04,NA
+2020-05-21,US,United States,Ohio,Warren County,NA,NA,NA,-0.17,0.08,0.99
+2020-05-21,US,United States,Ohio,Wayne County,NA,NA,NA,-0.13,0,NA
+2020-05-21,US,United States,Ohio,Wood County,NA,NA,NA,-0.12,0.01,-0.19
+2020-05-21,US,United States,Oklahoma,Adair County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Beckham County,NA,NA,NA,0.05,NA,NA
+2020-05-21,US,United States,Oklahoma,Bryan County,NA,NA,NA,0.04,0.15,NA
+2020-05-21,US,United States,Oklahoma,Canadian County,NA,NA,NA,0.06,0.16,0.85
+2020-05-21,US,United States,Oklahoma,Cherokee County,NA,NA,NA,-0.03,0.2,NA
+2020-05-21,US,United States,Oklahoma,Cleveland County,NA,NA,NA,-0.06,0.12,0.55
+2020-05-21,US,United States,Oklahoma,Comanche County,NA,NA,NA,0.02,0.14,1.27
+2020-05-21,US,United States,Oklahoma,Craig County,0.52,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Custer County,NA,NA,NA,-0.02,0.07,NA
+2020-05-21,US,United States,Oklahoma,Garfield County,NA,NA,NA,0.05,0.14,0.21
+2020-05-21,US,United States,Oklahoma,Grady County,NA,NA,NA,-0.04,0.33,NA
+2020-05-21,US,United States,Oklahoma,Haskell County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Jackson County,NA,NA,NA,0.07,NA,NA
+2020-05-21,US,United States,Oklahoma,Johnston County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Kingfisher County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Latimer County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Lincoln County,NA,NA,NA,-0.03,NA,NA
+2020-05-21,US,United States,Oklahoma,Love County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Marshall County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,McClain County,NA,NA,NA,0.06,0.02,NA
+2020-05-21,US,United States,Oklahoma,McIntosh County,NA,NA,NA,0.24,NA,NA
+2020-05-21,US,United States,Oklahoma,Muskogee County,NA,NA,NA,0.09,0.12,0.02
+2020-05-21,US,United States,Oklahoma,Nowata County,-0.2,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Oklahoma County,NA,NA,NA,-0.07,0.05,0.78
+2020-05-21,US,United States,Oklahoma,Osage County,NA,NA,NA,-0.01,0.01,NA
+2020-05-21,US,United States,Oklahoma,Pawnee County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Oklahoma,Pittsburg County,NA,NA,NA,-0.05,0.21,NA
+2020-05-21,US,United States,Oklahoma,Pottawatomie County,NA,NA,NA,0.13,0.03,-0.08
+2020-05-21,US,United States,Oklahoma,Rogers County,NA,NA,NA,0,0.13,0.27
+2020-05-21,US,United States,Oklahoma,Sequoyah County,NA,NA,NA,0.09,0.3,NA
+2020-05-21,US,United States,Oklahoma,Texas County,NA,NA,NA,-0.21,NA,NA
+2020-05-21,US,United States,Oklahoma,Tulsa County,NA,NA,NA,-0.06,0.07,0.25
+2020-05-21,US,United States,Oklahoma,Washington County,NA,NA,NA,-0.09,-0.03,NA
+2020-05-21,US,United States,Oklahoma,Woods County,NA,NA,NA,NA,NA,-0.21
+2020-05-21,US,United States,Oregon,Baker County,NA,NA,NA,0.02,NA,NA
+2020-05-21,US,United States,Oregon,Clackamas County,NA,NA,NA,-0.28,-0.02,0.19
+2020-05-21,US,United States,Oregon,Columbia County,NA,NA,NA,-0.06,0.02,0.27
+2020-05-21,US,United States,Oregon,Crook County,NA,NA,NA,0.16,NA,NA
+2020-05-21,US,United States,Oregon,Deschutes County,NA,NA,NA,-0.13,0.04,0.61
+2020-05-21,US,United States,Oregon,Grant County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Oregon,Hood River County,NA,NA,NA,-0.15,NA,0.58
+2020-05-21,US,United States,Oregon,Jefferson County,NA,NA,NA,0.02,NA,NA
+2020-05-21,US,United States,Oregon,Klamath County,NA,NA,NA,-0.03,0.23,0.72
+2020-05-21,US,United States,Oregon,Lane County,NA,NA,NA,-0.2,-0.02,0.29
+2020-05-21,US,United States,Oregon,Linn County,NA,NA,NA,-0.04,0.12,0.29
+2020-05-21,US,United States,Oregon,Marion County,NA,NA,NA,-0.22,-0.01,0.41
+2020-05-21,US,United States,Oregon,Multnomah County,NA,NA,NA,-0.44,-0.09,0.05
+2020-05-21,US,United States,Oregon,Sherman County,0.27,NA,NA,NA,NA,NA
+2020-05-21,US,United States,Oregon,Umatilla County,NA,NA,NA,-0.03,0.18,0.14
+2020-05-21,US,United States,Oregon,Wallowa County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Oregon,Washington County,NA,NA,NA,-0.32,-0.05,0.13
+2020-05-21,US,United States,Pennsylvania,Adams County,NA,NA,NA,-0.25,0.1,0.54
+2020-05-21,US,United States,Pennsylvania,Armstrong County,NA,NA,NA,-0.03,0.02,NA
+2020-05-21,US,United States,Pennsylvania,Bedford County,NA,NA,NA,0.08,0.17,NA
+2020-05-21,US,United States,Pennsylvania,Blair County,NA,NA,NA,-0.08,0.03,-0.17
+2020-05-21,US,United States,Pennsylvania,Bucks County,NA,NA,NA,-0.24,-0.05,2.13
+2020-05-21,US,United States,Pennsylvania,Cambria County,NA,NA,NA,-0.12,0.1,NA
+2020-05-21,US,United States,Pennsylvania,Centre County,NA,NA,NA,-0.42,-0.04,-0.05
+2020-05-21,US,United States,Pennsylvania,Clarion County,NA,NA,NA,-0.09,0.26,NA
+2020-05-21,US,United States,Pennsylvania,Clinton County,NA,NA,NA,0.03,0.13,NA
+2020-05-21,US,United States,Pennsylvania,Crawford County,NA,NA,NA,0.07,0.29,NA
+2020-05-21,US,United States,Pennsylvania,Dauphin County,NA,NA,NA,-0.32,-0.07,0.53
+2020-05-21,US,United States,Pennsylvania,Elk County,NA,NA,NA,-0.22,0.04,NA
+2020-05-21,US,United States,Pennsylvania,Fayette County,NA,NA,NA,-0.12,0.13,-0.12
+2020-05-21,US,United States,Pennsylvania,Fulton County,-0.27,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Pennsylvania,Huntingdon County,NA,NA,NA,-0.05,0.04,NA
+2020-05-21,US,United States,Pennsylvania,Jefferson County,NA,NA,NA,0.03,0.14,NA
+2020-05-21,US,United States,Pennsylvania,Lackawanna County,NA,NA,NA,-0.19,0.03,1.18
+2020-05-21,US,United States,Pennsylvania,Lawrence County,NA,NA,NA,-0.09,0.03,NA
+2020-05-21,US,United States,Pennsylvania,Lehigh County,NA,NA,NA,-0.28,-0.05,1.25
+2020-05-21,US,United States,Pennsylvania,Lycoming County,NA,NA,NA,-0.12,0.1,0.4
+2020-05-21,US,United States,Pennsylvania,Mercer County,NA,NA,NA,-0.07,0.14,-0.28
+2020-05-21,US,United States,Pennsylvania,Monroe County,NA,NA,NA,-0.19,0.08,0.39
+2020-05-21,US,United States,Pennsylvania,Montour County,NA,NA,NA,-0.21,-0.11,NA
+2020-05-21,US,United States,Pennsylvania,Northumberland County,NA,NA,NA,-0.07,0.14,NA
+2020-05-21,US,United States,Pennsylvania,Philadelphia County,NA,NA,NA,-0.35,-0.08,0.04
+2020-05-21,US,United States,Pennsylvania,Potter County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Pennsylvania,Snyder County,NA,NA,NA,0.01,0.1,NA
+2020-05-21,US,United States,Pennsylvania,Sullivan County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Pennsylvania,Tioga County,NA,NA,NA,0.06,0.25,NA
+2020-05-21,US,United States,Pennsylvania,Venango County,NA,NA,NA,0.16,0.22,NA
+2020-05-21,US,United States,Pennsylvania,Washington County,NA,NA,NA,-0.2,0.1,0.54
+2020-05-21,US,United States,Pennsylvania,Westmoreland County,NA,NA,NA,-0.11,0.1,1.1
+2020-05-21,US,United States,Pennsylvania,York County,NA,NA,NA,-0.19,0.03,1.51
+2020-05-21,US,United States,Rhode Island,Bristol County,NA,NA,NA,-0.16,0,NA
+2020-05-21,US,United States,Rhode Island,Newport County,NA,NA,NA,-0.15,0.02,1.33
+2020-05-21,US,United States,Rhode Island,Washington County,NA,NA,NA,-0.11,-0.05,0.94
+2020-05-21,US,United States,South Carolina,Abbeville County,NA,NA,NA,NA,0.15,NA
+2020-05-21,US,United States,South Carolina,Allendale County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Bamberg County,NA,NA,NA,NA,0.05,NA
+2020-05-21,US,United States,South Carolina,Beaufort County,NA,NA,NA,-0.04,0.04,0.45
+2020-05-21,US,United States,South Carolina,Calhoun County,0.03,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Cherokee County,NA,NA,NA,0.04,0.1,0.07
+2020-05-21,US,United States,South Carolina,Chesterfield County,NA,NA,NA,-0.1,0.02,NA
+2020-05-21,US,United States,South Carolina,Colleton County,NA,NA,NA,0,0.05,NA
+2020-05-21,US,United States,South Carolina,Dillon County,NA,NA,NA,-0.03,0,-0.27
+2020-05-21,US,United States,South Carolina,Edgefield County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Florence County,NA,NA,NA,-0.13,0.05,-0.22
+2020-05-21,US,United States,South Carolina,Greenville County,NA,NA,NA,-0.12,0.07,0.08
+2020-05-21,US,United States,South Carolina,Hampton County,-0.01,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Jasper County,NA,NA,NA,-0.08,0.12,0.31
+2020-05-21,US,United States,South Carolina,Lancaster County,NA,NA,NA,-0.01,0.15,NA
+2020-05-21,US,United States,South Carolina,Lee County,0.08,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Marion County,NA,NA,NA,-0.09,0.04,NA
+2020-05-21,US,United States,South Carolina,McCormick County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Oconee County,NA,NA,NA,0.06,0.18,0.4
+2020-05-21,US,United States,South Carolina,Pickens County,NA,NA,NA,-0.03,0.1,-0.4
+2020-05-21,US,United States,South Carolina,Saluda County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,South Carolina,Sumter County,NA,NA,NA,-0.05,0.02,-0.28
+2020-05-21,US,United States,South Carolina,Williamsburg County,NA,NA,NA,NA,0.02,NA
+2020-05-21,US,United States,South Dakota,Beadle County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Brookings County,NA,NA,NA,-0.14,NA,NA
+2020-05-21,US,United States,South Dakota,Brule County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Charles Mix County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Codington County,NA,NA,NA,0.04,0.18,NA
+2020-05-21,US,United States,South Dakota,Davison County,NA,NA,NA,0.01,NA,NA
+2020-05-21,US,United States,South Dakota,Fall River County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Hamlin County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Hutchinson County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Lake County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Lincoln County,NA,NA,NA,-0.05,NA,NA
+2020-05-21,US,United States,South Dakota,McCook County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Minnehaha County,NA,NA,NA,-0.15,0.07,1.41
+2020-05-21,US,United States,South Dakota,Oglala Lakota County,NA,-0.49,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Roberts County,-0.07,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Todd County,NA,-0.46,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Union County,0.22,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,South Dakota,Yankton County,NA,NA,NA,0.07,NA,NA
+2020-05-21,US,United States,Tennessee,anderson County,NA,NA,NA,-0.06,-0.02,0.09
+2020-05-21,US,United States,Tennessee,Benton County,NA,NA,NA,-0.06,NA,NA
+2020-05-21,US,United States,Tennessee,Blount County,NA,NA,NA,0,0.02,1.06
+2020-05-21,US,United States,Tennessee,Campbell County,NA,NA,NA,0.18,0.27,0.59
+2020-05-21,US,United States,Tennessee,Carroll County,NA,NA,NA,-0.1,NA,NA
+2020-05-21,US,United States,Tennessee,Cheatham County,NA,NA,NA,-0.13,0.7,NA
+2020-05-21,US,United States,Tennessee,Claiborne County,NA,NA,NA,0.1,0.36,NA
+2020-05-21,US,United States,Tennessee,Cocke County,NA,NA,NA,0.16,0.08,0.64
+2020-05-21,US,United States,Tennessee,Crockett County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Davidson County,NA,NA,NA,-0.24,0.02,-0.08
+2020-05-21,US,United States,Tennessee,Decatur County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Dyer County,NA,NA,NA,0.13,0.02,NA
+2020-05-21,US,United States,Tennessee,Fentress County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Gibson County,NA,NA,NA,0.04,0.1,NA
+2020-05-21,US,United States,Tennessee,Grainger County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Grundy County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Hamilton County,NA,NA,NA,-0.07,0.04,0.38
+2020-05-21,US,United States,Tennessee,Hardeman County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Hawkins County,NA,NA,NA,0.09,0.1,NA
+2020-05-21,US,United States,Tennessee,Henderson County,NA,NA,NA,0.15,0.42,NA
+2020-05-21,US,United States,Tennessee,Hickman County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Humphreys County,NA,NA,NA,0.09,NA,NA
+2020-05-21,US,United States,Tennessee,Jefferson County,NA,NA,NA,0.03,0.08,NA
+2020-05-21,US,United States,Tennessee,Knox County,NA,NA,NA,-0.09,0.01,0.1
+2020-05-21,US,United States,Tennessee,Lawrence County,NA,NA,NA,0.11,0.16,NA
+2020-05-21,US,United States,Tennessee,Lincoln County,NA,NA,NA,0.1,0.23,NA
+2020-05-21,US,United States,Tennessee,Macon County,NA,NA,NA,NA,0.05,NA
+2020-05-21,US,United States,Tennessee,Marion County,NA,NA,NA,0.12,0.22,0.27
+2020-05-21,US,United States,Tennessee,Maury County,NA,NA,NA,-0.02,0,0.11
+2020-05-21,US,United States,Tennessee,McNairy County,-0.02,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Monroe County,NA,NA,NA,0.16,0.21,-0.46
+2020-05-21,US,United States,Tennessee,Moore County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Obion County,NA,NA,NA,-0.06,0.15,NA
+2020-05-21,US,United States,Tennessee,Perry County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Putnam County,NA,NA,NA,0,0.06,-0.5
+2020-05-21,US,United States,Tennessee,Roane County,NA,NA,NA,0.12,0.06,-0.13
+2020-05-21,US,United States,Tennessee,Rutherford County,NA,NA,NA,-0.06,0.06,0.58
+2020-05-21,US,United States,Tennessee,Sequatchie County,NA,NA,NA,NA,0.24,NA
+2020-05-21,US,United States,Tennessee,Shelby County,NA,NA,NA,-0.11,0.03,0.17
+2020-05-21,US,United States,Tennessee,Stewart County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Sumner County,NA,NA,NA,-0.05,0.1,0.54
+2020-05-21,US,United States,Tennessee,Trousdale County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Union County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,Warren County,NA,NA,NA,0.1,0.37,NA
+2020-05-21,US,United States,Tennessee,Wayne County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Tennessee,White County,NA,NA,NA,0.04,0.23,NA
+2020-05-21,US,United States,Tennessee,Wilson County,NA,NA,NA,-0.02,0.08,0.45
+2020-05-21,US,United States,Texas,anderson County,NA,NA,NA,-0.06,0.1,NA
+2020-05-21,US,United States,Texas,Angelina County,NA,NA,NA,0.03,0.14,-0.44
+2020-05-21,US,United States,Texas,Archer County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Austin County,NA,NA,NA,-0.02,0.12,NA
+2020-05-21,US,United States,Texas,Bandera County,NA,NA,NA,NA,NA,-0.02
+2020-05-21,US,United States,Texas,Bee County,NA,NA,NA,-0.2,-0.05,NA
+2020-05-21,US,United States,Texas,Bexar County,NA,NA,NA,-0.2,-0.01,-0.14
+2020-05-21,US,United States,Texas,Bosque County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Brazoria County,NA,NA,NA,-0.02,0.04,0.35
+2020-05-21,US,United States,Texas,Brewster County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Brown County,NA,NA,NA,0.05,0.08,NA
+2020-05-21,US,United States,Texas,Burnet County,NA,NA,NA,0.02,0.07,0.35
+2020-05-21,US,United States,Texas,Calhoun County,NA,NA,NA,-0.15,0,-0.38
+2020-05-21,US,United States,Texas,Cameron County,NA,NA,NA,-0.18,-0.06,-0.17
+2020-05-21,US,United States,Texas,Carson County,0.07,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Castro County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Cherokee County,NA,NA,NA,-0.05,0.07,NA
+2020-05-21,US,United States,Texas,Clay County,0.2,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Collin County,NA,NA,NA,-0.2,-0.05,0.3
+2020-05-21,US,United States,Texas,Comal County,NA,NA,NA,-0.06,0.13,1.57
+2020-05-21,US,United States,Texas,Cooke County,NA,NA,NA,0.06,0.23,0.24
+2020-05-21,US,United States,Texas,Crane County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Culberson County,-0.2,NA,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Dallas County,NA,NA,NA,-0.19,-0.03,0.18
+2020-05-21,US,United States,Texas,DeWitt County,NA,NA,NA,-0.12,NA,NA
+2020-05-21,US,United States,Texas,Delta County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Dimmit County,-0.36,-0.37,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Duval County,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Ector County,NA,NA,NA,-0.07,0.01,-0.34
+2020-05-21,US,United States,Texas,Ellis County,NA,NA,NA,-0.04,0.07,0.4
+2020-05-21,US,United States,Texas,Falls County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Fayette County,NA,NA,NA,-0.04,-0.17,NA
+2020-05-21,US,United States,Texas,Fort Bend County,NA,NA,NA,-0.13,0,0.41
+2020-05-21,US,United States,Texas,Freestone County,0.03,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Gaines County,NA,-0.4,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Gillespie County,NA,NA,NA,-0.06,0.02,-0.32
+2020-05-21,US,United States,Texas,Gonzales County,NA,NA,NA,-0.15,NA,-0.52
+2020-05-21,US,United States,Texas,Grayson County,NA,NA,NA,0.04,0.08,1.14
+2020-05-21,US,United States,Texas,Grimes County,NA,NA,NA,-0.03,NA,NA
+2020-05-21,US,United States,Texas,Hale County,NA,NA,NA,0.04,0.1,NA
+2020-05-21,US,United States,Texas,Hamilton County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Hardin County,NA,NA,NA,-0.02,0.03,NA
+2020-05-21,US,United States,Texas,Harrison County,NA,NA,NA,-0.01,0.11,0.05
+2020-05-21,US,United States,Texas,Henderson County,NA,NA,NA,0.05,0.09,-0.31
+2020-05-21,US,United States,Texas,Hill County,NA,NA,NA,-0.01,0.14,NA
+2020-05-21,US,United States,Texas,Hood County,NA,NA,NA,0.12,0.29,-0.2
+2020-05-21,US,United States,Texas,Houston County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Hunt County,NA,NA,NA,-0.02,0.09,-0.36
+2020-05-21,US,United States,Texas,Jack County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Jasper County,NA,NA,NA,0.09,-0.02,0.15
+2020-05-21,US,United States,Texas,Jim Wells County,NA,NA,NA,-0.07,0.02,NA
+2020-05-21,US,United States,Texas,Jones County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Kaufman County,NA,NA,NA,0,0.16,-0.06
+2020-05-21,US,United States,Texas,Kerr County,NA,NA,NA,0,-0.01,0.32
+2020-05-21,US,United States,Texas,Kleberg County,NA,NA,NA,-0.17,0.1,0.51
+2020-05-21,US,United States,Texas,Lamar County,NA,NA,NA,0.02,0.16,NA
+2020-05-21,US,United States,Texas,Lampasas County,NA,NA,NA,0.11,NA,NA
+2020-05-21,US,United States,Texas,Lee County,NA,NA,NA,-0.28,NA,NA
+2020-05-21,US,United States,Texas,Liberty County,NA,NA,NA,-0.05,0.08,NA
+2020-05-21,US,United States,Texas,Live Oak County,NA,NA,NA,NA,-0.17,NA
+2020-05-21,US,United States,Texas,Lubbock County,NA,NA,NA,0,0.09,0.67
+2020-05-21,US,United States,Texas,Madison County,NA,NA,NA,NA,0.03,NA
+2020-05-21,US,United States,Texas,Martin County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Maverick County,NA,NA,NA,-0.27,-0.04,-0.24
+2020-05-21,US,United States,Texas,McLennan County,NA,NA,NA,-0.11,0.08,0.67
+2020-05-21,US,United States,Texas,Medina County,NA,NA,NA,-0.02,0.09,-0.56
+2020-05-21,US,United States,Texas,Milam County,NA,NA,NA,-0.19,0.01,NA
+2020-05-21,US,United States,Texas,Montague County,NA,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Moore County,NA,NA,NA,-0.11,-0.06,NA
+2020-05-21,US,United States,Texas,Nacogdoches County,NA,NA,NA,-0.12,-0.09,-0.24
+2020-05-21,US,United States,Texas,Newton County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Nueces County,NA,NA,NA,-0.05,0,0.67
+2020-05-21,US,United States,Texas,Oldham County,0.08,NA,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Palo Pinto County,NA,NA,NA,0.05,0.16,NA
+2020-05-21,US,United States,Texas,Parker County,NA,NA,NA,0.04,0.09,0.56
+2020-05-21,US,United States,Texas,Pecos County,NA,NA,NA,-0.16,NA,NA
+2020-05-21,US,United States,Texas,Potter County,NA,NA,NA,-0.09,0.05,0.28
+2020-05-21,US,United States,Texas,Rains County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Reagan County,-0.48,NA,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Reeves County,NA,NA,NA,-0.41,-0.33,NA
+2020-05-21,US,United States,Texas,Robertson County,0.08,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Runnels County,NA,-0.2,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Sabine County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,San Jacinto County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Scurry County,NA,NA,NA,-0.09,NA,NA
+2020-05-21,US,United States,Texas,Sherman County,0.08,NA,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Somervell County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Stephens County,NA,-0.18,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Tarrant County,NA,NA,NA,-0.13,0.02,0.53
+2020-05-21,US,United States,Texas,Terry County,NA,-0.29,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Tom Green County,NA,NA,NA,-0.12,0.06,-0.01
+2020-05-21,US,United States,Texas,Trinity County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Upshur County,NA,NA,NA,0.11,0.14,NA
+2020-05-21,US,United States,Texas,Uvalde County,NA,NA,NA,0.01,0.04,NA
+2020-05-21,US,United States,Texas,Van Zandt County,NA,NA,NA,0.06,0.24,0.27
+2020-05-21,US,United States,Texas,Walker County,NA,NA,NA,-0.08,0.05,0.19
+2020-05-21,US,United States,Texas,Ward County,NA,NA,NA,-0.34,-0.26,NA
+2020-05-21,US,United States,Texas,Webb County,NA,NA,NA,-0.27,-0.13,-0.39
+2020-05-21,US,United States,Texas,Wichita County,NA,NA,NA,0.01,0.05,-0.06
+2020-05-21,US,United States,Texas,Willacy County,NA,NA,NA,NA,-0.1,NA
+2020-05-21,US,United States,Texas,Wilson County,NA,NA,NA,-0.18,-0.03,-0.01
+2020-05-21,US,United States,Texas,Wise County,NA,NA,NA,0.01,0.1,-0.25
+2020-05-21,US,United States,Texas,Yoakum County,NA,-0.32,NA,NA,NA,NA
+2020-05-21,US,United States,Texas,Zapata County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Utah,Beaver County,-0.73,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Utah,Cache County,NA,NA,NA,-0.09,0.55,1.06
+2020-05-21,US,United States,Utah,Davis County,NA,NA,NA,-0.04,0.19,1.07
+2020-05-21,US,United States,Utah,Emery County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Utah,Grand County,NA,NA,NA,NA,NA,0.11
+2020-05-21,US,United States,Utah,Juab County,0.2,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Utah,Millard County,NA,-0.17,NA,NA,NA,NA
+2020-05-21,US,United States,Utah,Salt Lake County,NA,NA,NA,-0.17,0.06,0.9
+2020-05-21,US,United States,Utah,Sanpete County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Utah,Summit County,NA,NA,NA,-0.5,-0.37,0.5
+2020-05-21,US,United States,Utah,Uintah County,NA,NA,NA,0.23,NA,0.19
+2020-05-21,US,United States,Utah,Wasatch County,NA,NA,NA,0.1,-0.01,0.2
+2020-05-21,US,United States,Utah,Weber County,NA,NA,NA,0,0.06,1.67
+2020-05-21,US,United States,Vermont,Addison County,NA,NA,NA,-0.1,-0.18,NA
+2020-05-21,US,United States,Vermont,Caledonia County,NA,NA,NA,-0.09,0.08,NA
+2020-05-21,US,United States,Vermont,Essex County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Vermont,Grand Isle County,-0.57,-0.37,NA,NA,NA,NA
+2020-05-21,US,United States,Vermont,Orange County,-0.4,-0.35,NA,NA,NA,NA
+2020-05-21,US,United States,Vermont,Rutland County,NA,NA,NA,-0.13,-0.05,NA
+2020-05-21,US,United States,Vermont,Windham County,NA,NA,NA,-0.29,-0.03,-0.42
+2020-05-21,US,United States,Virginia,Accomack County,NA,NA,NA,-0.18,0.09,NA
+2020-05-21,US,United States,Virginia,Alexandria,NA,NA,NA,-0.38,-0.12,0.61
+2020-05-21,US,United States,Virginia,Amelia County,NA,-0.31,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Appomattox County,NA,NA,NA,-0.04,NA,NA
+2020-05-21,US,United States,Virginia,Augusta County,NA,NA,NA,-0.25,0.01,-0.25
+2020-05-21,US,United States,Virginia,Bedford County,NA,NA,NA,-0.24,0,NA
+2020-05-21,US,United States,Virginia,Botetourt County,NA,NA,NA,-0.44,0.09,NA
+2020-05-21,US,United States,Virginia,Brunswick County,-0.73,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Buckingham County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Campbell County,NA,NA,NA,-0.17,0.08,NA
+2020-05-21,US,United States,Virginia,Carroll County,NA,NA,NA,NA,0.21,NA
+2020-05-21,US,United States,Virginia,Charlotte County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Chesapeake,NA,NA,NA,-0.21,0.01,0.16
+2020-05-21,US,United States,Virginia,Clarke County,NA,-0.39,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Covington,NA,-0.36,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Culpeper County,NA,NA,NA,-0.18,0.01,NA
+2020-05-21,US,United States,Virginia,Danville,NA,NA,NA,-0.13,0.04,NA
+2020-05-21,US,United States,Virginia,Dinwiddie County,NA,NA,NA,NA,0.14,NA
+2020-05-21,US,United States,Virginia,Essex County,NA,NA,NA,-0.02,NA,NA
+2020-05-21,US,United States,Virginia,Fairfax County,NA,NA,NA,-0.4,-0.16,0.04
+2020-05-21,US,United States,Virginia,Fauquier County,NA,NA,NA,-0.1,-0.07,NA
+2020-05-21,US,United States,Virginia,Fluvanna County,NA,NA,NA,NA,-0.06,NA
+2020-05-21,US,United States,Virginia,Franklin County,NA,NA,NA,-0.14,-0.03,NA
+2020-05-21,US,United States,Virginia,Fredericksburg,NA,NA,NA,-0.24,-0.07,0.22
+2020-05-21,US,United States,Virginia,Giles County,NA,-0.38,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Goochland County,NA,-0.42,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Greene County,NA,-0.41,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Halifax County,NA,NA,NA,-0.2,0.06,NA
+2020-05-21,US,United States,Virginia,Hanover County,NA,NA,NA,-0.12,-0.05,NA
+2020-05-21,US,United States,Virginia,Henrico County,NA,NA,NA,-0.27,-0.09,-0.17
+2020-05-21,US,United States,Virginia,Hopewell,NA,NA,NA,-0.16,0.01,NA
+2020-05-21,US,United States,Virginia,James City County,NA,NA,NA,-0.3,0.07,0.03
+2020-05-21,US,United States,Virginia,King William County,NA,NA,NA,-0.06,NA,NA
+2020-05-21,US,United States,Virginia,Lancaster County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Lexington,NA,NA,NA,NA,-0.06,NA
+2020-05-21,US,United States,Virginia,Louisa County,NA,NA,NA,-0.09,0.02,NA
+2020-05-21,US,United States,Virginia,Lynchburg,NA,NA,NA,-0.28,-0.13,NA
+2020-05-21,US,United States,Virginia,Manassas,NA,NA,NA,-0.19,-0.01,NA
+2020-05-21,US,United States,Virginia,Martinsville,NA,NA,NA,-0.21,-0.19,NA
+2020-05-21,US,United States,Virginia,Mecklenburg County,NA,NA,NA,-0.09,0.18,0.08
+2020-05-21,US,United States,Virginia,Montgomery County,NA,NA,NA,-0.41,-0.09,NA
+2020-05-21,US,United States,Virginia,New Kent County,NA,NA,NA,-0.12,-0.07,NA
+2020-05-21,US,United States,Virginia,Norfolk,NA,NA,NA,-0.28,-0.07,0
+2020-05-21,US,United States,Virginia,Northumberland County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Nottoway County,NA,-0.21,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Page County,NA,NA,NA,NA,NA,-0.14
+2020-05-21,US,United States,Virginia,Petersburg,NA,NA,NA,-0.11,0.02,NA
+2020-05-21,US,United States,Virginia,Poquoson,NA,-0.42,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Powhatan County,NA,NA,NA,-0.14,-0.08,NA
+2020-05-21,US,United States,Virginia,Prince George County,NA,NA,NA,-0.19,-0.05,NA
+2020-05-21,US,United States,Virginia,Pulaski County,NA,NA,NA,-0.09,0.1,NA
+2020-05-21,US,United States,Virginia,Rappahannock County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Richmond County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Roanoke County,NA,NA,NA,-0.27,-0.02,-0.01
+2020-05-21,US,United States,Virginia,Rockingham County,NA,NA,NA,-0.09,0,0.22
+2020-05-21,US,United States,Virginia,Salem,NA,NA,NA,-0.29,-0.07,NA
+2020-05-21,US,United States,Virginia,Shenandoah County,NA,NA,NA,-0.11,0.13,NA
+2020-05-21,US,United States,Virginia,Southampton County,NA,-0.3,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Stafford County,NA,NA,NA,-0.17,-0.07,0.49
+2020-05-21,US,United States,Virginia,Suffolk,NA,NA,NA,-0.21,-0.02,-0.31
+2020-05-21,US,United States,Virginia,Sussex County,0.23,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Virginia Beach,NA,NA,NA,-0.22,-0.04,0.17
+2020-05-21,US,United States,Virginia,Washington County,NA,NA,NA,-0.11,0.18,-0.33
+2020-05-21,US,United States,Virginia,Westmoreland County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,Virginia,Winchester,NA,NA,NA,-0.23,-0.01,NA
+2020-05-21,US,United States,Virginia,Wythe County,NA,NA,NA,-0.16,0.13,NA
+2020-05-21,US,United States,Washington,Adams County,NA,NA,NA,0.06,NA,NA
+2020-05-21,US,United States,Washington,Benton County,NA,NA,NA,-0.23,0.07,1.1
+2020-05-21,US,United States,Washington,Clallam County,NA,NA,NA,-0.16,0.04,0.39
+2020-05-21,US,United States,Washington,Cowlitz County,NA,NA,NA,-0.14,0.12,0.45
+2020-05-21,US,United States,Washington,Ferry County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Washington,Grant County,NA,NA,NA,-0.01,0.22,0.83
+2020-05-21,US,United States,Washington,Island County,NA,NA,NA,-0.14,0,0.67
+2020-05-21,US,United States,Washington,King County,NA,NA,NA,-0.46,-0.16,-0.08
+2020-05-21,US,United States,Washington,Kittitas County,NA,NA,NA,-0.19,0.26,0.7
+2020-05-21,US,United States,Washington,Lewis County,NA,NA,NA,-0.15,0.04,0.6
+2020-05-21,US,United States,Washington,Mason County,NA,NA,NA,-0.07,0.02,0.99
+2020-05-21,US,United States,Washington,Pacific County,NA,NA,NA,-0.14,0,0.27
+2020-05-21,US,United States,Washington,Pierce County,NA,NA,NA,-0.23,-0.01,0.42
+2020-05-21,US,United States,Washington,Skagit County,NA,NA,NA,-0.22,-0.01,0.56
+2020-05-21,US,United States,Washington,Snohomish County,NA,NA,NA,-0.27,-0.02,0.36
+2020-05-21,US,United States,Washington,Stevens County,NA,NA,NA,0.05,0.1,0.18
+2020-05-21,US,United States,Washington,Walla Walla County,NA,NA,NA,-0.22,-0.02,NA
+2020-05-21,US,United States,Washington,Whitman County,NA,NA,NA,-0.35,NA,NA
+2020-05-21,US,United States,West Virginia,Barbour County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Boone County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Brooke County,NA,NA,NA,0.06,0.31,NA
+2020-05-21,US,United States,West Virginia,Fayette County,NA,NA,NA,0.02,0.1,NA
+2020-05-21,US,United States,West Virginia,Greenbrier County,NA,NA,NA,-0.07,0.21,NA
+2020-05-21,US,United States,West Virginia,Hancock County,NA,NA,NA,-0.14,-0.01,NA
+2020-05-21,US,United States,West Virginia,Harrison County,NA,NA,NA,-0.14,0.02,-0.36
+2020-05-21,US,United States,West Virginia,Jefferson County,NA,NA,NA,-0.16,-0.17,0.13
+2020-05-21,US,United States,West Virginia,Lewis County,NA,NA,NA,NA,0.11,NA
+2020-05-21,US,United States,West Virginia,Logan County,NA,NA,NA,NA,-0.04,NA
+2020-05-21,US,United States,West Virginia,Marshall County,NA,NA,NA,-0.07,-0.1,NA
+2020-05-21,US,United States,West Virginia,McDowell County,NA,-0.16,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Mineral County,NA,NA,NA,-0.19,0.1,NA
+2020-05-21,US,United States,West Virginia,Monongalia County,NA,NA,NA,-0.2,-0.03,-0.16
+2020-05-21,US,United States,West Virginia,Morgan County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Ohio County,NA,NA,NA,-0.08,0.05,-0.34
+2020-05-21,US,United States,West Virginia,Pocahontas County,NA,NA,NA,NA,NA,0.02
+2020-05-21,US,United States,West Virginia,Putnam County,NA,NA,NA,-0.06,-0.07,NA
+2020-05-21,US,United States,West Virginia,Randolph County,NA,NA,NA,0,NA,NA
+2020-05-21,US,United States,West Virginia,Roane County,NA,-0.33,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Taylor County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Tyler County,NA,-0.23,NA,NA,NA,NA
+2020-05-21,US,United States,West Virginia,Wayne County,NA,NA,NA,NA,-0.01,NA
+2020-05-21,US,United States,West Virginia,Wetzel County,NA,NA,NA,-0.16,NA,NA
+2020-05-21,US,United States,West Virginia,Wood County,NA,NA,NA,-0.13,0.04,-0.08
+2020-05-21,US,United States,Wisconsin,Adams County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Barron County,NA,NA,NA,0.14,0.33,NA
+2020-05-21,US,United States,Wisconsin,Brown County,NA,NA,NA,-0.18,0.16,1.97
+2020-05-21,US,United States,Wisconsin,Burnett County,NA,-0.24,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Chippewa County,NA,NA,NA,0.06,0.31,NA
+2020-05-21,US,United States,Wisconsin,Columbia County,NA,NA,NA,0,0.11,NA
+2020-05-21,US,United States,Wisconsin,Dane County,NA,NA,NA,-0.41,0,1.2
+2020-05-21,US,United States,Wisconsin,Door County,NA,NA,NA,0.05,-0.09,NA
+2020-05-21,US,United States,Wisconsin,Dunn County,NA,NA,NA,-0.09,0.18,NA
+2020-05-21,US,United States,Wisconsin,Fond du Lac County,NA,NA,NA,-0.04,0.04,-0.2
+2020-05-21,US,United States,Wisconsin,Grant County,NA,NA,NA,-0.08,0.15,NA
+2020-05-21,US,United States,Wisconsin,Green Lake County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Iron County,NA,-0.28,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Jefferson County,NA,NA,NA,-0.11,0.16,NA
+2020-05-21,US,United States,Wisconsin,Kenosha County,NA,NA,NA,-0.09,-0.03,0.41
+2020-05-21,US,United States,Wisconsin,La Crosse County,NA,NA,NA,-0.18,0.15,0.65
+2020-05-21,US,United States,Wisconsin,Langlade County,NA,NA,NA,0.05,0.18,NA
+2020-05-21,US,United States,Wisconsin,Manitowoc County,NA,NA,NA,-0.03,0.1,-0.14
+2020-05-21,US,United States,Wisconsin,Marinette County,NA,NA,NA,0.04,0.32,NA
+2020-05-21,US,United States,Wisconsin,Milwaukee County,NA,NA,NA,-0.25,-0.04,1.09
+2020-05-21,US,United States,Wisconsin,Oconto County,NA,-0.26,0.08,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Outagamie County,NA,NA,NA,-0.21,0.04,0.73
+2020-05-21,US,United States,Wisconsin,Pepin County,NA,-0.22,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Polk County,NA,NA,NA,0.26,0.21,0.05
+2020-05-21,US,United States,Wisconsin,Price County,NA,-0.27,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Richland County,NA,-0.26,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Rusk County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Wisconsin,Sawyer County,NA,NA,NA,-0.02,0.04,NA
+2020-05-21,US,United States,Wisconsin,Sheboygan County,NA,NA,NA,-0.05,0.1,0.14
+2020-05-21,US,United States,Wisconsin,Taylor County,NA,NA,NA,0.19,NA,NA
+2020-05-21,US,United States,Wisconsin,Vernon County,NA,NA,NA,-0.07,NA,NA
+2020-05-21,US,United States,Wisconsin,Walworth County,NA,NA,NA,0.04,0.18,0.43
+2020-05-21,US,United States,Wisconsin,Washington County,NA,NA,NA,-0.04,0.11,0.58
+2020-05-21,US,United States,Wisconsin,Waupaca County,NA,NA,NA,0.15,0.2,NA
+2020-05-21,US,United States,Wisconsin,Winnebago County,NA,NA,NA,-0.13,0,0.83
+2020-05-21,US,United States,Wyoming,Albany County,NA,NA,NA,-0.07,NA,-0.04
+2020-05-21,US,United States,Wyoming,Campbell County,NA,NA,NA,0.02,0.06,NA
+2020-05-21,US,United States,Wyoming,Converse County,-0.5,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Wyoming,Fremont County,NA,NA,NA,0.03,0.02,NA
+2020-05-21,US,United States,Wyoming,Hot Springs County,NA,NA,NA,NA,NA,-0.49
+2020-05-21,US,United States,Wyoming,Laramie County,NA,NA,NA,-0.05,0.11,1.07
+2020-05-21,US,United States,Wyoming,Natrona County,NA,NA,NA,0.01,0.12,0.48
+2020-05-21,US,United States,Wyoming,Platte County,-0.41,-0.19,NA,NA,NA,NA
+2020-05-21,US,United States,Wyoming,Sublette County,NA,-0.25,NA,NA,NA,NA
+2020-05-21,US,United States,Wyoming,Teton County,NA,NA,NA,-0.46,-0.28,-0.09
+2020-05-21,US,United States,Wyoming,Washakie County,NA,-0.21,NA,NA,NA,NA
