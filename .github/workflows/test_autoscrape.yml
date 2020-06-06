@@ -28,9 +28,9 @@ jobs:
     # Set-up R
     - name: Install pacakges
       run: |
-        R -e 'install.packages("tidyverse")'
-        R -e 'install.packages("pdftools")'
-        R -e 'install.packages("countrycode")'
+        R -e 'install.packages("tidyverse", repos = "https://cloud.r-project.org/")'
+        R -e 'install.packages("pdftools",  repos = "https://cloud.r-project.org/")'
+        R -e 'install.packages("countrycode",  repos = "https://cloud.r-project.org/")'
         
     # Run R script
     - name: Scrape
