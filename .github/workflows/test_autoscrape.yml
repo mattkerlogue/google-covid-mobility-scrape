@@ -22,8 +22,6 @@ jobs:
         ref: test/autoscrape
 
     # Install R
-    steps:
-    - uses: actions/checkout@master
     - uses: r-lib/actions/setup-r@master
       with:
         r-version: '3.6.3'
