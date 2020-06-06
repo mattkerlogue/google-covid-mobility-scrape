@@ -23,7 +23,7 @@ jobs:
 
     # Install R
     - name: Simple brew install of r
-      run: brew install
+      run: brew install r
 
     # Set-up R
     - name: Install pacakges
