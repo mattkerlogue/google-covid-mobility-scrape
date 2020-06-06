@@ -27,11 +27,11 @@ jobs:
 
     # Set-up R
     - name: Install pacakges
-      run: R -e 'source(setupR.R, echo = TRUE)'
+      run: R -e 'source("setupR.R", echo = TRUE)'
         
     # Run R script
     - name: Scrape
-      run: R -e 'source(get_all_data.R, echo = TRUE)'
+      run: R -e 'source("get_all_data.R", echo = TRUE)'
     
     # Save artifacts
     - name: Upload data
