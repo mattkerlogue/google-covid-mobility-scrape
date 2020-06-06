@@ -27,14 +27,11 @@ jobs:
 
     # Set-up R
     - name: Install pacakges
-      run: |
-        R -e 'install.packages("tidyverse", repos = "https://cloud.r-project.org/")'
-        R -e 'install.packages("pdftools",  repos = "https://cloud.r-project.org/")'
-        R -e 'install.packages("countrycode",  repos = "https://cloud.r-project.org/")'
+      run: R -e 'source(setupR.R, echo = TRUE)'
         
     # Run R script
     - name: Scrape
-      run: Rscript get_all_data.R
+      run: R -e 'source(get_all_data.R, echo = TRUE)'
     
     # Save artifacts
     - name: Upload data
