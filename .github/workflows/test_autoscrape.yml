@@ -15,19 +15,25 @@ jobs:
     # The type of runner that the job will run on
     runs-on: macos-latest
 
-    # Load repo and install R
+    # Load repo
     steps:
     - uses: actions/checkout@v2
       with: 
         ref: test/autoscrape
 
     # Install R
-    - name: Simple brew install of r
-      run: brew install r
-
+    steps:
+    - uses: actions/checkout@master
+    - uses: r-lib/actions/setup-r@master
+      with:
+        r-version: '3.6.3'
+    
     # Set-up R
-    - name: Install pacakges
-      run: R -e 'source("setupR.R", echo = TRUE)'
+    - name: Install packges
+      run: |
+        R -e 'install.packages("tidyverse")'
+        R -e 'install.packages("pdftools")'
+        R -e 'install.packages("countrycode")'
         
     # Run R script
     - name: Scrape

@@ -1,7 +1,4 @@
-suppressPackageStartupMessages(library(dplyr))
-suppressPackageStartupMessages(library(stringr))
-suppressPackageStartupMessages(library(tidyr))
-suppressPackageStartupMessages(library(purrr))
+suppressPackageStartupMessages(library(tidyverse))
 source("R/functions.R")
 
 # get time of last data update
