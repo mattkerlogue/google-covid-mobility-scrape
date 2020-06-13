@@ -138,16 +138,18 @@ get_country_list <- function(url = "https://www.google.com/covid19/mobility/") {
   countries <- pageJSON$countries %>%
     select(name, pdfLinks) %>%
     unnest(pdfLinks) %>%
-    mutate(filename = basename(link),
-           date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
-           country = countrycode::countrycode(name, 
-                                              "country.name", 
-                                              "iso2c"),
-           country_name = countrycode::countrycode(country, 
-                                                   "iso2c", 
-                                                   "country.name")) %>%
     filter(lang == "en") %>%
-    select(country, country_name, date, url = link)
+    mutate(
+      links = as.character(links),
+      filename = basename(links),
+      date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
+      country = countrycode::countrycode(name, 
+                                         "country.name", 
+                                         "iso2c"),
+      country_name = countrycode::countrycode(country, 
+                                              "iso2c", 
+                                              "country.name")) %>%
+    select(country, country_name, date, url = links)
   
   # return data
   return(countries)
@@ -174,11 +176,13 @@ get_region_list <- function(url = "https://www.google.com/covid19/mobility/") {
     pull(childRegions) %>%
     pluck(1) %>%
     unnest(pdfLinks) %>%
-    mutate(filename = basename(link),
-           date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
-           country = map_chr(filename, ~strsplit(., "_")[[1]][2])) %>%
     filter(lang == "en") %>%
-    select(country, region = name, date, url = link)
+    mutate(
+      links = as.character(links),
+      filename = basename(links),
+      date = map_chr(filename, ~strsplit(., "_")[[1]][1]),
+      country = map_chr(filename, ~strsplit(., "_")[[1]][2])) %>%
+    select(country, region = name, date, url = links)
   
   # return data
   return(regions)
