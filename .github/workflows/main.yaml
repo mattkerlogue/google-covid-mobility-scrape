@@ -21,8 +21,8 @@ jobs:
     
     # Install R
     - uses: r-lib/actions/setup-r@master
-       with:
-         r-version: '3.6.3'
+      with:
+        r-version: '3.6.3'
 
     # Set-up R
     - name: Install pacakges
