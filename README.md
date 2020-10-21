@@ -2,7 +2,7 @@
 # google-covid-mobility-scrape
 
 <!-- badges: start -->
-![lifecycle: archived](https://img.shields.io/badge/lifecycle-archived-critical)
+[![Repo status: Inactive](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive) [![lapsedgeographer blog post 1](https://img.shields.io/badge/lapsedgeographer-post_1-78e2a0?labelColor=1f222a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAw0lEQVR4Ae3VAQTCQBiG4WEIASDAMECAASBgGAIEgBBCgAGGABCGABBCgCFACCEMQ4BDAAghDOtF4G+pzZ9ie3mAu/sAZzWjoihszJEhQaA9MIVspjmQQZZqDlwh22sOrCAbaQ50EcLgggXsOg8ZHLDBGL0P7rgIkeAE8/pweWu4JWcH2OGpagNEOSLY6GAJWb0B0RZHkP6ArB1oB3404KCPIWKc8S6DGAE8OFaVHmMpZCl8zS8zQo4bJt/6m3141j91B9VY1sFu/yC6AAAAAElFTkSuQmCC)](https://lapsedgeographer.london/2020-04/covid19-scraping/) [![lapsedgeographer blog post 2](https://img.shields.io/badge/lapsedgeographer-post_2-78e2a0?labelColor=1f222a&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAw0lEQVR4Ae3VAQTCQBiG4WEIASDAMECAASBgGAIEgBBCgAGGABCGABBCgCFACCEMQ4BDAAghDOtF4G+pzZ9ie3mAu/sAZzWjoihszJEhQaA9MIVspjmQQZZqDlwh22sOrCAbaQ50EcLgggXsOg8ZHLDBGL0P7rgIkeAE8/pweWu4JWcH2OGpagNEOSLY6GAJWb0B0RZHkP6ArB1oB3404KCPIWKc8S6DGAE8OFaVHmMpZCl8zS8zQo4bJt/6m3141j91B9VY1sFu/yC6AAAAAElFTkSuQmCC)](https://lapsedgeographer.london/2020-04/automating-pdf-scraping/)
 <!-- badges: end -->
 
 This is a repo to scrape the data from Google's [COVID19 community mobility reports](https://www.google.com/covid19/mobility/) using R. This code is released freely under the MIT Licence, it is provided 'as-is'.
